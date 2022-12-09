@@ -1,4 +1,4 @@
-# BSc-Dissertation - A NLP and network science analysis of altered time perception in 21,548 psychoactive substance reports
+A semantic network analysis of altered time perception in 21,548 psychoactive substance reports
 
 Consider these quotes: 
 
