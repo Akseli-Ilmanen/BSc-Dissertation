@@ -1,8 +1,7 @@
 # BSc-Dissertation - Time Perception Co-Occurence Network
 
-Here are some 
+- Here are some 
 
-$$ formulae = + $$
 
 
 
