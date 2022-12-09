@@ -32,7 +32,7 @@ This diagram should explain the main idea of this method. Soon, I will add more 
 
 ![alt text](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Graph1.svg?raw=true)
 
-* This graph was created with Gephi* [^2]
+*This graph was created with Gephi* [^2]
 
 
 ## References
