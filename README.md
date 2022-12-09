@@ -1,4 +1,4 @@
-# BSc-Dissertation - Co-Occurences withins Context Windows (From Erowid)
+# BSc-Dissertation - Co-Occurences withins Context Windows
 
 ![image](https://user-images.githubusercontent.com/107996462/206631309-72456e73-12f9-4370-ac04-d76459e46af0.png)
 
