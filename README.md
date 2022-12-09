@@ -1,4 +1,4 @@
-# BSc-Dissertation - Co-Occurences within a Context Window 
+# BSc-Dissertation - Method: Co-Occurences withins Context Windows
 
 ![alt text](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Graph1.svg?raw=true)
 
