@@ -19,18 +19,22 @@ All the code used for this (ongoing) dissertation is accessible in Jupyter Noteb
 - [ ] Code for co-occurence network (finalising): :arrow_down: for explanation
 - [ ] More stuff!
  
-## Context-window co-occurence network
+## Context-window co-occurence network: Method
 
 This diagram should explain the main idea of this method. Soon, I will add more details about the implementation, and how I created the graph below.  
 
 ![image](https://user-images.githubusercontent.com/107996462/206631309-72456e73-12f9-4370-ac04-d76459e46af0.png)
 
 
-* This graph was created with Gephi* [^2]
+
+## Context-window co-occurence network: Example
+
 
 ![alt text](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Graph1.svg?raw=true)
 
-More of them coming soon!
+* This graph was created with Gephi* [^2]
+
+
 
 
 ## References
