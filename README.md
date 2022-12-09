@@ -1,6 +1,6 @@
 # A semantic network analysis of altered time perception in 21,548 psychoactive substance reports
 
-<img src="[drawing.jpg]"https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/screenshot_204705.png" alt="drawing" width="200"/>
+<img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/screenshot_204705.png" alt="drawing" width="200"/>
 
 <br>
 
