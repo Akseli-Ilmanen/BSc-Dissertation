@@ -1,5 +1,11 @@
 # BSc-Dissertation - Time Perception Co-Occurence Network
 
+Here are some 
+
+$$ formulae = + $$
+
+
+
 Data from Erowid Experience Vault: https://erowid.org/experiences/exp_front.shtml (Erowid and Erowid, 2006).  
 
 See files in respository for data collection & pre-processing steps.
