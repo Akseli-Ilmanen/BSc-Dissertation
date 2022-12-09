@@ -1,7 +1,5 @@
 # A semantic network analysis of altered time perception in 21,548 psychoactive substance reports
-<p align="center">
-  <img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/screenshot_204705.png" alt="drawing" width="300" height="215" />
-</p>
+
 Consider these quotes: 
 > "As to the 'present', well ... perhaps the true line of our perceived travel in time through reality is just going outwards, from the centre of a circle towards     the circumference, on an infinite lollipop candy-like spiral; lines in the spiral all featuring eternities of time itself in various repetitions, and the travel in     reality prime just being a movement from one candy-line of infinite possibilities to the next, along only one given instance of each realised possibility."
  
