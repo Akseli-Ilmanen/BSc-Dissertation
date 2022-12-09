@@ -1,4 +1,4 @@
-# BSc-Dissertation
+# BSc-Dissertation - Co-Occurences within a Context Window 
 
 ![alt text](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Graph1.svg?raw=true)
 
