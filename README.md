@@ -10,6 +10,7 @@ Method of how this was created. More details coming soon:
 
 ![alt text](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Graph1.svg?raw=true)
 
+![image](https://user-images.githubusercontent.com/107996462/206750802-c4489265-e80e-4787-b36e-e3b3c2945b82.png)
 
 
 
