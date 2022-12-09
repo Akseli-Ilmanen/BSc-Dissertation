@@ -21,18 +21,19 @@ All the code used for this (ongoing) dissertation is accessible in Jupyter Noteb
  
 ## Context-window co-occurence network
 
+This diagram should explain the main idea of this method. Soon, I will add more details about the implementation, and how I created the graph below.  
+
 ![image](https://user-images.githubusercontent.com/107996462/206631309-72456e73-12f9-4370-ac04-d76459e46af0.png)
+
 
 ![alt text](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Graph1.svg?raw=true)
 
-![image](https://user-images.githubusercontent.com/107996462/206750802-c4489265-e80e-4787-b36e-e3b3c2945b82.png)
-
-
-
+* This graph was created with Gephi* [^2]
 
 
 
 ## References
 
 [^1]: Erowid E, Erowid F. "The Value of Experience". Erowid Extracts. Jun 2006;10:14-19.
+[^2]: Bastian M., Heymann S., Jacomy M. (2009). Gephi: an open source software for exploring and manipulating networks. International AAAI Conference on Weblogs and Social Media.
 
