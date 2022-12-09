@@ -1,15 +1,15 @@
-# BSc-Dissertation - Co-Occurences withins Context Windows
+# BSc-Dissertation - Time Perception Co-Occurence Network
 
 Data from Erowid Experience Vault: https://erowid.org/experiences/exp_front.shtml (Erowid and Erowid, 2006).  
 
 See files in respository for data collection & pre-processing steps.
 
+Method of how this was created. More details coming soon:
+
 ![image](https://user-images.githubusercontent.com/107996462/206631309-72456e73-12f9-4370-ac04-d76459e46af0.png)
 
 ![alt text](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Graph1.svg?raw=true)
 
-
-More details about this coming soon. 
 
 
 
