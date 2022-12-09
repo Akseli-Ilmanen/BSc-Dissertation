@@ -1,4 +1,4 @@
-A semantic network analysis of altered time perception in 21,548 psychoactive substance reports
+# A semantic network analysis of altered time perception in 21,548 psychoactive substance reports
 
 Consider these quotes: 
 
@@ -6,16 +6,18 @@ Consider these quotes:
 
 > "At one point I asked how long it had been and I received the answer "5 minutes", that was after some eternities."
  
-These are quotes from a psychoactive substance report from the Erowid Experience Vault: https://erowid.org/experiences/exp_front.shtml (Erowid and Erowid, 2006). Within, the total of nearly 40,000 reports, there are ten-to-hundred of thousands mentions of phrases indicative of altered time perception. Let's go explore them!
+These are quotes from a psychoactive substance report from the [Erowid Experience Vault] (https://erowid.org/experiences/exp_front.shtml/) (Erowid and Erowid, 2006). Within, the total of nearly 40,000 reports, there are ten-to-hundred of thousands mentions of phrases indicative of altered time perception. Let's go explore them!
 
 ## Overview
 
 All the code used for this (ongoing) dissertation is accessible in Jupyter Notebook format and supplemented with extensive notes. Feel free to use it. 
 
-- AI_Diss1_erowid_data_collection.ipynb: Web scraping of 38,836 reports, with information about title, substances and url and documentent text. 
-- AI_Diss2_diss_pre-processing1.ipynb: Exclusion of reports and categorizing into psychoactive substances and classes. 
-- AI_Diss2_diss_pre-processing2.ipynb: Tokenization, lemmatization, removal of word types
-- AI_Diss4_Get Time Corpus.ipynb: :arrow_up: for explanation
+- [x] AI_Diss1_erowid_data_collection.ipynb: Web scraping of 38,836 reports, with information about title, substances and url and documentent text. 
+- [x] AI_Diss2_diss_pre-processing1.ipynb: Exclusion of reports and categorizing into psychoactive substances and classes. 
+- [x] AI_Diss2_diss_pre-processing2.ipynb: Tokenization, lemmatization, removal of word types
+- [x] AI_Diss4_Get Time Corpus.ipynb: :arrow_down: for explanation
+- [ ] Code for co-occurence network (finalising): :arrow_down: for explanation
+- [ ] More stuff!
  
 ## Context-window co-occurence network
 
