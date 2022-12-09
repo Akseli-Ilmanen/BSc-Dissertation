@@ -1,6 +1,7 @@
 # A semantic network analysis of altered time perception in 21,548 psychoactive substance reports
-<![image](https://user-images.githubusercontent.com/107996462/206793644-e2e61151-d1e9-4d54-b0cb-2fedc0d0f5c3.png) src="drawing.jpg" alt="drawing", height="100" width="100"/>
+	<img src="[drawing.jpg](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/screenshot_204705.png)" alt="drawing" width="200"/>
 
+<br>
 
 Consider these quotes: 
 
