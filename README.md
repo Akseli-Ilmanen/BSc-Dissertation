@@ -3,12 +3,24 @@
 <p align="right">
   <img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/screenshot_204705.png" alt="drawing" width="400" height="300" />
 </p>
-<p align="left">
-  Consider these quotes: 
-  > "As to the 'present', well ... perhaps the true line of our perceived travel in time through reality is just going outwards, from the centre of a circle towards     the circumference, on an infinite lollipop candy-like spiral; lines in the spiral all featuring eternities of time itself in various repetitions, and the travel in     reality prime just being a movement from one candy-line of infinite possibilities to the next, along only one given instance of each realised possibility."
 
-  > "At one point I asked how long it had been and I received the answer "5 minutes", that was after some eternities."
-</p>
+<!doctype html>
+<html>
+    <head>
+        <title>MD2</title>
+        
+        <link rel="stylesheet" href="stylesheets/normalize.css">
+        <link rel="stylesheet" href="stylesheets/styles.css">
+    </head>
+    <body>
+        <article class='wrapper cf'>{{ content }}</article>
+    </body>
+</html>
+
+Consider these quotes: 
+> "As to the 'present', well ... perhaps the true line of our perceived travel in time through reality is just going outwards, from the centre of a circle towards     the circumference, on an infinite lollipop candy-like spiral; lines in the spiral all featuring eternities of time itself in various repetitions, and the travel in     reality prime just being a movement from one candy-line of infinite possibilities to the next, along only one given instance of each realised possibility."
+ 
+ > "At one point I asked how long it had been and I received the answer "5 minutes", that was after some eternities."
 
 These are quotes from a psychoactive substance report from the [Erowid Experience Vault](https://erowid.org/experiences/exp_front.shtml/).[^1] Within, the total of nearly 40,000 reports, there are ten-to-hundred of thousands mentions of phrases indicative of altered time perception. Let's go explore them!
 
