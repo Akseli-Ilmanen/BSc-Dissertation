@@ -21,6 +21,8 @@ All the code used for this (ongoing) dissertation is accessible in Jupyter Noteb
 ## Context-window co-occurence network: Method
 
 This diagram should explain the main idea of this method. Soon, I will add more details about the implementation, and how I created the graph below.  
+
+
 <br />
 
 ![image](https://user-images.githubusercontent.com/107996462/206631309-72456e73-12f9-4370-ac04-d76459e46af0.png)
@@ -29,11 +31,11 @@ This diagram should explain the main idea of this method. Soon, I will add more 
 
 ## Context-window co-occurence network: Example
 
+Below is a co-occurence network with seed words determining the colour. For an interactive similar version, click [here](https://akseli-ilmanen.github.io/Online-Gephi-Test/network). The clustering algorithm applied is similar but there nodes and edges are coloured not by seed word but by their local cluster.
+
 ![alt text](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Graph1.svg?raw=true)
 
-This graph was created with Gephi [^2]
-
-To explore an interactive similar version, click [here](https://akseli-ilmanen.github.io/Online-Gephi-Test/network). The clustering algorithm applied is similar but there nodes and edges are coloured not by seed word but by their local cluster.
+*This graph was created with Gephi* [^2]
 
 
 
