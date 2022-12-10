@@ -33,7 +33,7 @@ This diagram should explain the main idea of this method. Soon, I will add more 
 
 This graph was created with Gephi [^2]
 
-To explore an interactive version, click [here](https://akseli-ilmanen.github.io/Online-Gephi-Test/network). The clustering algorithm applied is similar but here nodes and edges are coloured not by seed word but by their local cluster.
+To explore an interactive similar version, click [here](https://akseli-ilmanen.github.io/Online-Gephi-Test/network). The clustering algorithm applied is similar but there nodes and edges are coloured not by seed word but by their local cluster.
 
 
 
