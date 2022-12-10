@@ -31,7 +31,10 @@ This diagram should explain the main idea of this method. Soon, I will add more 
 
 ![alt text](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Graph1.svg?raw=true)
 
-*This graph was created with Gephi* [^2]
+This graph was created with Gephi [^2]
+
+To explore an interactive version, click here. The clustering algorithm applied is similar but here nodes and edges are coloured not by seed word but by their local cluster.
+
 
 
 ## References
