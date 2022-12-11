@@ -11,10 +11,10 @@ These are quotes from a psychoactive substance report from the [Erowid Experienc
 
 All the code used for this (ongoing) dissertation is accessible in Jupyter Notebook format and supplemented with extensive notes. Feel free to use it. 
 
-- [x] AI_Diss1_erowid_data_collection.ipynb: Web scraping of 38,836 reports, with information about title, substances and url and documentent text. #739
-- [x] #739 AI_Diss2_diss_pre-processing1.ipynb: Exclusion of reports and categorizing into psychoactive substances and classes. 
-- [x] #739 AI_Diss2_diss_pre-processing2.ipynb: Tokenization, lemmatization, removal of word types
-- [x] #739 AI_Diss4_Get Time Corpus.ipynb: :arrow_down: for explanation
+- [x] AI_Diss1_erowid_data_collection.ipynb: Web scraping of 38,836 reports, with information about title, substances and url and documentent text.
+- [x] AI_Diss2_diss_pre-processing1.ipynb: Exclusion of reports and categorizing into psychoactive substances and classes. 
+- [x] AI_Diss2_diss_pre-processing2.ipynb: Tokenization, lemmatization, removal of word types
+- [x] AI_Diss4_Get Time Corpus.ipynb: :arrow_down: for explanation
 - [ ] Code for co-occurence network (finalising): :arrow_down: for explanation
 - [ ] More stuff!
  
