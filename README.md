@@ -42,7 +42,7 @@ Below is a co-occurence network with seed words determining the colour. For an i
 
 The graph above consists of XXXXX nodges XXXXX edges. This is a subset of all the possible XXXXX nodges XXXXX edges. To create the smaller and more meaningful graph, edges were filtered based of the following criteria: 
 
-#### Step 1: Excluding types of words
+#### Step 1: Excluding edges
  1) All self-connections - ['perception', 'perception']
  2) All edges (word pairs) including a non-noun. - ['feel', 'heart']
  3) All edges including a seed word  - ['time', 'moment']
@@ -50,7 +50,7 @@ The graph above consists of XXXXX nodges XXXXX edges. This is a subset of all th
 
 #### Step 2: Relative frequency - centrality trade off
 
- $$ w^'= (rf<sub>1<sub> x rf<sub>1<sub>) $$
+ $$w^'= (rf<sub>1<sub> x rf<sub>1<sub>)$$
 
 
 
