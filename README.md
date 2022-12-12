@@ -56,7 +56,7 @@ Equation 1 and 2 are used to determine which edges to exclude.
 
 2) Equation 1:
 
-![image](https://user-images.githubusercontent.com/107996462/207106155-9566dca9-d33b-446d-8741-a7946cae4345.png)
+![image](https://user-images.githubusercontent.com/107996462/207115362-688e18b2-906e-4b3b-a817-2da0d36497ad.png)
 
 This is a [sigmoid function](https://en.wikipedia.org/wiki/Sigmoid_function) passing through the origin. 
 <br />
