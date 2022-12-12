@@ -65,13 +65,13 @@ Equation 2:
 $w^{'}$ and $w$ are the updated and original edge weight. $deg_{n}$, $bc_{n}$ and $rf_{n}$ refer to the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)), [betweeness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality), and relative frequency of $node_{n}$. The relative frequency $rf_{n}$ is the fraction of a word's frequency in all the context windows compared to the entire corpus. 
 <br />
 
-Using [min-max normalization](https://en.wikipedia.org/wiki/Feature_scaling) $w$, $deg_{n}$, $bc_{n}$ and $rf_{n}$ were set to between [0,1]. 
+Using [min-max normalization](https://en.wikipedia.org/wiki/Feature_scaling), $w$, $deg_{n}$, $bc_{n}$ and $rf_{n}$ were set to between [0,1]. 
 
 Edges were excluded by a threshold for their updated weight $w^{'}$.
 
 ### Motivation for equations
 
-The left part of equation 2 captures classical methods to filter edges. The problem (see also here[^3]) is that because of the heavy-tailed distribution of absolute word frequencies in the Erowid corpus, words with high weights, degree and betweeen cenetrality tend to be frequent words. Therefore, if we filter by the classical methods, we won't capture words that are significant to the phenomenology of time perception but rare overall. Similar to [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf), the relative word frequency factor weights up words used more frequently in the time perception contexts. 
+The left part of equation 2 captures classical methods to filter edges. The problem (see also here[^3]) is that because of the heavy-tailed distribution of absolute word frequencies in the Erowid corpus, words with high weights, degree and betweeen cenetrality tend to be frequent words. Therefore, if we filter by the classical methods, we won't capture rare words that are relevant to the phenomenology of time perception. Similar to [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf), the relative word frequency factor weights up words used more frequently in the time perception contexts. 
 
 The sigmoid function $S(x)$ (equation 1) is applied to all the left factors in equation 2, so that rare words with relatively high weights, degree, and betweeness centrality are upweighted. Frequent words with high 
 
