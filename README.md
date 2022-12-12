@@ -58,7 +58,7 @@ This is a [sigmoid function](https://en.wikipedia.org/wiki/Sigmoid_function) pas
 
 Equation 2: 
 
-![image](https://user-images.githubusercontent.com/107996462/207158573-7cfecfa9-a7af-4990-89c6-94a3a117b031.png)
+![image](https://user-images.githubusercontent.com/107996462/207158880-bdb99339-6c57-49e0-88f7-370f7dafdede.png)
 
 $w^{'}$ and $w$ are the updated and original edge weight. $deg_{n}$, $bc_{n}$ and $rf_{n}$ refer to the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)), [betweeness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality), and relative frequency of $node_{n}$. The relative frequency $rf_{n}$ is the fraction of a word's frequency in all the context windows compared to the entire corpus. 
 <br />
