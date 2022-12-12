@@ -43,7 +43,7 @@ The graph above consists of XXXXX nodges XXXXX edges. This is a subset of all th
  1) All self-connections - ['perception', 'perception']
  2) All edges (word pairs) including a non-noun. - ['feel', 'heart']
  3) All edges including a seed word  - ['time', 'moment']
- 4) All edges including a word not in the Concreteness_ratings_Brysbaert Corpus[^3] ['looong', 'moment'] - see later!
+ 4) All edges including a word not in the Concreteness_ratings_Brysbaert Corpus[^3] ['looong', 'moment']
 
 ### Step 2: Excluding edges based of relative frequency
 
@@ -51,19 +51,19 @@ Equation 1 and 2 are used to determine which edges to exclude.
 
 Equation 1:
 
-![image](https://user-images.githubusercontent.com/107996462/207121304-092a22ca-ec11-4cba-a02f-20f90da56c2c.png)
+![image](https://user-images.githubusercontent.com/107996462/207158586-9453d4ba-f2fd-465b-ae0e-d1c58579c49a.png)
 
 This is a [sigmoid function](https://en.wikipedia.org/wiki/Sigmoid_function) passing through the origin. 
 <br />
 
 Equation 2: 
 
-![image](https://user-images.githubusercontent.com/107996462/207125627-2abe237b-f793-43f5-a5d6-3be44928204e.png)
+![image](https://user-images.githubusercontent.com/107996462/207158573-7cfecfa9-a7af-4990-89c6-94a3a117b031.png)
 
 $w^{'}$ and $w$ are the updated and original edge weight. $deg_{n}$, $bc_{n}$ and $rf_{n}$ refer to the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)), [betweeness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality), and relative frequency of $node_{n}$. The relative frequency $rf_{n}$ is the fraction of a word's frequency in all the context windows compared to the entire corpus. 
 <br />
 
-Using [min-max normalization](https://en.wikipedia.org/wiki/Feature_scaling), $w$, $deg_{n}$, $bc_{n}$ and $rf_{n}$ were set to between [0,1]. 
+Using [min-max normalization](https://en.wikipedia.org/wiki/Feature_scaling), $w$, $deg_{n}$, $bc_{n}$ and $rf_{n}$ were set to between [1,2]. 
 
 Edges were excluded by a threshold for their updated weight $w^{'}$.
 
@@ -78,6 +78,7 @@ The sigmoid function $S(x)$ (equation 1) is applied to all the left factors in e
 In equation 1 and 2, there are also hyperparameters $k$ and $α$. $k$ controls the extent to which the weights, degree, and betweeness centrality of rare words are upweighted. $α$ determines how many rare time perception context words are included. These tend to be words at the very end of the tail of the heavy-tailed distribution, often having a weight and degree of 1. In theory, one could also add hyperparameters controlling the weighting of weights, degree and betweeness centrality individually.
 
 Below are two graphs comparing hyperparameter values:
+- coming soon
 
 
 
