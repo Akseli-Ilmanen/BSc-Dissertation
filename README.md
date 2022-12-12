@@ -57,6 +57,8 @@ Equation 1 and 2 are used to determine which edges to exclude.
 2) Equation 1:
 $$S(x) = \frac{1}{1 + e^{-kx}} - 0.5$$
 
+This is a [sigmoid function](https://en.wikipedia.org/wiki/Sigmoid_function) passing through the origin. 
+
 3) Equation 2: 
 $$w^{'} = S(w) * S(deg_{1}) * S(deg_{2}) * S(bc_{1}) * S(bc_{2}) * (rf_{1} * rf_{2})^{1/a}$$
 
