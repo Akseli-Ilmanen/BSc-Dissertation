@@ -38,30 +38,28 @@ Below is a co-occurence network with seed words determining the colour. For an i
 *This graph was created with Gephi* [^2]
 
 
-## Edge filtering problem[^3]: Method 
+## Edge filtering problem[^3] 
 
-The graph above consists of XXXXX nodges XXXXX edges. This is a subset of all the possible XXXXX nodges XXXXX edges. To create the smaller and more meaningful graph, edges were filtered based of the following criteria: 
+The graph above consists of XXXXX nodges XXXXX edges. This is a subset of all the possible XXXXX nodges XXXXX edges. To create the smaller and more meaningful graph, edges were filtered following step 1 and 2. 
 
-### Step 1: Excluding edges
+### Step 1: Excluding edges based of word types
  1) All self-connections - ['perception', 'perception']
  2) All edges (word pairs) including a non-noun. - ['feel', 'heart']
  3) All edges including a seed word  - ['time', 'moment']
  4) All edges including a word not in the Concreteness_ratings_Brysbaert Corpus[^4] ['looong', 'moment'] - see later!
 
-### Step 2: Relative frequency - centrality trade off
+### Step 2: Excluding edges based of relative frequency
 
-Equation 1 and 2 are used to determine which edges to exclude. 
+Equation 1 and 2 are used to determine which edges to exclude.
 
-1) Using min-max normalization, weights, degree, betweeness centrality and relative frequency were all between [0, 1].
+Equation 1:
 
-2) Equation 1:
-
-![image](https://user-images.githubusercontent.com/107996462/207115362-688e18b2-906e-4b3b-a817-2da0d36497ad.png)
+![image](https://user-images.githubusercontent.com/107996462/207115745-c62342d1-fd99-40d5-9e39-7523c9d28dd4.png)
 
 This is a [sigmoid function](https://en.wikipedia.org/wiki/Sigmoid_function) passing through the origin. 
 <br />
 
-3) Equation 2: 
+Equation 2: 
 
 ![image](https://user-images.githubusercontent.com/107996462/207112040-ee073702-7ccc-4144-a598-818770aa24e0.png)
 
@@ -70,7 +68,7 @@ $w^{'}$ and $w$ are the updated and original edge weight. $deg_{n}$, $bc_{n}$ an
 
 Using [min-max normalization](https://en.wikipedia.org/wiki/Feature_scaling) $w$, $deg_{n}$, $bc_{n}$ and $rf_{n}$ were set to between [0,1]. 
 
-4) Exclude edges by the threshold for their updated weight $w^{'}$.
+Edges were excluded by a threshold for their updated weight $w^{'}$.
 
 ### Motivation for equations
 
@@ -82,7 +80,10 @@ The sigmoid function $S(x)$ (equation 1) is applied to all the left factors in e
 
 In equation 1 and 2, there are also hyperparameters $k$ and $α$. $k$ controls the extent to which the weights, degree, and betweeness centrality of rare words are upweighted. $α$ determines how many rare time perception context words are included. These tend to be words at the very end of the tail of the heavy-tailed distribution, often having a weight and degree of 1. 
 
-The following graph illustrates the influence of hyperparameters:
+Below are two graphs comparing hyperparameter values:
+
+
+
 
 
 
