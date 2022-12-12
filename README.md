@@ -62,7 +62,7 @@ Equation 2:
 
 ![image](https://user-images.githubusercontent.com/107996462/207122089-6cd26d91-7928-42c2-929a-c7ceed003aa0.png)
 
-$w^{'}$ and $w$ are the updated and original edge weight. $deg_{n}$, $bc_{n}$ and $rf_{n}$ refer to the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)), [betweeness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality), and relative frequency of node_{n}. The relative frequency $rf$ is the fraction of a word's frequency in all the context windows compared to the entire corpus.
+$w^{'}$ and $w$ are the updated and original edge weight. $deg_{n}$, $bc_{n}$ and $rf_{n}$ refer to the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)), [betweeness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality), and relative frequency of $node_{n}$. The relative frequency $rf_{n}$ is the fraction of a word's frequency in all the context windows compared to the entire corpus. 
 <br />
 
 Using [min-max normalization](https://en.wikipedia.org/wiki/Feature_scaling) $w$, $deg_{n}$, $bc_{n}$ and $rf_{n}$ were set to between [0,1]. 
