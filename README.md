@@ -56,14 +56,14 @@ Equation 1 and 2 are used to determine which edges to exclude.
 
 2) Equation 1:
 
-![image](https://user-images.githubusercontent.com/107996462/207104435-68ba5c56-4fa7-43bf-a650-68ba360ee5c5.png)
+![image](https://user-images.githubusercontent.com/107996462/207106155-9566dca9-d33b-446d-8741-a7946cae4345.png)
 
 This is a [sigmoid function](https://en.wikipedia.org/wiki/Sigmoid_function) passing through the origin. 
 <br />
 
 3) Equation 2: 
 
-![image](https://user-images.githubusercontent.com/107996462/207105810-f50a2927-a44e-4096-b602-62cab6a3ea43.png)
+![image](https://user-images.githubusercontent.com/107996462/207106251-10f2ea2b-c848-4518-b748-9e00d1adb872.png)
 
 $w^{'}$ and $w$ are the updated and original edge weight.$bc_{n}$ and $deg_{n}$ and $(rf_{n}$ refer to the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)), [betweeness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality), and relative frequency of node_{n}. The relative frequency $rf$ is the fraction of a word's frequency in all the context windows compared to the entire corpus. $rf$ is similar to [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf).
 <br />
