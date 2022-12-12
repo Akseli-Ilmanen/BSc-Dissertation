@@ -78,7 +78,7 @@ The sigmoid function $S(x)$ (equation 1) is applied to all the left factors in e
 
 ### Hyperparameters
 
-In equation 1 and 2, there are also hyperparameters $k$ and $α$. $k$ controls the extent to which the weights, degree, and betweeness centrality of rare words are upweighted. $α$ determines how many rare time perception context words are included. These tend to be words at the very end of the tail of the heavy-tailed distribution, often having a weight and degree of 1. 
+In equation 1 and 2, there are also hyperparameters $k$ and $α$. $k$ controls the extent to which the weights, degree, and betweeness centrality of rare words are upweighted. $α$ determines how many rare time perception context words are included. These tend to be words at the very end of the tail of the heavy-tailed distribution, often having a weight and degree of 1. In theory, one could also add hyperparameters controlling the weighting of weights, degree and betweeness centrality individually.
 
 Below are two graphs comparing hyperparameter values:
 
