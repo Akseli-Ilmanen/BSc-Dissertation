@@ -55,20 +55,20 @@ Equation 1 and 2 are used to determine which edges to exclude.
 1) Using min-max normalization, weights, degree, betweeness centrality and relative frequency were all between [0, 1].
 
 2) Equation 1:
-$$S(x) = \frac{1}{1 + e^{-kx}} - 0.5$$
+![image](https://user-images.githubusercontent.com/107996462/207104435-68ba5c56-4fa7-43bf-a650-68ba360ee5c5.png)
 
 This is a [sigmoid function](https://en.wikipedia.org/wiki/Sigmoid_function) passing through the origin. 
-<br>
+<br />
 
 3) Equation 2: 
 $$w^{'} = S(w) * S(deg_{1}) * S(deg_{2}) * S(bc_{1}) * S(bc_{2}) * (rf_{1} * rf_{2})^{1/a}$$
 
 $w^{'}$ and $w$ are the updated and original edge weight.$bc_{n}$ and $deg_{n}$ and $(rf_{n}$ refer to the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)), [betweeness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality), and relative frequency of node_{n}. The relative frequency $rf$ is the fraction of a word's frequency in all the context windows compared to the entire corpus. $rf$ is similar to [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf).
-<br>
+<br />
 
 4) Exclude edges by the threshold for their updated weight $w^{'}$.
 
-
+The 
 
 
 
