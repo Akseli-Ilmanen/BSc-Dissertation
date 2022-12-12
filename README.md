@@ -38,9 +38,28 @@ Below is a co-occurence network with seed words determining the colour. For an i
 *This graph was created with Gephi* [^2]
 
 
+## Link (edge) filtering problem[^3]
+
+The graph above consists of XXXXX nodges XXXXX edges. This is a subset of all the possible XXXXX nodges XXXXX edges. To create the smaller and more meaningful graph, edges were filtered based of the following criteria: 
+
+#### Step 1: Excluding types of words
+ 1) All self-connections - ['perception', 'perception']
+ 2) All edges (word pairs) including a non-noun. - ['feel', 'heart']
+ 3) All edges including a seed word  - ['time', 'moment']
+ 4) All edges including a word not in the Concreteness_ratings_Brysbaert Corpus[^4] ['looong', 'moment']
+
+#### Step 2: Relative frequency - centrality trade off
+
+ $$ w^'= (rf<sub>1<sub> x rf<sub>1<sub>) $$
+
+
 
 ## References
 
 [^1]: Erowid E, Erowid F. "The Value of Experience". Erowid Extracts. Jun 2006;10:14-19.
 [^2]: Bastian M., Heymann S., Jacomy M. (2009). Gephi: an open source software for exploring and manipulating networks. International AAAI Conference on Weblogs and Social Media.
+[^3]: Menczer, F., Fortunato, S. and Davis, C.A., 2020. A First Course in Network Science. Higher Education from Cambridge University Press [Online]. Cambridge University Press. Available from: https://doi.org/10.1017/9781108653947 [Accessed 12 December 2022].
+[^4]: Brysbaert, M., Warriner, A.B. and Kuperman, V., 2014. Concreteness ratings for 40 thousand generally known English word lemmas. Behavior Research Methods [Online], 46(3), pp.904–911. Available from: https://doi.org/10.3758/s13428-013-0403-5.
+
+
 
