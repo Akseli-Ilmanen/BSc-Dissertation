@@ -50,13 +50,15 @@ The graph above consists of XXXXX nodges XXXXX edges. This is a subset of all th
 
 #### Step 2: Relative frequency - centrality trade off
 
+Equation 1 and 2 are used to determine which edges to exclude. 
+
 Equation 1:
 $$S(x) = \frac{1}{1 + e^{-kx}} - 0.5$$
 
 Equation 2: 
-$$w^{'} = (rf_{1} * rf_{2})^{1/a} * S(w) * S(deg_{1}) * S(deg_{2}) * S(bc_{1}) * S(bc_{2})$$
+$$w^{'} = S(w) * S(deg_{1}) * S(deg_{2}) * S(bc_{1}) * S(bc_{2}) * (rf_{1} * rf_{2})^{1/a}$$
 
-
+$w^{'}$ and $w$ are the updated and original edge weight. $bc_{n}$, $deg_{n}$ and $(rf_{n}$ refer to the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)), [betweeness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality), and relative frequency of node_{n}. The relative frequency $rf$ is the $\frac{word frequency in time corpus}{word frequency in time corpus}$. Time corpus refers to all the context words of the time perception seed words. 
 
 
 
