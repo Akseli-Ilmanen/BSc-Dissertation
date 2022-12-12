@@ -20,8 +20,7 @@ All the code used for this (ongoing) dissertation is accessible in Jupyter Noteb
  
 ## Context-window co-occurence network: Method
 
-This diagram should explain the main idea of this method. Soon, I will add more details about the implementation, and how I created the graph below.  
-
+This diagram explain the main idea of this method briefly.
 
 <br />
 
@@ -54,14 +53,14 @@ Equation 1 and 2 are used to determine which edges to exclude.
 
 Equation 1:
 
-![image](https://user-images.githubusercontent.com/107996462/207115745-c62342d1-fd99-40d5-9e39-7523c9d28dd4.png)
+![image](https://user-images.githubusercontent.com/107996462/207121304-092a22ca-ec11-4cba-a02f-20f90da56c2c.png)
 
 This is a [sigmoid function](https://en.wikipedia.org/wiki/Sigmoid_function) passing through the origin. 
 <br />
 
 Equation 2: 
 
-![image](https://user-images.githubusercontent.com/107996462/207112040-ee073702-7ccc-4144-a598-818770aa24e0.png)
+![image](https://user-images.githubusercontent.com/107996462/207115745-c62342d1-fd99-40d5-9e39-7523c9d28dd4.png)
 
 $w^{'}$ and $w$ are the updated and original edge weight. $deg_{n}$, $bc_{n}$ and $rf_{n}$ refer to the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)), [betweeness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality), and relative frequency of node_{n}. The relative frequency $rf$ is the fraction of a word's frequency in all the context windows compared to the entire corpus.
 <br />
