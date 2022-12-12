@@ -54,7 +54,7 @@ Equation 1:
 $$S(x) = 1/(1 + e^{-kx}) - 0.5$$
 
 Equation 2: 
- $$w^'= nrt{(rf_{1} x rf_{2})} x S(w) x (S(deg_{1} x S(deg_{2}) x (S(bc_{1} x S(bc_{2})$$
+ $$w^'= nrt{(rf_{1} x rf_{2})} x S(w) x (S(deg_{1}) x S(deg_{2})) x (S(bc_{1}) x S(bc_{2}))$$
 
 
 
