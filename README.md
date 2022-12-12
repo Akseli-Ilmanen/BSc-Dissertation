@@ -61,7 +61,7 @@ This is a [sigmoid function](https://en.wikipedia.org/wiki/Sigmoid_function) pas
 <br />
 
 3) Equation 2: 
-$$w^{'} = S(w) * S(deg_{1}) * S(deg_{2}) * S(bc_{1}) * S(bc_{2}) * (rf_{1} * rf_{2})^{1/a}$$
+![image](https://user-images.githubusercontent.com/107996462/207105810-f50a2927-a44e-4096-b602-62cab6a3ea43.png)
 
 $w^{'}$ and $w$ are the updated and original edge weight.$bc_{n}$ and $deg_{n}$ and $(rf_{n}$ refer to the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)), [betweeness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality), and relative frequency of node_{n}. The relative frequency $rf$ is the fraction of a word's frequency in all the context windows compared to the entire corpus. $rf$ is similar to [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf).
 <br />
