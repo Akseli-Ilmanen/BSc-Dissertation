@@ -51,13 +51,12 @@ The graph above consists of XXXXX nodges XXXXX edges. This is a subset of all th
 #### Step 2: Relative frequency - centrality trade off
 
 Equation 1:
-$$S(x) = 1/(1 + e^-kx) - 0.5$$
-
-
-Equation 2: 
- $$w^'= (rf_{1} x rf_{2}) x S(x) 
+$$S(x) = 1/(1 + e^{-kx}) - 0.5$$
 
 Equation 2: 
+ $$w^'= (rf_{1} x rf_{2})^{1/a} x S(w) x (S(deg_{1) x S(deg_{2)) x (S(bc_{1) x S(bc_{2))$$
+
+
 
 
 
