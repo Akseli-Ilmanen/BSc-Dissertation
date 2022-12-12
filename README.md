@@ -34,10 +34,8 @@ Below is a co-occurence network with seed words determining the colour. For an i
 
 ![alt text](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Graph1.svg?raw=true)
 
-*This graph was created with Gephi* [^2]
 
-
-## Edge filtering problem[^3] 
+## Edge filtering problem[^2] 
 
 The graph above consists of XXXXX nodges XXXXX edges. This is a subset of all the possible XXXXX nodges XXXXX edges. To create the smaller and more meaningful graph, edges were filtered following step 1 and 2. 
 
@@ -45,7 +43,7 @@ The graph above consists of XXXXX nodges XXXXX edges. This is a subset of all th
  1) All self-connections - ['perception', 'perception']
  2) All edges (word pairs) including a non-noun. - ['feel', 'heart']
  3) All edges including a seed word  - ['time', 'moment']
- 4) All edges including a word not in the Concreteness_ratings_Brysbaert Corpus[^4] ['looong', 'moment'] - see later!
+ 4) All edges including a word not in the Concreteness_ratings_Brysbaert Corpus[^3] ['looong', 'moment'] - see later!
 
 ### Step 2: Excluding edges based of relative frequency
 
@@ -71,7 +69,7 @@ Edges were excluded by a threshold for their updated weight $w^{'}$.
 
 ### Motivation for equations
 
-The left part of equation 2 captures classical methods to filter edges. The problem (see also here[^3]) is that because of the heavy-tailed distribution of absolute word frequencies in the Erowid corpus, words with high weights, degree and betweeen cenetrality tend to be frequent words. Therefore, if we filter by the classical methods, we won't capture rare words that are relevant to the phenomenology of time perception. Similar to [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf), the relative word frequency factor weights up words used more frequently in the time perception contexts. 
+The left part of equation 2 captures classical methods to filter edges. The problem (see also here[^2]) is that because of the heavy-tailed distribution of absolute word frequencies in the Erowid corpus, words with high weights, degree and betweeen cenetrality tend to be frequent words. Therefore, if we filter by the classical methods, we won't capture rare words that are relevant to the phenomenology of time perception. Similar to [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf), the relative word frequency factor weights up words used more frequently in the time perception contexts. 
 
 The sigmoid function $S(x)$ (equation 1) is applied to all the left factors in equation 2, so that rare words with relatively high weights, degree, and betweeness centrality are upweighted.
 
@@ -83,16 +81,12 @@ Below are two graphs comparing hyperparameter values:
 
 
 
-
-
-
-
 ## References
 
 [^1]: Erowid E, Erowid F. "The Value of Experience". Erowid Extracts. Jun 2006;10:14-19.
-[^2]: Bastian M., Heymann S., Jacomy M. (2009). Gephi: an open source software for exploring and manipulating networks. International AAAI Conference on Weblogs and Social Media.
-[^3]: Menczer, F., Fortunato, S. and Davis, C.A., 2020. A First Course in Network Science. Higher Education from Cambridge University Press [Online]. Cambridge University Press. Available from: https://doi.org/10.1017/9781108653947 [Accessed 12 December 2022].
-[^4]: See pp.109 in Brysbaert, M., Warriner, A.B. and Kuperman, V., 2014. Concreteness ratings for 40 thousand generally known English word lemmas. Behavior Research Methods [Online], 46(3), pp.904–911. Available from: https://doi.org/10.3758/s13428-013-0403-5.
-
+[^2]: Menczer, F., Fortunato, S. and Davis, C.A., 2020. A First Course in Network Science. Higher Education from Cambridge University Press [Online]. Cambridge University Press. Available from: https://doi.org/10.1017/9781108653947 [Accessed 12 December 2022].
+[^3]: See pp.109 in Brysbaert, M., Warriner, A.B. and Kuperman, V., 2014. Concreteness ratings for 40 thousand generally known English word lemmas. Behavior Research Methods [Online], 46(3), pp.904–911. Available from: https://doi.org/10.3758/s13428-013-0403-5.
+[^4]: Bastian M., Heymann S., Jacomy M. (2009). Gephi: an open source software for exploring and manipulating networks. International AAAI Conference on Weblogs and Social Media.
+[^5]: Vincent D Blondel, Jean-Loup Guillaume, Renaud Lambiotte, Etienne Lefebvre, Fast unfolding of communities in large networks, in Journal of Statistical Mechanics: Theory and Experiment 2008 (10), P1000
 
 
