@@ -75,9 +75,6 @@ For intution, below are the top 15 values for $w$, $deg_{n}$, $bc_{n}$ and $rf_{
 
 ![image](https://user-images.githubusercontent.com/107996462/207424055-2309978b-7c9e-4e3e-9fcb-dd3c285e7094.png)
 
-
-![image](https://user-images.githubusercontent.com/107996462/207423574-f6705bda-dc80-42fc-8a55-fa91c79fdeac.png)
-
 The sigmoid function $S(x)$ (equation 1) is applied to all the left factors in equation 2, so that rare words with relatively high weights, degree, and betweeness centrality are upweighted.
 
 ### Hyperparameters
