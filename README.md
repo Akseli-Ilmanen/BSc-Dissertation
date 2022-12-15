@@ -24,9 +24,7 @@ This diagram explain the main idea of this method briefly.
 
 <br />
 
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/All_Classes_th1%3D500_th2%3D1000_weights%3Dyes_.svg)
-
-![image](https://user-images.githubusercontent.com/107996462/207780649-8a6e5feb-7ece-47ef-a606-95caf77fab72.png)
+![image](https://user-images.githubusercontent.com/107996462/207780805-37ac0f2a-c52e-4607-b775-ca9e181e3d57.png)
 
 <br />
 
@@ -34,8 +32,9 @@ This diagram explain the main idea of this method briefly.
 
 Below is a co-occurence network with seed words determining the colour. For an interactive similar version, click [here](https://akseli-ilmanen.github.io/Online-Gephi-Test/network). The clustering algorithm applied is similar but there nodes and edges are coloured not by seed word but by their local cluster.
 
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/All_Classes_th1%3D500_th2%3D1000_weights%3Dyes_.svg)
 
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/Network%20with%20gradient%20provisionary.jpeg)
+![image](https://user-images.githubusercontent.com/107996462/207780649-8a6e5feb-7ece-47ef-a606-95caf77fab72.png)
 
 ## Edge filtering problem[^2] 
 
