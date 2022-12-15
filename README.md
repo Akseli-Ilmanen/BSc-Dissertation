@@ -34,7 +34,6 @@ Below is a co-occurence network with seed words determining the colour. For an i
 
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/All_Classes_th1%3D500_th2%3D1000_weights%3Dyes_.svg)
 
-<br />
 ![image](https://user-images.githubusercontent.com/107996462/207780649-8a6e5feb-7ece-47ef-a606-95caf77fab72.png)
 
 These graphs are created in Gephi[^4].
@@ -48,7 +47,8 @@ The graph above consists of 799 nodges 9,288 edges. This is a subset of all the 
  3) All edges including a seed word  - ['time', 'moment']
  4) All edges including a word not in the Concreteness_ratings_Brysbaert Corpus[^3] ['looong', 'moment']
 
-### Step 2: Excluding edges based of relative frequency and betweeness centrality
+### Step 2: Excluding edges based of relative frequency and [betweeness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality)![image](https://user-images.githubusercontent.com/107996462/207782381-ec67d186-e193-45d5-8fae-2e7b19694785.png)
+
 More details coming soon!
 
 
