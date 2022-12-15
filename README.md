@@ -34,6 +34,7 @@ Below is a co-occurence network with seed words determining the colour. For an i
 
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/All_Classes_th1%3D500_th2%3D1000_weights%3Dyes_.svg)
 
+<br />
 ![image](https://user-images.githubusercontent.com/107996462/207780649-8a6e5feb-7ece-47ef-a606-95caf77fab72.png)
 
 These graphs are created in Gephi[^4].
