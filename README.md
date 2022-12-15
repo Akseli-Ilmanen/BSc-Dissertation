@@ -40,7 +40,7 @@ These graphs are created in Gephi[^4], using the modularity clustering algorithm
 
 ## Edge filtering problem[^2] 
 
-The graph above consists of 799 nodges 9,288 edges. This is a subset of all the possible 13,870 nodges 1,091,046 edges. To create the smaller and more meaningful graph, edges were filtered following step 1 and 2. 
+The graph above consists of 799 nodges 9,288 edges. This is a subset of all the possible 13,870 nodges 1,091,046 edges that were collected using the method above (context window = 4). To create the smaller and more meaningful graph, edges were filtered following step 1 and 2. 
 
 ### Step 1: Excluding edges based of word types
  1) All self-connections - ['perception', 'perception']
