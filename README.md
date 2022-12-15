@@ -24,7 +24,9 @@ This diagram explain the main idea of this method briefly.
 
 <br />
 
-![image](https://user-images.githubusercontent.com/107996462/206631309-72456e73-12f9-4370-ac04-d76459e46af0.png)
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/All_Classes_th1%3D500_th2%3D1000_weights%3Dyes_.svg)
+
+![image](https://user-images.githubusercontent.com/107996462/207780398-91421280-b7ff-4f1c-aebc-42a91517ca77.png)
 
 <br />
 
