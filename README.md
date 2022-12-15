@@ -33,7 +33,7 @@ This diagram explain the main idea of this method briefly.
 Below is a co-occurence network with seed words determining the colour. For an interactive similar version, click [here](https://akseli-ilmanen.github.io/Online-Gephi-Test/network). The clustering algorithm applied is similar but there nodes and edges are coloured not by seed word but by their local cluster.
 
 
-
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/Network%20with%20gradient%20provisionary.jpeg)
 
 ## Edge filtering problem[^2] 
 
