@@ -36,6 +36,8 @@ Below is a co-occurence network with seed words determining the colour. For an i
 
 ![image](https://user-images.githubusercontent.com/107996462/207780649-8a6e5feb-7ece-47ef-a606-95caf77fab72.png)
 
+These graphs are created in Gephi[^4].
+
 ## Edge filtering problem[^2] 
 
 The graph above consists of 799 nodges 9,288 edges. This is a subset of all the possible 13,870 nodges 1,091,046 edges. To create the smaller and more meaningful graph, edges were filtered following step 1 and 2. 
@@ -45,8 +47,8 @@ The graph above consists of 799 nodges 9,288 edges. This is a subset of all the 
  3) All edges including a seed word  - ['time', 'moment']
  4) All edges including a word not in the Concreteness_ratings_Brysbaert Corpus[^3] ['looong', 'moment']
 
-### Step 2: Excluding edges based of relative frequency
-
+### Step 2: Excluding edges based of relative frequency and betweeness centrality
+More details coming soon!
 
 
 
