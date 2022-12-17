@@ -33,7 +33,7 @@ This diagram explains the main idea of this method briefly.
 Below is a co-occurence network with seed words determining the colour. For an interactive similar version, click [here](https://akseli-ilmanen.github.io/Online-Gephi-Test/network). The interactive version works only on a browser not on a phone. The clustering algorithm applied is similar but there nodes and edges are coloured not by seed word but by their local cluster.
 
 #### Graph 1
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/All_Classes_th1%3D500_th2%3D1000_weights%3Dyes_.svg)
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/Github.svg)
 
 ![image](https://user-images.githubusercontent.com/107996462/207780649-8a6e5feb-7ece-47ef-a606-95caf77fab72.png)
 
@@ -60,7 +60,7 @@ Here, I solved this problem through the following steps:
 
 The assumption for this step is that words co-occuring frequently nearby the seed words but less frequently in other context are the most important words related to time. This is losely inspired by [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf).
 
-$$rf = \frac{f_{Time corpus}}{f_{Erowid corpus}}$$
+$$rf = \frac{freq_{Time_corpus}}{freq_{Erowid_corpus}}$$
 
 The relative frequency $rf$ captures how frequent a word is in the Time corpus (in one of the seed word context windows) relative to its frequency in the entire Erowid corpus. 
 
