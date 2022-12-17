@@ -30,7 +30,9 @@ This diagram explains the main idea of this method briefly.
 
 ## Context-window co-occurence network: Example
 
-Below is a co-occurence network with seed words determining the colour. For an interactive similar version, click [here](https://akseli-ilmanen.github.io/Online-Gephi-Test/network). The interactive version works only on a browser not on a phone. The clustering algorithm applied is similar but there nodes and edges are coloured not by seed word but by their local cluster.
+Below is a co-occurence network with seed words determining the colour. It was created applying the method above to all the psychoactive substance reports. 
+
+For an interactive similar version, click [here](https://akseli-ilmanen.github.io/Online-Gephi-Test/network). The interactive version works only on a browser not on a phone. The clustering algorithm applied is similar but there nodes and edges are coloured not by seed word but by their local cluster.
 
 #### Graph 1
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/Github.svg)
@@ -95,12 +97,11 @@ This step was particularly important to remove many hub node - island node pairs
 
 Psychoactive substances were categorized into classes using the classification scheme from[^6] [^7]. For my implementation see 'AI_Diss2_diss_pre-processing1.ipynb'.
 
-Below is an example comparison, to illustrate differences in fast vs slow time perception across two classes:
+Below is an example comparison, to illustrate differences in fast vs slow time perception across two classes. (The comparison isn't ideal since they are roughly 4x as many reports for serotonergic psychedelics than stimulants).
 
 | Serotonergic psychedelics           | Stimulants                          |
 :-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/107996462/208223781-24197bf5-af73-4600-aefb-067992b02d92.png) | ![image](https://user-images.githubusercontent.com/107996462/208223781-24197bf5-af73-4600-aefb-067992b02d92.png)
-
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/seron_psychedelics.png) | ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/Stimulants.png)
 ## References
 
 [^1]: Erowid E, Erowid F. "The Value of Experience". Erowid Extracts. Jun 2006;10:14-19.
