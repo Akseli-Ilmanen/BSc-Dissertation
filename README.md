@@ -84,9 +84,9 @@ Equation 2 considers the weight of an edge relative to the degree and and streng
 
 $$p_{ij} = (1 - \frac{w_{ij}}{s_{i}})^{k_{i} - 1}$$
 
-$w_{ij}$ is the weight of an edge. $k_{i}$ and $s_{i}$ are the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory))and strength of a node_{i}. The strength is a weighted version of degree by multiplying the sum of all the weights of edges to/from that node.
+$w_{ij}$ is the weight of an edge. $k_{i}$ and $s_{i}$ are the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory))and strength of a node<sub>i</sub>. The strength is a weighted version of degree by multiplying the sum of all the weights of edges to/from that node.
 
-- [x] Filter all the edges where the probability $p_{ij}$ of an edge_{ij} (of node_{i} and node_{j}) was above a certain threshold. 
+- [x] Filter all the edges where the probability $p_{ij}$ of an edge<sub>ij</sub> (of node<sub>i</sub> and node<sub>j</sub>) was above a certain threshold. 
 
 This step was particularly important to remove many hub node - island node pairs. These were pairs where a central word such as 'heart' co-occurred with an obscure word 'xxx', and 'xxx' never co-occured with any other node in the network. Since, they majority of the words are island nodes ([Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law)), not excluding these pairs, results in a network structure where every hub node is surrounded by and island of island nodes. This makes it difficult to understand how intermediate or hub nodes relate to each other.
 
