@@ -56,9 +56,10 @@ Here, I solved this problem through the following steps:
 
 ### Step 1: 
 
-#### Equation 2
-
 The assumption for this step is that words co-occuring frequently nearby the seed words but less frequently in other context are the most important words related to time. This is losely inspired by [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf).
+
+
+#### Equation 1
 
 $$rf = \frac{freq_{Time_corpus}}{freq_{Erowid_corpus}}$$
 
