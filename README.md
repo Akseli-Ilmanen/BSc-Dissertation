@@ -40,10 +40,11 @@ Below is a co-occurence network with seed words determining the colour. For an i
 These graphs are created in Gephi[^4], using the modularity clustering algorithm[^5] and the 'Circle Pack' layout plugin. The colour gradient labelling was created using a Sigmoid function, passing through the origin. (More details coming soon). The size of the nodes corresponds to their [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)).
 
 
-The graph above consists of 799 nodges 9,288 edges. This is a subset of all the possible 13,870 nodges 1,091,046 edges that were collected using the method above (context window = 4). A 1,091,046 edges graph (Graph 2) looks like a 'hairball'[^2] with lots of insignificant links. 
+The graph above has 799 nodges 9,288 edges. This is a subset of all the possible 13,870 nodges 1,091,046 edges that were collected using the method above (context window = 4). A larger graph using all these nodes and edges, such as the one below, may actually tell us less.
 
-#### Graph 2 (don't do this)
+#### Graph 2
 
+![image](https://user-images.githubusercontent.com/107996462/208223781-24197bf5-af73-4600-aefb-067992b02d92.png)
 
 
 
@@ -59,7 +60,7 @@ Here, I solved this problem through the following steps:
 
 The assumption for this step is that words co-occuring frequently nearby the seed words but less frequently in other context are the most important words related to time. This is losely inspired by [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf).
 
-$$rf = \frac{f_{Time corpus}}{f_{Erowid corpus}$$
+$$rf = \frac{f_{Time corpus}}{f_{Erowid corpus}}$$
 
 The relative frequency $rf$ captures how frequent a word is in the Time corpus (in one of the seed word context windows) relative to its frequency in the entire Erowid corpus. 
 
@@ -80,6 +81,7 @@ To capture words central to this phenomena and potentially connecting rare words
 Equation 2 considers the weight of an edge relative to the degree and and strength of a node, thus filter all edges that do "not carry a disproportionate fraction of a node's strength"[^2].
 
 #### Equation 2[^2]:
+
 $$p_{ij} = (1 - \frac{w_{ij}}{s_{i}})^{k_{i} - 1}$$
 
 $w_{ij}$ is the weight of an edge. $k_{i}$ and $s_{i}$ are the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory))and strength of a node_{i}. The strength is a weighted version of degree by multiplying the sum of all the weights of edges to/from that node.
