@@ -63,7 +63,7 @@ The assumption for this step is that words co-occuring frequently nearby the see
 
 $$rf = \frac{f_{Time}}{f_{Erowid}}$$
 
-The relative frequency $rf$ captures word frequency in the Time corpus (all context windows concatenated) relative to its frequency in the entire Erowid corpus. 
+The relative frequency $rf$ captures word frequency in the Time corpus (all context windows concatenated) relative to its frequency in the entire Erowid corpus. (Co-occurence networsk of specific classes :arrow_down: will consider $rf$ from their Class corpus).
 
 - [x] Filter all the edges where neither node is in the top k<sup>th</sup> percentile of words in the time corpus sorted by their $rf$ scores. (A stronger version of this filters all edges where if any one of the two nodes is not in the top k<sup>th</sup> percentile).
 
@@ -91,26 +91,15 @@ $w_{ij}$ is the weight of an edge. $k_{i}$ and $s_{i}$ are the [degree](https://
 
 This step was particularly important to remove many hub node - island node pairs. These were pairs where a hub word such as 'heart' co-occurred with an obscure word X, and X never co-occured with any other node in the network. Since, they majority of the words were island nodes ([Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law)), not excluding these pairs, resulted in network structures where every hub node is surrounded by and island of island nodes. This makes it difficult to understand how intermediate or hub nodes relate to each other.
 
-## Comparing classes of psychoactive substances
+## Comparing psychoactive classes
 
-Psychoactive substances were categorized using the classification scheme from[^6-7]. For my implementation see 'AI_Diss2_diss_pre-processing1.ipynb'.
+Psychoactive substances were categorized into classes using the classification scheme from[^6-7]. For my implementation see 'AI_Diss2_diss_pre-processing1.ipynb'.
 
-<table>
-  <tr>
-    <td> <img src="img1.png"  alt="1" width = 360px height = 640px ></td>
+Below is an example comparison, to illustrate differences in fast vs slow time perception across two classes:
 
-    <td><img src="img2.png" alt="2" width = 360px height = 640px></td>
-   </tr> 
-   <tr>
-      <td><img src="./Scshot/cab_arrived.png" alt="3" width = 360px height = 640px></td>
-
-      <td><img src="./Scshot/trip_end.png" align="right" alt="4" width = 360px height = 640px>
-  </td>
-  </tr>
-</table>
-
-
-
+| Serotonergic psychedelics           | Stimulants                          |
+:-------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/107996462/208223781-24197bf5-af73-4600-aefb-067992b02d92.png)![image](https://user-images.githubusercontent.com/107996462/208223781-24197bf5-af73-4600-aefb-067992b02d92.png) | 
 
 ## References
 
