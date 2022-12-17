@@ -91,7 +91,7 @@ $w_{ij}$ is the weight of an edge. $k_{i}$ and $s_{i}$ are the [degree](https://
 
 - [x] Filter all the edges where the probability $p_{ij}$ of an edge<sub>ij</sub> (of node<sub>i</sub> and node<sub>j</sub>) was above a certain threshold. 
 
-This step was particularly important to remove many hub node - island node pairs. These were pairs where a hub word such as 'heart' co-occurred with an obscure word X, and X never co-occured with any other node in the network. Since, they majority of the words were island nodes ([Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law)), not excluding these pairs, resulted in network structures where every hub node is surrounded by and island of island nodes. This makes it difficult to understand how intermediate or hub nodes relate to each other.
+This step was particularly important to remove many hub node - island node pairs. These were pairs where a hub word such as 'heart' co-occurred with an obscure word X, and X never co-occured with any other node in the network. Since, they majority of the words were island nodes, not excluding these pairs, resulted in network structures where every hub node is surrounded by and island of island nodes. This makes it difficult to understand how intermediate or hub nodes relate to each other.
 
 ## Comparing psychoactive classes
 
