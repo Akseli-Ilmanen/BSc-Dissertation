@@ -37,7 +37,7 @@ Below is a co-occurence network with seed words determining the colour. For an i
 
 ![image](https://user-images.githubusercontent.com/107996462/207780649-8a6e5feb-7ece-47ef-a606-95caf77fab72.png)
 
-These graphs are created in Gephi[^4], using the modularity clustering algorithm[^5] and the 'Circle Pack' layout plugin. The colour gradient labelling was created using a Sigmoid function, passing through the origin. (More details coming soon). The size of the nodes corresponds to their [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)).
+These graphs are created in Gephi[^4], using the modularity clustering algorithm[^5] and the 'Circle Pack' layout plugin. The colour gradient labelling was created using a Sigmoid function, passing through the origin. (Details coming soon). The size of the nodes corresponds to their [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)).
 
 
 The graph above has 799 nodges 9,288 edges. This is a subset of all the possible 13,870 nodges 1,091,046 edges that were collected using the method above (context window = 4). A larger graph using all these nodes and edges, such as the one below, may actually tell us less.
@@ -68,11 +68,11 @@ The relative frequency $rf$ captures word frequency in the Time corpus (all cont
 
 ### Step 2: 
 
-Step 1 tends to disproportionately favour very rare words, as they may stochastically appear close by time words and never outside the Time corpus. Yet, if these rare words reappear in similar word contexts, we may assume they represent a semantically related phenomena. 
-
-To capture words central to this phenomena and potentially connecting rare words with high $rf$, calculate the [betweeness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality) for all the nodes remaining after step 1. The betweeness centrality was calculated using NetworkX[^3]. For formulae and code see [here](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.centrality.betweenness_centrality.html).
+Step 1 tends to disproportionately favour rare words, as they may stochastically appear close by time words and never outside the Time corpus. Yet, if these rare words reappear in similar word contexts, we may assume they represent semantically coherent phenomena. I assume in a co-occurence network, words representing a semantically coherent phenomena would cluster together. Therefore, the network measures [betweeness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality) should capture which words are central to this clustering. 
 
 - [x] Filter all the edges where either of the two nodes is not in the top k<sup>th</sup> percentile sorted by their betweeness centrality scores (This step is similar to the 'strong version' of step 1).
+
+Betweeness centrality scores were calculated using NetworkX[^3]. For formulae and code see [here](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.centrality.betweenness_centrality.html).
 
 **Why step 1 before step 2**: As you can see in the ['hairball'] graph 2, some of the major nodes are 'drug', 'feel', 'life' or 'experience'. They are very frequent across the Erowid corpus. If one were to calculate the betweeness centrality for a network of all the words in the Erowid corpus or Time corpus, they would have the highest scores. However, if one calculates the betweeness centrality for a subset of words (with high $rf$), the words 'space', 'peak' and 'check' have the highest betweeness centrality. 
 
