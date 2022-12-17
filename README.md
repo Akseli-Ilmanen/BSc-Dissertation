@@ -67,7 +67,10 @@ Here, I solved this problem through the following steps:
 Equation 2 considers the weight of an edge relative to the degree and and strength of a node, thus filter all edges that do "not carry a disproportionate fraction of a node's strength"[^2].
 
 #### Equation 2: 
-$$p_{ij} = (1 - frac:{w_{ij}}/{s_{i}})^{k_{i} - 1}$$ [^2]
+$$p_{ij} = (1 - \frac{w_{ij}}{s_{i}})^{k_{i} - 1}$$ [^2]
+
+
+$\frac{n!}{k!(n-k)!}$
 
 $w_{ij}$ is the weight of an edge. $k_{i}$ and $s_{i}$ are the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory))and strength of a node_{i}. The strength is a weighted version of degree by multiplying the sum of all the weights of edges to/from that node.
 
