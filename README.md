@@ -61,7 +61,7 @@ The assumption for this step is that words co-occuring frequently nearby the see
 
 #### Equation 1
 
-$$rf = \frac{freq_{Time_corpus}}{freq_{Erowid_corpus}}$$
+$$rf = \frac{f_{Time}}{freq_{Erowid}}$$
 
 The relative frequency $rf$ captures word frequency in the Time corpus (all context windows concatenated) relative to its frequency in the entire Erowid corpus. 
 
