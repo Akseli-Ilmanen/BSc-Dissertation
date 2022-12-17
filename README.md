@@ -99,7 +99,7 @@ Below is an example comparison, to illustrate differences in fast vs slow time p
 
 | Serotonergic psychedelics           | Stimulants                          |
 :-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/107996462/208223781-24197bf5-af73-4600-aefb-067992b02d92.png)![image](https://user-images.githubusercontent.com/107996462/208223781-24197bf5-af73-4600-aefb-067992b02d92.png) | 
+![image](https://user-images.githubusercontent.com/107996462/208223781-24197bf5-af73-4600-aefb-067992b02d92.png) | ![image](https://user-images.githubusercontent.com/107996462/208223781-24197bf5-af73-4600-aefb-067992b02d92.png)
 
 ## References
 
