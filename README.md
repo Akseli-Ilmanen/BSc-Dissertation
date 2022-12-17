@@ -20,7 +20,7 @@ All the code used for this (ongoing) dissertation is accessible in Jupyter Noteb
  
 ## Context-window co-occurence network: Method
 
-This diagram explain the main idea of this method briefly.
+This diagram explains the main idea of this method briefly.
 
 <br />
 
@@ -32,24 +32,49 @@ This diagram explain the main idea of this method briefly.
 
 Below is a co-occurence network with seed words determining the colour. For an interactive similar version, click [here](https://akseli-ilmanen.github.io/Online-Gephi-Test/network). The interactive version works only on a browser not on a phone. The clustering algorithm applied is similar but there nodes and edges are coloured not by seed word but by their local cluster.
 
+#### Graph 1
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/All_Classes_th1%3D500_th2%3D1000_weights%3Dyes_.svg)
 
 ![image](https://user-images.githubusercontent.com/107996462/207780649-8a6e5feb-7ece-47ef-a606-95caf77fab72.png)
 
 These graphs are created in Gephi[^4], using the modularity clustering algorithm[^5] and the 'Circle Pack' layout plugin. The colour gradient labelling was created using a Sigmoid function, passing through the origin. (More details coming soon). The size of the nodes corresponds to their [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)).
 
+
+The graph above consists of 799 nodges 9,288 edges. This is a subset of all the possible 13,870 nodges 1,091,046 edges that were collected using the method above (context window = 4). A 1,091,046 edges graph (Graph 2) looks like a 'hairball'[^2] with lots of insignificant links. 
+
+#### Graph 2 (don't do this)
+
+
+
+
 ## Edge filtering problem[^2] 
 
-The graph above consists of 799 nodges 9,288 edges. This is a subset of all the possible 13,870 nodges 1,091,046 edges that were collected using the method above (context window = 4). To create the smaller and more meaningful graph, edges were filtered following step 1 and 2. 
+To create the smaller and more meaningful graph, edges have to be filtered by some approach. One could filter all edges with a weight below a global threshold. Yet, because of the heavy-tailed distribution of word frequencies (see also [Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law)), this would disproportionately affect rare words, potentially important for the phenomeology of time perception. 
 
-### Step 1: Excluding edges based of word types
- 1) All self-connections - ['perception', 'perception']
- 3) All edges including a seed word  - ['time', 'moment']
- 4) All edges including a word not in the Concreteness_ratings_Brysbaert Corpus[^3] ['looong', 'moment']
+Here, I solved this problem through the following steps: 
 
-### Step 2: Excluding edges based of relative frequency and [betweeness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality)
+### Step 1: 
 
-More details coming soon!
+
+
+
+### Step 2: 
+
+
+
+### Step 3: 
+
+Equation 2 considers the weight of an edge relative to the degree and and strength of a node, thus filter all edges that do "not carry a disproportionate fraction of a node's strength"[^2].
+
+#### Equation 2: 
+![image](https://user-images.githubusercontent.com/107996462/208218846-95c928ae-4620-48a3-b791-d1bf97933cd9.png)[^2]
+
+$w_{ij}$ is the weight of an edge. $k_{i}$ and $s_{i}$ are the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory))and strength of a node_{i}. The strength is a weighted version of degree by multiplying the sum of all the weights of edges to/from that node.
+
+I filtered all the edges were the probability $p_{ij}$ of an edge_{ij} (of node_{i} and node_{j}), were above a certain threshold. 
+
+
+
 
 
 
