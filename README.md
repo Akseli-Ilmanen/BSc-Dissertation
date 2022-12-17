@@ -91,6 +91,27 @@ $w_{ij}$ is the weight of an edge. $k_{i}$ and $s_{i}$ are the [degree](https://
 
 This step was particularly important to remove many hub node - island node pairs. These were pairs where a hub word such as 'heart' co-occurred with an obscure word X, and X never co-occured with any other node in the network. Since, they majority of the words were island nodes ([Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law)), not excluding these pairs, resulted in network structures where every hub node is surrounded by and island of island nodes. This makes it difficult to understand how intermediate or hub nodes relate to each other.
 
+## Comparing classes of psychoactive substances
+
+Psychoactive substances were categorized using the classification scheme from[^6-7]. For my implementation see 'AI_Diss2_diss_pre-processing1.ipynb'.
+
+<table>
+  <tr>
+    <td> <img src="img1.png"  alt="1" width = 360px height = 640px ></td>
+
+    <td><img src="img2.png" alt="2" width = 360px height = 640px></td>
+   </tr> 
+   <tr>
+      <td><img src="./Scshot/cab_arrived.png" alt="3" width = 360px height = 640px></td>
+
+      <td><img src="./Scshot/trip_end.png" align="right" alt="4" width = 360px height = 640px>
+  </td>
+  </tr>
+</table>
+
+
+
+
 ## References
 
 [^1]: Erowid E, Erowid F. "The Value of Experience". Erowid Extracts. Jun 2006;10:14-19.
@@ -99,5 +120,6 @@ This step was particularly important to remove many hub node - island node pairs
 [^6]: Brysbaert, M., Warriner, A.B. and Kuperman, V., 2014. Concreteness ratings for 40 thousand generally known English word lemmas. Behavior Research Methods [Online], 46(3), pp.904–911. Available from: https://doi.org/10.3758/s13428-013-0403-5.
 [^4]: Bastian M., Heymann S., Jacomy M. (2009). Gephi: an open source software for exploring and manipulating networks. International AAAI Conference on Weblogs and Social Media.
 [^5]: Vincent D Blondel, Jean-Loup Guillaume, Renaud Lambiotte, Etienne Lefebvre, Fast unfolding of communities in large networks, in Journal of Statistical Mechanics: Theory and Experiment 2008 (10), P1000
-
+[^6] Sanz, C., Zamberlan, F., Erowid, E., Erowid, F., & Tagliazucchi, E. (2018). The Experience Elicited by Hallucinogens Presents the Highest Similarity to Dreaming within a Large Database of Psychoactive Substance Reports. Frontiers in Neuroscience, 12. https://www.frontiersin.org/articles/10.3389/fnins.2018.00007
+[^7] Martial, C., Cassol, H., Charland-Verville, V., Pallavicini, C., Sanz, C., Zamberlan, F., Vivot, R. M., Erowid, F., Erowid, E., Laureys, S., Greyson, B., & Tagliazucchi, E. (2019). Neurochemical models of near-death experiences: A large-scale study based on the semantic similarity of written reports. Consciousness and Cognition, 69, 52–69. https://doi.org/10.1016/j.concog.2019.01.011
 
