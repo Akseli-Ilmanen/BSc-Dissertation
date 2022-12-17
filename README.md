@@ -67,17 +67,11 @@ Here, I solved this problem through the following steps:
 Equation 2 considers the weight of an edge relative to the degree and and strength of a node, thus filter all edges that do "not carry a disproportionate fraction of a node's strength"[^2].
 
 #### Equation 2: 
-![image](https://user-images.githubusercontent.com/107996462/208218846-95c928ae-4620-48a3-b791-d1bf97933cd9.png)[^2]
+$$ p_{ij} = (1 - frac{w_{ij}}{s_{i}})^{k_{i} - 1} $$ [^2]
 
 $w_{ij}$ is the weight of an edge. $k_{i}$ and $s_{i}$ are the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory))and strength of a node_{i}. The strength is a weighted version of degree by multiplying the sum of all the weights of edges to/from that node.
 
-I filtered all the edges were the probability $p_{ij}$ of an edge_{ij} (of node_{i} and node_{j}), were above a certain threshold. 
-
-
-
-
-
-
+I filtered all the edges where the probability $p_{ij}$ of an edge_{ij} (of node_{i} and node_{j}) was above a certain threshold. This step was particularly important to remove many hub node - island node pairs. These were pairs where a central word such as 'heart' co-occurred with an obscure word 'xxx', and 'xxx' never co-occured with any other node in the network. Since, they majority of the words are island nodes ([Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law)), not excluding these pairs, results in a network structure where every hub node is surrounded by and island of island nodes. This makes it difficult to understand how intermediate or hub nodes relate to each other.
 
 ## References
 
