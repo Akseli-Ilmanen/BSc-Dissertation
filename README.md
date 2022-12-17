@@ -62,9 +62,9 @@ The assumption for this step is that words co-occuring frequently nearby the see
 
 $$rf = \frac{freq_{Time_corpus}}{freq_{Erowid_corpus}}$$
 
-The relative frequency $rf$ captures how frequent a word is in the Time corpus (in one of the seed word context windows) relative to its frequency in the entire Erowid corpus. 
+The relative frequency $rf$ captures word frequency in the Time corpus (all context windows concatenated) relative to its frequency in the entire Erowid corpus. 
 
-- [x] Filter all the edges where neither node is in the top xxth percentile of words in the time corpus sorted by their $rf$ scores. (A stronger version of this filters all edges where if any one of the two nodes is not top xxth percentile).
+- [x] Filter all the edges where neither node is in the top k<sup>th</sup> percentile of words in the time corpus sorted by their $rf$ scores. (A stronger version of this filters all edges where if any one of the two nodes is not in the top k<sup>th</sup> percentile).
 
 ### Step 2: 
 
@@ -72,9 +72,9 @@ Step 1 tends to disproportionately favour very rare words, as they may stochasti
 
 To capture words central to this phenomena and potentially connecting rare words with high $rf$, calculate the [betweeness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality) for all the nodes remaining after step 1. The betweeness centrality was calculated using NetworkX[^3]. For formulae and code see [here](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.centrality.betweenness_centrality.html).
 
-- [x] Filter all the edges where either of the two nodes is not in the top xxth percentile sorted by their betweeness centrality scores (This step is similar to the 'strong version' of step 1).
+- [x] Filter all the edges where either of the two nodes is not in the top k<sup>th</sup> percentile sorted by their betweeness centrality scores (This step is similar to the 'strong version' of step 1).
 
-**Why step 1 before step 2**: As you can see in the ['hairball'] graph 2, some of the major nodes are 'drug', 'feel', 'life' or 'experience'. They are very frequent across the Erowid corpus. If one were to calculate the betweeness centrality for a network of all the words in the Erowid corpus or Time corpus, they would have the highest scores. However, if one calculates the betweeness centrality for a subset of words (with high $rf$), the words 'heart', 'peak' and 'space' have the highest 
+**Why step 1 before step 2**: As you can see in the ['hairball'] graph 2, some of the major nodes are 'drug', 'feel', 'life' or 'experience'. They are very frequent across the Erowid corpus. If one were to calculate the betweeness centrality for a network of all the words in the Erowid corpus or Time corpus, they would have the highest scores. However, if one calculates the betweeness centrality for a subset of words (with high $rf$), the words 'space', 'peak' and 'check' have the highest betweeness centrality. 
 
 ### Step 3: 
 
