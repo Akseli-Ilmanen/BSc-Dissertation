@@ -95,7 +95,7 @@ This step was particularly important to remove many hub node - island node pairs
 
 ## Comparing psychoactive classes
 
-Psychoactive substances were categorized into classes using the classification scheme from[^6^7]. For my implementation see 'AI_Diss2_diss_pre-processing1.ipynb'.
+Psychoactive substances were categorized into classes using the classification scheme from[^6]. For my implementation see 'AI_Diss2_diss_pre-processing1.ipynb'.
 
 Below is an example comparison, to illustrate differences in fast vs slow time perception across two classes. (The comparison isn't ideal since they are roughly 4x as many reports for serotonergic psychedelics than stimulants).
 
@@ -111,5 +111,3 @@ Below is an example comparison, to illustrate differences in fast vs slow time p
 [^4]: Bastian M., Heymann S., Jacomy M. (2009). Gephi: an open source software for exploring and manipulating networks. International AAAI Conference on Weblogs and Social Media.
 [^5]: Vincent D Blondel, Jean-Loup Guillaume, Renaud Lambiotte, Etienne Lefebvre, Fast unfolding of communities in large networks, in Journal of Statistical Mechanics: Theory and Experiment 2008 (10), P1000
 [^6] Sanz, C., Zamberlan, F., Erowid, E., Erowid, F., & Tagliazucchi, E. (2018). The Experience Elicited by Hallucinogens Presents the Highest Similarity to Dreaming within a Large Database of Psychoactive Substance Reports. Frontiers in Neuroscience, 12. https://www.frontiersin.org/articles/10.3389/fnins.2018.00007
-[^7] Martial, C., Cassol, H., Charland-Verville, V., Pallavicini, C., Sanz, C., Zamberlan, F., Vivot, R. M., Erowid, F., Erowid, E., Laureys, S., Greyson, B., & Tagliazucchi, E. (2019). Neurochemical models of near-death experiences: A large-scale study based on the semantic similarity of written reports. Consciousness and Cognition, 69, 52–69. https://doi.org/10.1016/j.concog.2019.01.011
-
