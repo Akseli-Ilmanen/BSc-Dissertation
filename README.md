@@ -50,7 +50,7 @@ The graph above has 1277 nodges 4,912 edges. This is a subset of all the possibl
 
 
 
-## Node & Edge filtering problem[^2] 
+## Node & edge filtering problem[^2] 
 
 To create the smaller and more meaningful graph, edges have to be filtered by some approach. One could filter all edges with a weight below a global threshold. Yet, because of the heavy-tailed distribution of word frequencies (see also [Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law)), this would disproportionately affect rare words, potentially important for the phenomeology of time perception. 
 
