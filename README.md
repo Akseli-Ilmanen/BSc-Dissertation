@@ -7,7 +7,7 @@ Consider these quotes:
 
 These are quotes from a psychoactive substance report from the [Erowid Experience Vault](https://erowid.org/experiences/exp_front.shtml/).[^1] Within, the total of nearly 40,000 reports, there are thousands of phrases indicative of altered time perception. Let's go explore them!
 
-## Overview
+## Code
 
 All the code used for this (ongoing) dissertation is accessible in Jupyter Notebook format and supplemented with extensive notes. Feel free to use it. 
  
