@@ -10,6 +10,8 @@ These are quotes from a psychoactive substance report from the [Erowid Experienc
 ## Code
 
 All the code used for this (ongoing) dissertation is accessible in Jupyter Notebook format and supplemented with extensive notes. Feel free to use it. 
+
+The code is currently incomplete, the rest of it is coming soon.
  
 ## Context-window co-occurence network: Method
 
