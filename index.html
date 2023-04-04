@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Webpage</title>
+</head>
+<body>
+  <div>
+    <h2>Erowid Quotes</h2>
+    <ul>
+      <li>This tool allows you to find trip report quotes from the <a href="https://erowid.org/experiences/">Erowid Experience Vault</a> for particular psychoactive substances.</li>
+      <li>Selecting a class will filter the substance dropdown menu to only substances in that class.</li>
+      <li>Once you select a substance, you can filter for specific topics. The topics were modelled in an embedding space using BERTopic (see details <a href="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/README.md#bertopic-analysis">here</a>), and should represent common experiences when using psychoactive substances.</li>
+      <li>The 'Topic probability score' (TBS) quantifies how well the quote represents the topic. For each substance-topic combination quotes with the highest 10 TBS scores are displayed. For rare substance-topic combinations, there may be fewer or no quotes available.</li>
+      <li>The '(<u>URL</u>)' after each quote leads to the Erowid trip page report where the quote originates.</li>
+    </ul>
+  </div> 
+   <div>
+    <label for="class">Select a class:</label>
+    <select id="class" onchange="updateSubstanceOptions();">
+      <option value="">All classes</option>
+        <option value='Antidepressants / antipsychotics'>Antidepressants / antipsychotics</option>
+        <option value='Deliriants'>Deliriants</option>
+        <option value='Depressant / sedatives'>Depressant / sedatives</option>
+        <option value='Dissociative psychedelics'>Dissociative psychedelics</option>
+        <option value='Entactogens'>Entactogens</option>  
+        <option value='Serotonergic psychedelics'>Serotonergic psychedelics</option>
+        <option value='Stimulants'>Stimulants</option>
+        <option value='Oneirogens'>Oneirogens</option>  
+        <option value='Other'>Other</option>
+    </select>
+  
+  <div>
+    <label for="substance">Select a substance:</label>
+    <select id="substance" onchange="updateTopicOptions(); filterData();">
+      <option value="">All substances</option>
+        <option value='1p-lsd'>1p-lsd</option>
+        <option value='25i-nbome'>25i-nbome</option>
+        <option value='2c-b'>2c-b</option>
+        <option value='2c-c'>2c-c</option>
+        <option value='2c-d'>2c-d</option>
+        <option value='2c-e'>2c-e</option>
+        <option value='2c-i'>2c-i</option>
+        <option value='2c-p'>2c-p</option>
+        <option value='2c-t-2'>2c-t-2</option>
+        <option value='2c-t-21'>2c-t-21</option>
+        <option value='2c-t-4'>2c-t-4</option>
+        <option value='2c-t-7'>2c-t-7</option>
+        <option value='4-acetoxy-dipt'>4-acetoxy-dipt</option>
+        <option value='4-acetoxy-mipt'>4-acetoxy-mipt</option>
+        <option value='4-aco-det'>4-aco-det</option>
+        <option value='4-aco-dmt'>4-aco-dmt</option>
+        <option value='4-ho-dipt'>4-ho-dipt</option>
+        <option value='4-ho-mipt'>4-ho-mipt</option>
+        <option value='5-meo-amt'>5-meo-amt</option>
+        <option value='5-meo-dalt'>5-meo-dalt</option>
+        <option value='5-meo-dipt'>5-meo-dipt</option>
+        <option value='5-meo-dmt'>5-meo-dmt</option>
+        <option value='5-meo-mipt'>5-meo-mipt</option>
+        <option value='al-lad'>al-lad</option>
+        <option value='amt'>amt</option>
+        <option value='anadenanthera colubrina'>anadenanthera colubrina</option>
+        <option value='anadenanthera peregrina'>anadenanthera peregrina</option>
+        <option value='argyreia nervosa'>argyreia nervosa</option>
+        <option value='ayahuasca'>ayahuasca</option>
+        <option value='dipt'>dipt</option>
+        <option value='dmt'>dmt</option>
+        <option value='dob'>dob</option>
+        <option value='dob-dragonfly'>dob-dragonfly</option>
+        <option value='doc'>doc</option>
+        <option value='doi'>doi</option>
+        <option value='dom'>dom</option>
+        <option value='dpt'>dpt</option>
+        <option value='echinopsis pachanoi'>echinopsis pachanoi</option>
+        <option value='echinopsis peruviana'>echinopsis peruviana</option>
+        <option value='ibogaine'>ibogaine</option>
+        <option value='lophophora williamsii'>lophophora williamsii</option>
+        <option value='lsd'>lsd</option>
+        <option value='mescaline'>mescaline</option>
+        <option value='mimosahuasca'>mimosahuasca</option>
+        <option value='morning glory'>morning glory</option>
+        <option value='psilocybin mushrooms'>psilocybin mushrooms</option>
+        <option value='tma-2'>tma-2</option>
+        <option value='2-aminoindan'>2-aminoindan</option>
+        <option value='4-fluoroamphetamine'>4-fluoroamphetamine</option>
+        <option value='adrafinil'>adrafinil</option>
+        <option value='amphetamine'>amphetamine</option>
+        <option value='atomoxetine'>atomoxetine</option>
+        <option value='betel nut'>betel nut</option>
+        <option value='caffeine'>caffeine</option>
+        <option value='cocaine'>cocaine</option>
+        <option value='coffea spp.'>coffea spp.</option>
+        <option value='crack'>crack</option>
+        <option value='dmae'>dmae</option>
+        <option value='ephedrine'>ephedrine</option>
+        <option value='ethylphenidate'>ethylphenidate</option>
+        <option value='ilex paraguariensis'>ilex paraguariensis</option>
+        <option value='mdpv'>mdpv</option>
+        <option value='methylphenidate'>methylphenidate</option>
+        <option value='modafinil'>modafinil</option>
+        <option value='myristica spp.'>myristica spp.</option>
+        <option value='nicotiana tabacum'>nicotiana tabacum</option>
+        <option value='propylhexedrine'>propylhexedrine</option>
+        <option value='substituted piperazines'>substituted piperazines</option>
+        <option value='3-meo-pcp'>3-meo-pcp</option>
+        <option value='amanita muscaria'>amanita muscaria</option>
+        <option value='dxm'>dxm</option>
+        <option value='ketamine'>ketamine</option>
+        <option value='methoxetamine'>methoxetamine</option>
+        <option value='nitrous oxide'>nitrous oxide</option>
+        <option value='pcp'>pcp</option>
+        <option value='5-htp'>5-htp</option>
+        <option value='acorus calamus'>acorus calamus</option>
+        <option value='heimia salicifolia'>heimia salicifolia</option>
+        <option value='nepeta cataria'>nepeta cataria</option>
+        <option value='salvia divinorum'>salvia divinorum</option>
+        <option value='yohimbe'>yohimbe</option>
+        <option value='6-apb'>6-apb</option>
+        <option value='iap'>iap</option>
+        <option value='mbdb'>mbdb</option>
+        <option value='mda'>mda</option>
+        <option value='mdai'>mdai</option>
+        <option value='mdma'>mdma</option>
+        <option value='mephedrone'>mephedrone</option>
+        <option value='methylone'>methylone</option>
+        <option value='alcohol'>alcohol</option>
+        <option value='alcohol (hard)'>alcohol (hard)</option>
+        <option value='alprazolam'>alprazolam</option>
+        <option value='buprenorphine'>buprenorphine</option>
+        <option value='cannabis spp.'>cannabis spp.</option>
+        <option value='clonazepam'>clonazepam</option>
+        <option value='codeine'>codeine</option>
+        <option value='cyclobenzaprine'>cyclobenzaprine</option>
+        <option value='diazepam'>diazepam</option>
+        <option value='diphenhydramine'>diphenhydramine</option>
+        <option value='ether'>ether</option>
+        <option value='etizolam'>etizolam</option>
+        <option value='fentanyl'>fentanyl</option>
+        <option value='gabapentin'>gabapentin</option>
+        <option value='gbl'>gbl</option>
+        <option value='hash'>hash</option>
+        <option value='heroin'>heroin</option>
+        <option value='hydrocodone'>hydrocodone</option>
+        <option value='hydromorphone'>hydromorphone</option>
+        <option value='jwh-018'>jwh-018</option>
+        <option value='leonotis leonurus'>leonotis leonurus</option>
+        <option value='lorazepam'>lorazepam</option>
+        <option value='melatonin'>melatonin</option>
+        <option value='methadone'>methadone</option>
+        <option value='mitragyna speciosa'>mitragyna speciosa</option>
+        <option value='morphine'>morphine</option>
+        <option value='nymphaea caerulea'>nymphaea caerulea</option>
+        <option value='opium'>opium</option>
+        <option value='oxycodone'>oxycodone</option>
+        <option value='papaver somniferum'>papaver somniferum</option>
+        <option value='passiflora spp.'>passiflora spp.</option>
+        <option value='piper methysticum'>piper methysticum</option>
+        <option value='piracetam'>piracetam</option>
+        <option value='sceletium tortuosum'>sceletium tortuosum</option>
+        <option value='tramadol'>tramadol</option>
+        <option value='triazolam'>triazolam</option>
+        <option value='turnera diffusa'>turnera diffusa</option>
+        <option value='valeriana officinalis'>valeriana officinalis</option>
+        <option value='zolpidem'>zolpidem</option>
+        <option value='zopiclone'>zopiclone</option>
+        <option value='amitriptyline'>amitriptyline</option>
+        <option value='bupropion'>bupropion</option>
+        <option value='hypericum perforatum'>hypericum perforatum</option>
+        <option value='mirtazapine'>mirtazapine</option>
+        <option value='olanzapine'>olanzapine</option>
+        <option value='paroxetine'>paroxetine</option>
+        <option value='quetiapine'>quetiapine</option>
+        <option value='sertraline'>sertraline</option>
+        <option value='venlafaxine'>venlafaxine</option>
+        <option value='brugmansia spp.'>brugmansia spp.</option>
+        <option value='datura spp.'>datura spp.</option>
+        <option value='dimenhydrinate'>dimenhydrinate</option>
+        <option value='scopolamine'>scopolamine</option>
+        <option value='calea zacatechichi'>calea zacatechichi</option>
+        <option value='silene undulata'>silene undulata</option>
+    </select>
+
+
+    <div id="topic-div" style="display:none">
+      <label for="topic">Select a topic:</label>
+      <select id="topic" onchange="filterData()">
+        <option value="">All topics</option>
+        <!-- Generate options dynamically based on available topics for the selected substance -->
+        <!-- Sort topics alphabetically -->
+        <!-- Display only topics with at least one row matching the selected substance -->
+        ${csvData
+          .filter((row) => row.Substance === substance)
+          .map((row) => row.Topic)
+          .filter((topic, index, topics) => topics.indexOf(topic) === index)
+          .sort((a, b) => parseInt(a) - parseInt(b))
+          .map((topic) => `<option value="${topic}">${topic}</option>`)
+          .join('')}
+      </select>
+    </div>
+
+    <div>
+      <h3>Filtered Quotes</h3>
+      <div id="document-list"></div>
+    </div>
+  </div>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+
+  <script>
+    var csvData = null;
+
+    function loadData() {
+      Papa.parse("Representative Quotes Per Topic-Substance.csv", {
+        download: true,
+        header: true,
+        complete: function(results) {
+          csvData = results.data;
+        }
+      });
+    }
+
+    function updateSubstanceOptions() {
+      var classVal = document.getElementById("class").value;
+      var possibleSubstances = new Set(csvData.filter(function(row) {
+        return row.Class == classVal;
+      }).map(function(row) {
+        return row.Substance;
+      }));
+    
+      var substanceSelect = document.getElementById("substance");
+      substanceSelect.innerHTML = "<option value=''>All substances</option>";
+      possibleSubstances.forEach(function(substance) {
+        substanceSelect.innerHTML += "<option value='" + substance + "'>" + substance + "</option>";
+      });
+
+      if (possibleSubstances.size > 0) {
+        document.getElementById("substance-div").style.display = "block";
+        updateTopicOptions();
+      } else {
+        document.getElementById("substance-div").style.display = "none";
+        document.getElementById("topic-div").style.display = "none";
+        document.getElementById("document-list").innerHTML = "";
+      }
+    }
+    
+    function updateTopicOptions() {
+      var substance = document.getElementById("substance").value;
+      var possibleTopics = new Set(csvData.filter(function(row) {
+        return row.Substance == substance;
+      }).map(function(row) {
+        return row.Topic;
+      }));
+
+      var topicSelect = document.getElementById("topic");
+      topicSelect.innerHTML = "<option value=''>All topics</option>";
+      possibleTopics.forEach(function(topic) {
+        topicSelect.innerHTML += "<option value='" + topic + "'>" + topic + "</option>";
+      });
+
+      if (possibleTopics.size > 0) {
+        document.getElementById("topic-div").style.display = "block";
+      } else {
+        document.getElementById("topic-div").style.display = "none";
+      }
+    }
+
+    function filterData() {
+      var substance = document.getElementById("substance").value;
+      var topic = document.getElementById("topic").value;
+      var filteredData = csvData.filter(function(row) {
+        return (topic == "" || row.Topic == topic) && (substance == "" || row.Substance == substance);
+      });
+      var documentColumn = filteredData.map(function(row) {
+        return row.Document;
+      });
+      var documentList = documentColumn.join("<br><br>");
+      document.getElementById("document-list").innerHTML = documentList;
+    }
+
+    loadData();
+  </script>
+</body>
+</html>
