@@ -102,7 +102,7 @@ Below is an example comparison, to illustrate differences in fast vs slow time p
 
 I am also using [BERTopic library](maartengr.github.io/BERTopic/index.html)[^7] to identify topics across Erowid reports. Below is a screenshot for one of my graphs. There is a lot going on, so I recommend using the [interactive version](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/407b29eef8ef677def4d59cd2b5e12fccc71a5d7/BERTopic%20Plotly.html) to play around with this graph.
 
-![image](https://user-images.githubusercontent.com/107996462/229664009-6f857be4-62f2-4151-8b38-53e33215f9ff.png)
+![image](https://user-images.githubusercontent.com/107996462/229903690-f6df344a-af8d-48d9-b325-8bad01d98661.png)
 
 If you are interested in the details of these topics, use the [Erowid Quotes finder tool](https://akseli-ilmanen.github.io/BSc-Dissertation/) to find quotes for specific topics. There you can filter topics by class or substance. More coming soon!
 
