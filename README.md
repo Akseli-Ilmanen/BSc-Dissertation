@@ -107,7 +107,6 @@ Here is a preliminary graph and the [Erowid Quotes finder tool](https://akseli-i
 
 
 
-
 ## References
 
 [^1]: Erowid E, Erowid F. "The Value of Experience". Erowid Extracts. Jun 2006;10:14-19.
