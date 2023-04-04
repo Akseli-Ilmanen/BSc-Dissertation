@@ -101,11 +101,11 @@ Below is an example comparison, to illustrate differences in fast vs slow time p
 
 ## BERTopic analysis
 
-Here is a preliminary graph and the [Erowid Quotes finder tool](https://akseli-ilmanen.github.io/Altered-Time-Perception-Quotes/). More coming soon!
+I am also using [BERTopic library](maartengr.github.io/BERTopic/index.html)[^7] to identify topics across Erowid reports. For an interactive version of this graph click ([here](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/82685edbc1f5a3faff4e5c741e616d41acb8ec64/my_plotly.html)).
 
 ![image](https://user-images.githubusercontent.com/107996462/229662326-e0f2a6a8-6fa6-4480-835d-7102773528bf.png)
 
-For an interactive version of this graph click ([here](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/82685edbc1f5a3faff4e5c741e616d41acb8ec64/my_plotly.html)).
+If you are interested in the details of these topics, use the [Erowid Quotes finder tool](https://akseli-ilmanen.github.io/Altered-Time-Perception-Quotes/) to find quotes for specific topics. There you can filter topics by class or substance. More coming soon!
 
 ## References
 
@@ -115,3 +115,4 @@ For an interactive version of this graph click ([here](https://rawcdn.githack.co
 [^4]: Bastian M., Heymann S., Jacomy M. (2009). Gephi: an open source software for exploring and manipulating networks. International AAAI Conference on Weblogs and Social Media.
 [^5]: Vincent D Blondel, Jean-Loup Guillaume, Renaud Lambiotte, Etienne Lefebvre, Fast unfolding of communities in large networks, in Journal of Statistical Mechanics: Theory and Experiment 2008 (10), P1000
 [^6]: Sanz, C., Zamberlan, F., Erowid, E., Erowid, F., & Tagliazucchi, E. (2018). The Experience Elicited by Hallucinogens Presents the Highest Similarity to Dreaming within a Large Database of Psychoactive Substance Reports. Frontiers in Neuroscience, 12. https://www.frontiersin.org/articles/10.3389/fnins.2018.00007
+[^7] Grootendorst, M., 2022. BERTopic: Neural topic modeling with a class-based TF-IDF procedure [Online]. [Online]. Available from: https://doi.org/10.48550/arXiv.2203.05794 [Accessed 23 March 2023].
