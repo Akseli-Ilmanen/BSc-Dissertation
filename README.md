@@ -97,6 +97,19 @@ Below is an example comparison, to illustrate differences in fast vs slow time p
 | Serotonergic psychedelics           | Stimulants                          |
 :-------------------------:|:-------------------------:
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/seron_psychedelics.png) | ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/Stimulants.png)
+
+
+## BERTopic analysis
+
+Here is a preliminary graph and the [Erowid Quotes finder tool]([url](https://akseli-ilmanen.github.io/Altered-Time-Perception-Quotes/)). More coming soon!
+
+
+
+
+
+
+
+
 ## References
 
 [^1]: Erowid E, Erowid F. "The Value of Experience". Erowid Extracts. Jun 2006;10:14-19.
