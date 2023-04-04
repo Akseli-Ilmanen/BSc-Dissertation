@@ -105,7 +105,7 @@ I am also using [BERTopic library](maartengr.github.io/BERTopic/index.html)[^7] 
 
 ![image](https://user-images.githubusercontent.com/107996462/229664009-6f857be4-62f2-4151-8b38-53e33215f9ff.png)
 
-If you are interested in the details of these topics, use the [Erowid Quotes finder tool](https://akseli-ilmanen.github.io/Altered-Time-Perception-Quotes/) to find quotes for specific topics. There you can filter topics by class or substance. More coming soon!
+If you are interested in the details of these topics, use the [Erowid Quotes finder tool](https://akseli-ilmanen.github.io/BSc-Dissertation/) to find quotes for specific topics. There you can filter topics by class or substance. More coming soon!
 
 ## References
 
