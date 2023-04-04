@@ -101,7 +101,7 @@ Below is an example comparison, to illustrate differences in fast vs slow time p
 
 ## BERTopic analysis
 
-Here is a preliminary graph and the [Erowid Quotes finder tool]([url](https://akseli-ilmanen.github.io/Altered-Time-Perception-Quotes/)). More coming soon!
+Here is a preliminary graph and the [Erowid Quotes finder tool](https://akseli-ilmanen.github.io/Altered-Time-Perception-Quotes/). More coming soon!
 
 
 
