@@ -18,7 +18,8 @@ The code is currently incomplete, the rest of it is coming soon.
 This diagram explains the main idea of this method briefly.
 
 <br />
-![image](https://user-images.githubusercontent.com/107996462/229903606-1834fda2-c336-4e41-b53b-4005f301c6f2.png)
+![image](https://user-images.githubusercontent.com/107996462/229903787-db8d892d-27a5-4886-804b-f90757a142b3.png)
+
 
 <br />
 
