@@ -101,7 +101,7 @@ Below is an example comparison, to illustrate differences in fast vs slow time p
 
 ## BERTopic analysis
 
-I am also using [BERTopic library](maartengr.github.io/BERTopic/index.html)[^7] to identify topics across Erowid reports. Below is a screenshot for one of my graphs. There is a lot of information, so I recommend looking at the [interactive version](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/82685edbc1f5a3faff4e5c741e616d41acb8ec64/my_plotly.html) of this graph.
+I am also using [BERTopic library](maartengr.github.io/BERTopic/index.html)[^7] to identify topics across Erowid reports. Below is a screenshot for one of my graphs. There is a lot going on, so I recommend using the [interactive version](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/82685edbc1f5a3faff4e5c741e616d41acb8ec64/my_plotly.html) to play around with this graph.
 
 ![image](https://user-images.githubusercontent.com/107996462/229664009-6f857be4-62f2-4151-8b38-53e33215f9ff.png)
 
