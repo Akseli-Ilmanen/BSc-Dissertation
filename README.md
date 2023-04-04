@@ -103,8 +103,9 @@ Below is an example comparison, to illustrate differences in fast vs slow time p
 
 Here is a preliminary graph and the [Erowid Quotes finder tool](https://akseli-ilmanen.github.io/Altered-Time-Perception-Quotes/). More coming soon!
 
-<iframe src="https://cdn.jsdelivr.net/gh/Akseli-Ilmanen/BSc-Dissertation/my_plotly.html" width="100%" height="500px"></iframe>
+![image](https://user-images.githubusercontent.com/107996462/229662326-e0f2a6a8-6fa6-4480-835d-7102773528bf.png)
 
+For an interactive version of this graph click ([here](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/82685edbc1f5a3faff4e5c741e616d41acb8ec64/my_plotly.html)).
 
 ## References
 
