@@ -90,7 +90,7 @@ This step was particularly important to remove many hub node - island node pairs
 
 ## Comparing psychoactive classes
 
-Psychoactive substances were categorized into classes using the classification scheme from[^6]. For my implementation see 'AI_Diss2_diss_pre-processing1.ipynb'.
+Psychoactive substances were categorized into classes using the classification scheme from[^6].
 
 Below is an example comparison, to illustrate differences in fast vs slow time perception across classes. (The comparison is not ideal since they are roughly 4x as many reports for serotonergic psychedelics compared to stimulants).
 
