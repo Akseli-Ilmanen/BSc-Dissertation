@@ -17,9 +17,7 @@ The code is currently incomplete, the rest of it is coming soon.
 
 This diagram explains the main idea of this method briefly.
 
-<br />
-![image](https://user-images.githubusercontent.com/107996462/229903787-db8d892d-27a5-4886-804b-f90757a142b3.png)
-
+![image](https://user-images.githubusercontent.com/107996462/230783450-5b42ed51-ee46-4f4f-9d7b-137af0257616.png)
 
 <br />
 
