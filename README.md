@@ -41,8 +41,7 @@ The graph above has 1277 nodes 4,912 edges. This is a subset of all the possible
 
 #### Graph 2
 
-![image](https://user-images.githubusercontent.com/107996462/208223781-24197bf5-af73-4600-aefb-067992b02d92.png)
-
+![image](https://user-images.githubusercontent.com/107996462/230783406-331be6c8-ddd8-4646-913a-1bd7d735c7cb.png)
 
 
 ## Node & edge filtering problem[^2] 
