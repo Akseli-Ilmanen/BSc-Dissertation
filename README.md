@@ -92,7 +92,7 @@ Psychoactive substances were categorized into classes using the classification s
 Below is an example comparison, to illustrate differences in fast vs slow time perception across classes. (The comparison is not ideal since they are roughly 4x as many reports for serotonergic psychedelics compared to stimulants).
 
 
-| Two groups |
+
 | Serotonergic psychedelics           | Stimulants                          |
 :-------------------------:|:-------------------------:
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/seron_psychedelics.png) | ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/Stimulants.png)
