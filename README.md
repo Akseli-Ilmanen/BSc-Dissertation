@@ -63,7 +63,8 @@ The relative frequency $rf$ captures word frequency in the Time corpus (all cont
 
 ### Step 2: 
 
-Step 1 tends to disproportionately favour rare words, as they may stochastically appear close by time words and never outside the Time corpus. Yet, if these rare words reappear in similar word contexts, we may assume they represent semantically coherent phenomena. I assume in a co-occurence network, words representing a semantically coherent phenomena would cluster together. Therefore, the network measure [betweeness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality) might capture which words are central to this clustering. 
+Step 1 ![Gephi DMT](https://user-images.githubusercontent.com/107996462/231260665-304c19ee-bde3-4891-b026-bf57bec4d52c.png)
+tends to disproportionately favour rare words, as they may stochastically appear close by time words and never outside the Time corpus. Yet, if these rare words reappear in similar word contexts, we may assume they represent semantically coherent phenomena. I assume in a co-occurence network, words representing a semantically coherent phenomena would cluster together. Therefore, the network measure [betweeness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality) might capture which words are central to this clustering. 
 
 - [x] Filter all the edges where either of the two nodes is not in the top k<sup>th</sup> percentile sorted by their betweeness centrality scores (This step is similar to the 'strong version' of step 1).
 
