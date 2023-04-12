@@ -107,7 +107,7 @@ LSD (Substance) | LSD (Substance)
 DMT (Substance) | DMT (Substance)
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_PNG/Gephi_unedited_DMT.png) | ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/DMT.png) 
 Cannabis spp. (Substance) | Cannabis spp. (Substance)
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_PNG/Gephi_unedited_Cannabis_spp.png) | ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/Cannabis spp.png) 
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_PNG/Gephi_unedited_Cannabis_spp.png) | ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/Cannabis_spp.png) 
 MDMA (Substance) | MDMA (Substance)
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_PNG/Gephi_unedited_MDMA.png) | ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/MDMA.png) 
 
