@@ -89,51 +89,7 @@ This step was particularly important to remove many hub node - island node pairs
 
 Psychoactive substances were categorized into classes using the classification scheme from[^6].
 
-<table style="table-layout:fixed; width:100%">
-  <thead>
-    <tr>
-      <th style="width: 50%">Co-occurence networks</th>
-      <th style="width: 50%">BERTopic modelling</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="width: 50%; vertical-align: top;">
-        <table style="table-layout:fixed; width:100%">
-          <thead>
-            <tr>
-              <th style="font-size: 24px; text-align: center;">Depressants/sedatives (Class)</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td><img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Depressant_sedatives.png?raw=true" alt="Depressants/sedatives"></td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
-      <td style="width: 50%; vertical-align: top;">
-        <table style="table-layout:fixed; width:100%">
-          <thead>
-            <tr>
-              <th style="font-size: 24px; text-align: center;">BERTopic modelling</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td><img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png?raw=true" alt="BERTopic modelling"></td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
-    </tr>
-    <!-- Add more rows like above for other images -->
-  </tbody>
-</table>
 
-    
-       
-       
 
 ## BERTopic analysis
 
