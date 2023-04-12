@@ -33,7 +33,7 @@ This grah was created in Gephi[^4], using the modularity clustering algorithm[^5
 
 This graph has 848 nodges and 1,272 edges, which is a small subset of all the possible 12,550 nodes and 676,305 edges for this class. This larger graph would be too large to interpret, therefore the majority of nodges and edges were filtered. One could filter all edges with a weight below a global threshold. Yet, because of the heavy-tailed distribution of word frequencies (see also [Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law)), this would disproportionately affect rare words, potentially important for the phenomeology of time perception. 
 
-Here this problem was solved by first impelementing a variation of the [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) equation, and only keeping edges where either node is in the top k<sup>th</sup> percentile of words sorted by their $tfidf$ scores. Next the equation below was used to filter all edges that do "not carry a disproportionate fraction of a node's strength"[^2].
+Here this problem was solved by first impelementing a variation of the [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) equation, and only keeping edges where both nodes are in the top k<sup>th</sup> percentile of words sorted by their $tfidf$ scores. Next the equation below was used to filter all edges that do "not carry a disproportionate fraction of a node's strength"[^2].
 
 $$p_{ij} = (1 - \frac{w_{ij}}{s_{i}})^{k_{i} - 1}$$
 
