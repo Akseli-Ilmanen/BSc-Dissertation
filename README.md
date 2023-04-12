@@ -47,7 +47,7 @@ One goal of this analysis is to find out which subjective experiences are simila
 As another way to interpret the data, I used the [BERTopic library](maartengr.github.io/BERTopic/index.html)[^7] to identify topics across Erowid reports. On the right you can see screenshots from such BERTopics interactive graphs. To access the interactive graph, click on the images on the right. (I recommend using a desktop browser for this). If you are interested in the details of these topics, use the [Erowid Quotes finder tool](https://akseli-ilmanen.github.io/BSc-Dissertation/) to find quotes for specific topics. There you can filter topics by class or substance.
 
 
-![BERTopic graphs](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/FILES/Github-gif.gif)
+![BERTopic graphs](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Github-gif.gif)
 **Hint**: Double-click on a topic in the legend, unselects all other topics.
 
 
