@@ -102,7 +102,7 @@ test | test
 | Co-occurence networks          | BERTopic modelling                          |
 :-------------------------:|:-------------------------:
 Depressant / sedatives | Depressant / sedatives
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Graphs/Gephi_unedited_Depressant_sedatives) | text
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Graphs/Gephi_unedited_Depressant_sedatives) | ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Graphs/Gephi_unedited_Depressant_sedatives)
 test | test 
 
 
