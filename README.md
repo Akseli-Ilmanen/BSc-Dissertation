@@ -15,71 +15,30 @@ The code is currently incomplete, the rest of it is coming soon.
  
 ## Context-window co-occurence network: Method
 
-This diagram explains the main idea of this method briefly.
+This diagram explains the main idea of this method.
 
-![image](https://user-images.githubusercontent.com/107996462/230783450-5b42ed51-ee46-4f4f-9d7b-137af0257616.png)
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/analysis_1_method)
 
 <br />
 
 ## Context-window co-occurence network: Example
 
-Below is a co-occurence network with seed words determining the colour. It was created applying the method above to all the psychoactive substance reports. 
-
-For an interactive similar version, click [here](https://akseli-ilmanen.github.io/Online-Gephi-Test/network). The interactive version works only on a browser not on a phone. The clustering algorithm applied is similar but there nodes and edges are coloured not by seed word but by their local cluster.
+Below is a co-occurence network with seed words determining the colour. It was created applying the method above to all the substance class Serotonergic psychedelics. 
 
 #### Graph 1
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/Files/Gephi_Serotonergic_psychedelics.svg)
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Gephi_Serotonergic_psychedelics.svg)
 
 
-These graphs are created in Gephi[^4], using the modularity clustering algorithm[^5], commonly known as the [Louvain algorithm](https://en.wikipedia.org/wiki/Louvain_method), and the 'Circle Pack' layout plugin. The colour gradient labelling was created using a Sigmoid function, passing through the origin. (Details coming soon). The size of the nodes corresponds to their [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)).
+This grah was created in Gephi[^4], using the modularity clustering algorithm[^5], commonly known as the [Louvain algorithm](https://en.wikipedia.org/wiki/Louvain_method), and the 'Circle Pack' layout plugin. The size of the nodes corresponds to their [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)).
 
+This graph has 848 nodges and 1,272 edges, which is a small subset of all the possible 12,550 nodes and 676,305 edges for this class. This larger graph would be too large to interpret, therefore the majority of nodges and edges were filtered. One could filter all edges with a weight below a global threshold. Yet, because of the heavy-tailed distribution of word frequencies (see also [Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law)), this would disproportionately affect rare words, potentially important for the phenomeology of time perception. 
 
-The graph above has 1277 nodes 4,912 edges. This is a subset of all the possible 13,870 nodes 1,091,046 edges that were collected using the method above (context window = 4). A larger graph using all these nodes and edges, such as the one below, may actually tell us less.
-
-
-
-## Node & edge filtering problem[^2] 
-
-To create the smaller and more meaningful graph, edges have to be filtered by some approach. One could filter all edges with a weight below a global threshold. Yet, because of the heavy-tailed distribution of word frequencies (see also [Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law)), this would disproportionately affect rare words, potentially important for the phenomeology of time perception. 
-
-Here, I solved this problem through the following steps: 
-
-### Step 1: 
-
-The assumption for this step is that words co-occuring frequently nearby the seed words but less frequently in other context are the most important words related to time. This is losely inspired by [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf).
-
-
-#### Equation 1
-
-$$rf = \frac{f_{Time}}{f_{Erowid}}$$
-
-The relative frequency $rf$ captures word frequency in the Time corpus (all context windows concatenated) relative to its frequency in the entire Erowid corpus. (Co-occurence networsk of specific classes :arrow_down: will consider $rf$ from their Class corpus).
-
-- [x] Filter all the edges where neither node is in the top k<sup>th</sup> percentile of words in the time corpus sorted by their $rf$ scores. (A stronger version of this filters all edges where if any one of the two nodes is not in the top k<sup>th</sup> percentile).
-
-### Step 2: 
-
-Step 1 tends to disproportionately favour rare words, as they may stochastically appear close by time words and never outside the Time corpus. Yet, if these rare words reappear in similar word contexts, we may assume they represent semantically coherent phenomena. I assume in a co-occurence network, words representing a semantically coherent phenomena would cluster together. Therefore, the network measure [betweeness centrality](https://en.wikipedia.org/wiki/Centrality#Betweenness_centrality) might capture which words are central to this clustering. 
-
-- [x] Filter all the edges where either of the two nodes is not in the top k<sup>th</sup> percentile sorted by their betweeness centrality scores (This step is similar to the 'strong version' of step 1).
-
-Betweeness centrality scores were calculated using NetworkX[^3]. For formulae and code see [here](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.centrality.betweenness_centrality.html).
-
-**Why step 1 before step 2**: As you can see in graph 2, some of the major nodes are 'drug', 'feel', 'life' or 'experience'. They are very frequent across the Erowid corpus. If one were to calculate the betweeness centrality for a network of all the words in the Erowid corpus or Time corpus, they would have the highest scores. However, if one calculates the betweeness centrality for a subset of words (with high $rf$), the words 'space', 'peak' and 'check' have the highest betweeness centrality. I think the latter is telling us more about the phenomeology of time perception. 
-
-### Step 3: 
-
-Equation 2 considers the weight of an edge relative to the degree and and strength of a node, thus filter all edges that do "not carry a disproportionate fraction of a node's strength"[^2].
-
-#### Equation 2[^2]:
+Here this problem was solved by first impelementing a variation of the [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) equation, and only keeping edges where either node is in the top k<sup>th</sup> percentile of words sorted by their $tfidf$ scores. Next the equation below was used to filter all edges that do "not carry a disproportionate fraction of a node's strength"[^2].
 
 $$p_{ij} = (1 - \frac{w_{ij}}{s_{i}})^{k_{i} - 1}$$
 
 $w_{ij}$ is the weight of an edge. $k_{i}$ and $s_{i}$ are the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)) and strength of a node<sub>i</sub>. The strength is a weighted version of degree by multiplying the sum of all the weights of edges to/from that node.
 
-- [x] Filter all the edges where the probability $p_{ij}$ of an edge<sub>ij</sub> (of node<sub>i</sub> and node<sub>j</sub>) was above a certain threshold. 
-
-This step was particularly important to remove many hub node - island node pairs. These were pairs where a hub word such as 'heart' co-occurred with an obscure word X, and X never co-occured with any other node in the network. Since, they majority of the words were island nodes, not excluding these pairs, resulted in network structures where every hub node is surrounded by and island of island nodes. This makes it difficult to understand how intermediate or hub nodes relate to each other.
 
 ## Comparing psychoactive classes
 
