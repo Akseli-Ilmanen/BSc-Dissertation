@@ -28,18 +28,14 @@ Below is a co-occurence network with seed words determining the colour. It was c
 For an interactive similar version, click [here](https://akseli-ilmanen.github.io/Online-Gephi-Test/network). The interactive version works only on a browser not on a phone. The clustering algorithm applied is similar but there nodes and edges are coloured not by seed word but by their local cluster.
 
 #### Graph 1
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/Github.svg)
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/Files/Gephi_Serotonergic_psychedelics.svg)
 
-![image](https://user-images.githubusercontent.com/107996462/207780649-8a6e5feb-7ece-47ef-a606-95caf77fab72.png)
 
 These graphs are created in Gephi[^4], using the modularity clustering algorithm[^5], commonly known as the [Louvain algorithm](https://en.wikipedia.org/wiki/Louvain_method), and the 'Circle Pack' layout plugin. The colour gradient labelling was created using a Sigmoid function, passing through the origin. (Details coming soon). The size of the nodes corresponds to their [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)).
 
 
 The graph above has 1277 nodes 4,912 edges. This is a subset of all the possible 13,870 nodes 1,091,046 edges that were collected using the method above (context window = 4). A larger graph using all these nodes and edges, such as the one below, may actually tell us less.
 
-#### Graph 2
-
-![image](https://user-images.githubusercontent.com/107996462/230783406-331be6c8-ddd8-4646-913a-1bd7d735c7cb.png)
 
 
 ## Node & edge filtering problem[^2] 
