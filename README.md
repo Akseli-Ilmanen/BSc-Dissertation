@@ -11,7 +11,7 @@ These are quotes from a psychoactive substance report from the [Erowid Experienc
 
 All the code used for this (ongoing) dissertation is accessible in Jupyter Notebook format and supplemented with extensive notes. Feel free to use it. 
 
-The code is currently incomplete, the rest of it is coming soon.
+The code is currently incomplete, the rest of it, and a accompanying paper is coming soon.
  
 ## Context-window co-occurence network: Method
 
@@ -23,7 +23,7 @@ This diagram explains the main idea of this method.
 
 ## Context-window co-occurence network: Example
 
-Below is a co-occurence network with seed words determining the colour. It was created applying the method above to all the substance class Serotonergic psychedelics. 
+Below is a co-occurence network with seed words determining the colour. It was created applying the method above to the class of Serotonergic psychedelics. 
 
 #### Serotonoergic psychedelics
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Gephi_Serotonergic_psychedelics.svg)
