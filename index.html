@@ -3,12 +3,16 @@
 <head>
   <title>My Webpage</title>
   <style>
-    label {
-      font-size: 18px;
+    /* Default font size */
+    label, select {
+      font-size: 16px;
     }
 
-    select {
-      font-size: 16px;
+    /* Media query for mobile devices */
+    @media only screen and (max-width: 600px) {
+      label, select {
+        font-size: 30px;
+      }
     }
   </style>
 </head>
