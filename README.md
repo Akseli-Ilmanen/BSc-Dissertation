@@ -45,17 +45,16 @@ $w_{ij}$ is the weight of an edge. $k_{i}$ and $s_{i}$ are the [degree](https://
 <br />
 
 ## BERTopic modelling: Serotonoergic psychedelics example
-As another way to interpret the data, I used the [BERTopic library](maartengr.github.io/BERTopic/index.html)[^7] to identify topics across Erowid reports. BERTopic uses [BERT embeddings](https://en.wikipedia.org/wiki/BERT_(language_model)), [umap](https://pair-code.github.io/understanding-umap/) dimensionality reduction, and a cluster-tifidf scheme, amongst other things.
+As another way to interpret the data, I used the [BERTopic library](maartengr.github.io/BERTopic/index.html)[^7] to identify topics across Erowid reports. BERTopic uses [BERT embeddings](https://en.wikipedia.org/wiki/BERT_(language_model)), [umap](https://pair-code.github.io/understanding-umap/) dimensionality reduction, and a cluster-tifidf scheme, amongst other things. The input for BERTopic were documents (context windows C=15), which were clustered into topics. On the graph below (available [here](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_Serotonergic%20psychedelics.html)), each node represents a document. In colour mode 0, the colour corresponds to the document's topic, whilst in colour mode 2 is is based on whether the seed word of the document was a normal, fast or slow time perception word.
 
 #### Interactive graphs
-The interactive graph below is available [here](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_Serotonergic%20psychedelics.html
-). **Hint**: Double-click on a topic in the legend unselects all other topics. 
+**Hint**: Double-click on a topic in the legend unselects all other topics. 
 ![BERTopic graphs](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Github-gif.gif)
 
 
 ## Comparing psychoactive substances and classes
 
-One goal of this analysis is to find out which subjective experiences are similar across substances. Below (left) are the co-occurence graphs for a number of substances and classes. For high resolution versions of all the co-occurence graphs see this [page](https://raw.githubusercontent.com/Akseli-Ilmanen/BSc-Dissertation/33d9a21dc39a4e300fd467d75b709b95feb7a42f/Graphs/Co-ocurrence%20networks%20high%20resolution%20page%20reduced%20size.svg). On the right you can see screenshots from such BERTopics interactive graphs. Click on the images to access the interactive graph. (I recommend using a desktop browser for this). For the classification scheme of substances and classes see.[^6] 
+One goal of this analysis is to find out which subjective experiences are similar across substances. Below (left) are the co-occurence graphs for a number of substances and classes. For high resolution versions of all the co-occurence graphs see this [page](https://raw.githubusercontent.com/Akseli-Ilmanen/BSc-Dissertation/33d9a21dc39a4e300fd467d75b709b95feb7a42f/Graphs/Co-ocurrence%20networks%20high%20resolution%20page%20reduced%20size.svg). On the right you can see screenshots from such BERTopics interactive graphs. Click on the images to access the interactive graph. (I recommend using a desktop browser for this). For the classification scheme of substances and classes see [^6].
 
 If you are interested in examples for the topics on the right, you can use the [Erowid Quotes finder tool](https://akseli-ilmanen.github.io/BSc-Dissertation/) to find quotes for specific topics. There you can filter topics by class or substance.
 
