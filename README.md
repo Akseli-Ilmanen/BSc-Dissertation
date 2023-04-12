@@ -5,7 +5,7 @@ Consider these quotes:
  
  > "At one point I asked how long it had been and I received the answer "5 minutes", that was after some eternities."
 
-These are quotes from a psychoactive substance report from the [Erowid Experience Vault](https://erowid.org/experiences/exp_front.shtml/).[^1] Within the total of nearly 40,000 reports, many of them describe experiences of altered time perception. Using a graph-driven approach, I am exploring these experiences.
+These are quotes from a psychoactive substance report from the [Erowid Experience Vault](https://erowid.org/experiences/exp_front.shtml/).[^1] Within the total of nearly 40,000 reports, many of them describe experiences of altered time perception. Below is a graph-driven approach to these experiences.
 
 ## Code
 
