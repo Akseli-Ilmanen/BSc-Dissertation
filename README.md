@@ -89,33 +89,50 @@ This step was particularly important to remove many hub node - island node pairs
 
 Psychoactive substances were categorized into classes using the classification scheme from[^6].
 
-<table>
-  <tr>
-    <th>Co-occurence networks</th>
-    <th>BERTopic modelling</th>
-  </tr>
-  <tr>
-    <td align="center">Depressants/sedatives (Class)<br><img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Depressant_sedatives.png" alt="Depressants/sedatives (Class)"></td>
-    <td align="center"><img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="Depressants/ sedatives (Class)"></td>
-  </tr>
-  <tr>
-    <td align="center">Stimulants (Class)<br><img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Stimulants.png" alt="Stimulants (Class)"></td>
-    <td align="center"><img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="Stimulants (Class)"></td>
-  </tr>
-  <tr>
-    <td align="center">Dissociative psychedelic (Class)<br><img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Dissociative_psychedelics.png" alt="Dissociative psychedelic (Class)"></td>
-    <td align="center"><img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="Dissociative psychedelic (Class)"></td>
-  </tr>
-  <tr>
-    <td align="center">Antidepressants/ antipsychotics (Class)<br><img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Antidepressants_antipsychotics.png" alt="Antidepressants/ antipsychotics (Class)"></td>
-    <td align="center"><img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="Antidepressants/ antipsychotics (Class)"></td>
-  </tr>
-  <tr>
-    <td align="center">Psilocybin_mushroms (Substance)<br><img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Psilocybin_mushroms.png.png" alt="Psilocybin_mushroms (Substance)"></td>
-    <td align="center"><img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="Psilocybin_mushroms (Substance)"></td>
-  </tr>
-  <tr>
-    <td align="center">LSD (Substance)<br><img src
+<table style="width:100%">
+  <colgroup>
+    <col style="width:50%">
+    <col style="width:50%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th style="font-size: 24px">Co-occurence networks</th>
+      <th style="font-size: 24px">BERTopic modelling</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align:top">
+        <p style="text-align:center;font-weight:bold;">Depressants/sedatives (Class)</p>
+        <img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Depressant_sedatives.png" alt="Depressants/sedatives (Class) image" style="display:block;margin:auto;width:80%">
+      </td>
+      <td style="vertical-align:top">
+        <img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="BERTopic modelling image" style="display:block;margin:auto;width:80%">
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align:top">
+        <p style="text-align:center;font-weight:bold;">Stimulants (Class)</p>
+        <img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Stimulants.png" alt="Stimulants (Class) image" style="display:block;margin:auto;width:80%">
+      </td>
+      <td style="vertical-align:top">
+        <img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="BERTopic modelling image" style="display:block;margin:auto;width:80%">
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align:top">
+        <p style="text-align:center;font-weight:bold;">Dissociative psychedelic (Class)</p>
+        <img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Dissociative_psychedelics.png" alt="Dissociative psychedelic (Class) image" style="display:block;margin:auto;width:80%">
+      </td>
+      <td style="vertical-align:top">
+        <img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="BERTopic modelling image" style="display:block;margin:auto;width:80%">
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align:top">
+        <p style="text-align:center;font-weight:bold;">Antidepressants/antipsychotics (Class)</p>
+        <img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Antidepressants_antipsychotics.png" alt="Antidepressants/antipsychotics (Class) image" style="display:block;margin:auto;width:80%">
+      </
 
 
 
