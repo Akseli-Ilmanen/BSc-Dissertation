@@ -24,11 +24,11 @@ This diagram explains the main idea of this method.
 
 <br />
 
-## Context-window co-occurence network: Example
+## Context-window co-occurence network: Serotonoergic psychedelics example
 
 Below is a co-occurence network with seed words determining the colour. It was created applying the method above to the class of Serotonergic psychedelics. 
 
-### Serotonoergic psychedelics
+ 
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Gephi_Serotonergic_psychedelics.svg)
 
 
@@ -44,7 +44,7 @@ $w_{ij}$ is the weight of an edge. $k_{i}$ and $s_{i}$ are the [degree](https://
 
 <br />
 
-## BERTopic modelling
+## BERTopic modelling: Serotonoergic psychedelics example
 As another way to interpret the data, I used the [BERTopic library](maartengr.github.io/BERTopic/index.html)[^7] to identify topics across Erowid reports. BERTopic uses [BERT embeddings](https://en.wikipedia.org/wiki/BERT_(language_model)), [umap](https://pair-code.github.io/understanding-umap/) dimensionality reduction, and a cluster-tifidf scheme, amongst other things.
 
 #### Interactive graphs
