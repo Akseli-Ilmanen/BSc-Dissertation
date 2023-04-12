@@ -17,7 +17,7 @@ The code is currently incomplete, the rest of it is coming soon.
 
 This diagram explains the main idea of this method.
 
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/analysis_1_method)
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/analysis_1_method.png)
 
 <br />
 
@@ -25,11 +25,11 @@ This diagram explains the main idea of this method.
 
 Below is a co-occurence network with seed words determining the colour. It was created applying the method above to all the substance class Serotonergic psychedelics. 
 
-#### Graph 1
+#### Serotonoergic psychedelics
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Gephi_Serotonergic_psychedelics.svg)
 
 
-This grah was created in Gephi[^4], using the modularity clustering algorithm[^5], commonly known as the [Louvain algorithm](https://en.wikipedia.org/wiki/Louvain_method), and the 'Circle Pack' layout plugin. The size of the nodes corresponds to their [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)).
+This grah was created in Gephi[^4], using the modularity clustering algorithm[^5], commonly known as the [Louvain algorithm](https://en.wikipedia.org/wiki/Louvain_method), and the 'Circle Pack' layout plugin. The size of the nodes corresponds to their [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)). The colour of nodes and edges are determined by the type of seed words they tend co-occur in (see methods visualization). 
 
 This graph has 848 nodges and 1,272 edges, which is a small subset of all the possible 12,550 nodes and 676,305 edges for this class. This larger graph would be too large to interpret, therefore the majority of nodges and edges were filtered. One could filter all edges with a weight below a global threshold. Yet, because of the heavy-tailed distribution of word frequencies (see also [Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law)), this would disproportionately affect rare words, potentially important for the phenomeology of time perception. 
 
@@ -37,12 +37,15 @@ Here this problem was solved by first impelementing a variation of the [tf-idf](
 
 $$p_{ij} = (1 - \frac{w_{ij}}{s_{i}})^{k_{i} - 1}$$
 
-$w_{ij}$ is the weight of an edge. $k_{i}$ and $s_{i}$ are the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)) and strength of a node<sub>i</sub>. The strength is a weighted version of degree by multiplying the sum of all the weights of edges to/from that node.
+$w_{ij}$ is the weight of an edge. $k_{i}$ and $s_{i}$ are the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)) and strength of a node<sub>i</sub>. The strength is a weighted version of degree by multiplying the sum of all the weights of edges to/from that node. If $p_{ij}$ is above a set threshold, the edge is excluded.
 
 
 ## Comparing psychoactive classes
 
-Psychoactive substances were categorized into classes using the classification scheme from[^6].
+One goal of this analysis is to find out which subjective experiences are similar across substances. Below (left) are the co-occurence graphs for a number of classes and substances. For the classification scheme of classes and substances see[^6]. 
+
+As another way to interpret the data, I used the [BERTopic library](maartengr.github.io/BERTopic/index.html)[^7] to identify topics across Erowid reports. On the right you can see screenshots from such BERTopics interactive graphs. To access the interactive graph, click on the images. (I recommend using a browser for this). If you are interested in the details of these topics, use the [Erowid Quotes finder tool](https://akseli-ilmanen.github.io/BSc-Dissertation/) to find quotes for specific topics. There you can filter topics by class or substance.
+
 
 | Co-occurence networks          | BERTopic modelling                          |
 :-------------------------:|:-------------------------:
@@ -65,15 +68,10 @@ Cannabis spp. (Substance) | Cannabis spp. (Substance)
 MDMA (Substance) | MDMA (Substance)
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_PNG/Gephi_unedited_MDMA.png) | [![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/MDMA.png)](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_MDMA.html)
 
+Above is a selection of co-occurence networks and BERTopic graphs. Besides these, I also created graphs for the classes Deliriants([here](https://raw.githubusercontent.com/Akseli-Ilmanen/BSc-Dissertation/33d9a21dc39a4e300fd467d75b709b95feb7a42f/Graphs/Co-ocurrence%20networks%20high%20resolution%20page%20reduced%20size.svg) and [here](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_Deliriants.html)), Entactogens ([here](https://raw.githubusercontent.com/Akseli-Ilmanen/BSc-Dissertation/33d9a21dc39a4e300fd467d75b709b95feb7a42f/Graphs/Co-ocurrence%20networks%20high%20resolution%20page%20reduced%20size.svg) and [here](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_Entactogens.html)), and the substance Salvia divinorum ([here](https://raw.githubusercontent.com/Akseli-Ilmanen/BSc-Dissertation/33d9a21dc39a4e300fd467d75b709b95feb7a42f/Graphs/Co-ocurrence%20networks%20high%20resolution%20page%20reduced%20size.svg) and [here](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_Salvia%20divinorum.html)).
 
 
-## BERTopic analysis
 
-I am also using [BERTopic library](maartengr.github.io/BERTopic/index.html)[^7] to identify topics across Erowid reports. Below is a screenshot for one of my graphs. There is a lot going on, so I recommend using the [interactive version](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/407b29eef8ef677def4d59cd2b5e12fccc71a5d7/BERTopic%20Plotly.html) to play around with this graph.
-
-![image](https://user-images.githubusercontent.com/107996462/229903690-f6df344a-af8d-48d9-b325-8bad01d98661.png)
-
-If you are interested in the details of these topics, use the [Erowid Quotes finder tool](https://akseli-ilmanen.github.io/BSc-Dissertation/) to find quotes for specific topics. There you can filter topics by class or substance. More coming soon!
 
 ## References
 
