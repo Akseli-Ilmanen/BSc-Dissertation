@@ -94,22 +94,6 @@ Psychoactive substances were categorized into classes using the classification s
 :-------------------------:|:-------------------------:
 Depressants/sedatives (Class) | Depressants/ sedatives (Class) 
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Depressant_sedatives.png) | ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png) 
-Stimulants (Class) | Stimulants (Class)
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Stimulants.png) | text
-Dissociative psychedelic (Class) | Dissociative psychedelic (Class)
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Dissociative_psychedelics.png) | text
-Antidepressants/ antipsychotics (Class) | Antidepressants/ antipsychotics (Class)
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Antidepressants_antipsychotics.png) | text
-Psilocybin_mushroms (Substance) | Psilocybin_mushroms (Substance)
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Psilocybin_mushroms.png.png) | text
-LSD (Substance) | LSD (Substance)
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_LSD.png) | text
-DMT (Substance) | DMT (Substance)
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_DMT.png) | text
-Cannabis spp. (Substance) | Cannabis spp. (Substance)
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Cannabis_spp.png) | text
-MDMA (Substance) | MDMA (Substance)
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_MDMA.png) | text
 
 
 ## BERTopic analysis
