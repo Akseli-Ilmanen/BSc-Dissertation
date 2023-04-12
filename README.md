@@ -28,7 +28,7 @@ This diagram explains the main idea of this method.
 
 Below is a co-occurence network with seed words determining the colour. It was created applying the method above to the class of Serotonergic psychedelics. 
 
-#### Serotonoergic psychedelics
+### Serotonoergic psychedelics
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Gephi_Serotonergic_psychedelics.svg)
 
 
