@@ -89,21 +89,27 @@ This step was particularly important to remove many hub node - island node pairs
 
 Psychoactive substances were categorized into classes using the classification scheme from[^6].
 
-Below is an example comparison, to illustrate differences in fast vs slow time perception across classes. (The comparison is not ideal since they are roughly 4x as many reports for serotonergic psychedelics compared to stimulants).
-
-
-
-| Serotonergic psychedelics           | Stimulants                          |
-:-------------------------:|:-------------------------:
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/seron_psychedelics.png) | ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/Stimulants.png)
-test | test 
-
 
 | Co-occurence networks          | BERTopic modelling                          |
 :-------------------------:|:-------------------------:
-Depressant / sedatives | Depressant / sedatives
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Graphs/Gephi_unedited_Depressant_sedatives.png) | text
-test | test 
+Depressants/sedatives (Class) | Depressants/ sedatives (Class) 
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Depressant_sedatives.png) | ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png) 
+Stimulants (Class) | Stimulants (Class)
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Stimulants.png) | text
+Dissociative psychedelic (Class) | Dissociative psychedelic (Class)
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Dissociative_psychedelics.png) | text
+Antidepressants/ antipsychotics (Class) | Antidepressants/ antipsychotics (Class)
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Antidepressants_antipsychotics.png) | text
+Psilocybin_mushroms (Substance) | Psilocybin_mushroms (Substance)
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Psilocybin_mushroms.png.png) | text
+LSD (Substance) | LSD (Substance)
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_LSD.png) | text
+DMT (Substance) | DMT (Substance)
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_DMT.png) | text
+Cannabis spp. (Substance) | Cannabis spp. (Substance)
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Cannabis_spp.png) | text
+MDMA (Substance) | MDMA (Substance)
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_MDMA.png) | text
 
 
 ## BERTopic analysis
