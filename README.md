@@ -89,52 +89,51 @@ This step was particularly important to remove many hub node - island node pairs
 
 Psychoactive substances were categorized into classes using the classification scheme from[^6].
 
-<table style="width:100%">
-  <colgroup>
-    <col style="width:50%">
-    <col style="width:50%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th style="font-size: 24px">Co-occurence networks</th>
-      <th style="font-size: 24px">BERTopic modelling</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="vertical-align:top">
-        <p style="text-align:center;font-weight:bold;">Depressants/sedatives (Class)</p>
-        <img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Depressant_sedatives.png" alt="Depressants/sedatives (Class) image" style="display:block;margin:auto;width:80%">
-      </td>
-      <td style="vertical-align:top">
-        <img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="BERTopic modelling image" style="display:block;margin:auto;width:80%">
-      </td>
-    </tr>
-    <tr>
-      <td style="vertical-align:top">
-        <p style="text-align:center;font-weight:bold;">Stimulants (Class)</p>
-        <img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Stimulants.png" alt="Stimulants (Class) image" style="display:block;margin:auto;width:80%">
-      </td>
-      <td style="vertical-align:top">
-        <img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="BERTopic modelling image" style="display:block;margin:auto;width:80%">
-      </td>
-    </tr>
-    <tr>
-      <td style="vertical-align:top">
-        <p style="text-align:center;font-weight:bold;">Dissociative psychedelic (Class)</p>
-        <img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Dissociative_psychedelics.png" alt="Dissociative psychedelic (Class) image" style="display:block;margin:auto;width:80%">
-      </td>
-      <td style="vertical-align:top">
-        <img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="BERTopic modelling image" style="display:block;margin:auto;width:80%">
-      </td>
-    </tr>
-    <tr>
-      <td style="vertical-align:top">
-        <p style="text-align:center;font-weight:bold;">Antidepressants/antipsychotics (Class)</p>
-        <img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Antidepressants_antipsychotics.png" alt="Antidepressants/antipsychotics (Class) image" style="display:block;margin:auto;width:80%">
-      </
-
-
+<table>
+<thead>
+<tr>
+<th style="font-size: 16px; width: 50%">Co-occurence networks</th>
+<th style="font-size: 16px; width: 50%">BERTopic modelling</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 50%">Psilocybin_mushroms (Substance)<br>
+<img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Psilocybin_mushroms.png.png" alt="Psilocybin_mushroms co-occurrence network">
+</td>
+<td style="width: 50%">Psilocybin_mushroms (Substance)<br>
+<img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="BERTopic model">
+</td>
+</tr>
+<tr>
+<td style="width: 50%">LSD (Substance)<br>
+<img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_LSD.png" alt="LSD co-occurrence network">
+</td>
+<td style="width: 50%">LSD (Substance)<br>
+<img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="BERTopic model">
+</td>
+</tr>
+<tr>
+<td style="width: 50%">DMT (Substance)<br>
+<img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_DMT.png" alt="DMT co-occurrence network">
+</td>
+<td style="width: 50%">DMT (Substance)<br>
+<img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="BERTopic model">
+</td>
+</tr>
+<tr>
+<td style="width: 50%">Cannabis spp. (Substance)<br>
+<img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Cannabis_spp.png" alt="Cannabis co-occurrence network">
+</td>
+<td style="width: 50%">Cannabis spp. (Substance)<br>
+<img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="BERTopic model">
+</td>
+</tr>
+<tr>
+</table>
+    
+       
+       
 
 ## BERTopic analysis
 
