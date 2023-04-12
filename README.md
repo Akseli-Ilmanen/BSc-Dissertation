@@ -96,8 +96,7 @@ Below is an example comparison, to illustrate differences in fast vs slow time p
 | Serotonergic psychedelics           | Stimulants                          |
 :-------------------------:|:-------------------------:
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/seron_psychedelics.png) | ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Images/Stimulants.png)
-
-| test | test |
+test | test 
 
 
 ## BERTopic analysis
