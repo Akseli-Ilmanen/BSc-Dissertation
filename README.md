@@ -40,7 +40,7 @@ $$p_{ij} = (1 - \frac{w_{ij}}{s_{i}})^{k_{i} - 1}$$
 $w_{ij}$ is the weight of an edge. $k_{i}$ and $s_{i}$ are the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)) and strength of a node<sub>i</sub>. The strength is a weighted version of degree by multiplying the sum of all the weights of edges to/from that node. If $p_{ij}$ is above a set threshold, the edge is excluded.
 
 
-## Comparing psychoactive classes
+## Comparing psychoactive substances and classes
 
 One goal of this analysis is to find out which subjective experiences are similar across substances. Below (left) are the co-occurence graphs for a number of classes and substances. For high resolution versions of all the co-occurence graphs see this [page](https://raw.githubusercontent.com/Akseli-Ilmanen/BSc-Dissertation/33d9a21dc39a4e300fd467d75b709b95feb7a42f/Graphs/Co-ocurrence%20networks%20high%20resolution%20page%20reduced%20size.svg). For the classification scheme of classes and substances see[^6]. 
 
