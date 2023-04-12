@@ -93,7 +93,7 @@ Psychoactive substances were categorized into classes using the classification s
 | Co-occurence networks          | BERTopic modelling                          |
 :-------------------------:|:-------------------------:
 Depressants/sedatives (Class) | Depressants/ sedatives (Class) 
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_PNG/Gephi_unedited_Depressant_sedatives.png) | ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/Depressants _sedatives.png) 
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_PNG/Gephi_unedited_Depressant_sedatives.png) | ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/Depressants_sedatives.png) 
 Stimulants (Class) | Stimulants (Class)
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_PNG/Gephi_unedited_Stimulants.png) | ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/Stimulants.png) 
 Dissociative psychedelics (Class) | Dissociative psychedelics (Class)
