@@ -1,7 +1,7 @@
 # Quantitative phenomenology of altered time perception
 
 Consider these quotes: 
- > "If ego is something we create by attaching a thought, sense or a memory of a moment to oneself, thereby marking the end of that moment; what happens when we try to attach a moment of egolessness to oneself? I spent the next 2-3 hours in an endless game of tug-of-war between this state of egolessness and my ego which was trying to process what just happened."
+ > "As to the 'present', well ... perhaps the true line of our perceived travel in time through reality is just going outwards, from the centre of a circle towards the circumference, on an infinite lollipop candy-like spiral; lines in the spiral all featuring eternities of time itself in various repetitions, and the travel in reality prime just being a movement from one candy-line of infinite possibilities to the next, along only one given instance of each realised possibility"
  
  > "At one point I asked how long it had been and I received the answer "5 minutes", that was after some eternities."
 
