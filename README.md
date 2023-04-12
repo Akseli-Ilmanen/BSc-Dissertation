@@ -99,6 +99,13 @@ Below is an example comparison, to illustrate differences in fast vs slow time p
 test | test 
 
 
+| Co-occurence networks          | BERTopic modelling                          |
+:-------------------------:|:-------------------------:
+Depressant / sedatives | Depressant / sedatives
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Graphs/Gephi unedited Depressant  sedatives) | text
+test | test 
+
+
 ## BERTopic analysis
 
 I am also using [BERTopic library](maartengr.github.io/BERTopic/index.html)[^7] to identify topics across Erowid reports. Below is a screenshot for one of my graphs. There is a lot going on, so I recommend using the [interactive version](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/407b29eef8ef677def4d59cd2b5e12fccc71a5d7/BERTopic%20Plotly.html) to play around with this graph.
