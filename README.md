@@ -25,7 +25,7 @@ This diagram explains the main idea of this method.
 
 Below is a co-occurence network with seed words determining the colour. It was created applying the method above to the class of Serotonergic psychedelics. 
 
-#### Serotonoergic psychedelics
+### Serotonoergic psychedelics
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Gephi_Serotonergic_psychedelics.svg)
 
 
@@ -40,15 +40,21 @@ $$p_{ij} = (1 - \frac{w_{ij}}{s_{i}})^{k_{i} - 1}$$
 $w_{ij}$ is the weight of an edge. $k_{i}$ and $s_{i}$ are the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)) and strength of a node<sub>i</sub>. The strength is a weighted version of degree by multiplying the sum of all the weights of edges to/from that node. If $p_{ij}$ is above a set threshold, the edge is excluded.
 
 
+## BERTopic modelling
+As another way to interpret the data, I used the [BERTopic library](maartengr.github.io/BERTopic/index.html)[^7] to identify topics across Erowid reports. BERTopic uses [BERT embeddings](https://en.wikipedia.org/wiki/BERT_(language_model)), [umap](https://pair-code.github.io/understanding-umap/) dimensionality reduction, and a cluster-tifidf scheme, amongst other things.
+
+#### Interactive graphs
+The interactive graph below is available [here](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_Serotonergic%20psychedelics.html
+). **Hint**: Double-click on a topic in the legend unselects all other topics. 
+![BERTopic graphs](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Github-gif.gif)
+
+
+
 ## Comparing psychoactive substances and classes
 
-One goal of this analysis is to find out which subjective experiences are similar across substances. Below (left) are the co-occurence graphs for a number of substances and classes. For high resolution versions of all the co-occurence graphs see this [page](https://raw.githubusercontent.com/Akseli-Ilmanen/BSc-Dissertation/33d9a21dc39a4e300fd467d75b709b95feb7a42f/Graphs/Co-ocurrence%20networks%20high%20resolution%20page%20reduced%20size.svg). For the classification scheme of substances and classes see[^6]. 
+One goal of this analysis is to find out which subjective experiences are similar across substances. Below (left) are the co-occurence graphs for a number of substances and classes. For high resolution versions of all the co-occurence graphs see this [page](https://raw.githubusercontent.com/Akseli-Ilmanen/BSc-Dissertation/33d9a21dc39a4e300fd467d75b709b95feb7a42f/Graphs/Co-ocurrence%20networks%20high%20resolution%20page%20reduced%20size.svg). On the right you can see screenshots from such BERTopics interactive graphs. Click on the images to access the interactive graph. (I recommend using a desktop browser for this). For the classification scheme of substances and classes see.[^6] 
 
-As another way to interpret the data, I used the [BERTopic library](maartengr.github.io/BERTopic/index.html)[^7] to identify topics across Erowid reports. On the right you can see screenshots from such BERTopics interactive graphs. To access the interactive graph, click on the images on the right. (I recommend using a desktop browser for this). If you are interested in the details of these topics, use the [Erowid Quotes finder tool](https://akseli-ilmanen.github.io/BSc-Dissertation/) to find quotes for specific topics. There you can filter topics by class or substance.
-
-
-![BERTopic graphs](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Github-gif.gif)
-**Hint**: Double-click on a topic in the legend, unselects all other topics.
+If you are interested in examples for the topics on the right, you can use the [Erowid Quotes finder tool](https://akseli-ilmanen.github.io/BSc-Dissertation/) to find quotes for specific topics. There you can filter topics by class or substance.
 
 
 | Co-occurence networks          | BERTopic modelling                          |
