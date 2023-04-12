@@ -89,47 +89,46 @@ This step was particularly important to remove many hub node - island node pairs
 
 Psychoactive substances were categorized into classes using the classification scheme from[^6].
 
-<table>
-<thead>
-<tr>
-<th style="font-size: 16px; width: 50%">Co-occurence networks</th>
-<th style="font-size: 16px; width: 50%">BERTopic modelling</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="width: 50%">Psilocybin_mushroms (Substance)<br>
-<img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Psilocybin_mushroms.png.png" alt="Psilocybin_mushroms co-occurrence network">
-</td>
-<td style="width: 50%">Psilocybin_mushroms (Substance)<br>
-<img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="BERTopic model">
-</td>
-</tr>
-<tr>
-<td style="width: 50%">LSD (Substance)<br>
-<img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_LSD.png" alt="LSD co-occurrence network">
-</td>
-<td style="width: 50%">LSD (Substance)<br>
-<img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="BERTopic model">
-</td>
-</tr>
-<tr>
-<td style="width: 50%">DMT (Substance)<br>
-<img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_DMT.png" alt="DMT co-occurrence network">
-</td>
-<td style="width: 50%">DMT (Substance)<br>
-<img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="BERTopic model">
-</td>
-</tr>
-<tr>
-<td style="width: 50%">Cannabis spp. (Substance)<br>
-<img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Cannabis_spp.png" alt="Cannabis co-occurrence network">
-</td>
-<td style="width: 50%">Cannabis spp. (Substance)<br>
-<img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="BERTopic model">
-</td>
-</tr>
-<tr>
+table>
+  <thead>
+    <tr>
+      <th style="width: 50%">Co-occurence networks</th>
+      <th style="width: 50%">BERTopic modelling</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <table>
+          <thead>
+            <tr>
+              <th>Depressants/sedatives (Class)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Gephi_unedited_Depressant_sedatives.png" alt="Depressants/sedatives"></td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td>
+        <table>
+          <thead>
+            <tr>
+              <th>Depressants/sedatives (Class)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><img src="https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_png/Picture1.png" alt="BERTopic modelling"></td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <!-- Add more rows like above for other images -->
+  </tbody>
 </table>
     
        
