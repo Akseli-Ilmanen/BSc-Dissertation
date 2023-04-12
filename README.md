@@ -7,12 +7,15 @@ Consider these quotes:
 
 These are quotes from a psychoactive substance report from the [Erowid Experience Vault](https://erowid.org/experiences/exp_front.shtml/).[^1] Within, the total of nearly 40,000 reports, there are thousands of phrases indicative of altered time perception. Let's go explore them!
 
+
 ## Code
 
 All the code used for this (ongoing) dissertation is accessible in Jupyter Notebook format and supplemented with extensive notes. Feel free to use it. 
 
 The code is currently incomplete, the rest of it, and a accompanying paper is coming soon.
- 
+
+<br />
+
 ## Context-window co-occurence network: Method
 
 This diagram explains the main idea of this method.
@@ -39,6 +42,7 @@ $$p_{ij} = (1 - \frac{w_{ij}}{s_{i}})^{k_{i} - 1}$$
 
 $w_{ij}$ is the weight of an edge. $k_{i}$ and $s_{i}$ are the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)) and strength of a node<sub>i</sub>. The strength is a weighted version of degree by multiplying the sum of all the weights of edges to/from that node. If $p_{ij}$ is above a set threshold, the edge is excluded.
 
+<br />
 
 ## BERTopic modelling
 As another way to interpret the data, I used the [BERTopic library](maartengr.github.io/BERTopic/index.html)[^7] to identify topics across Erowid reports. BERTopic uses [BERT embeddings](https://en.wikipedia.org/wiki/BERT_(language_model)), [umap](https://pair-code.github.io/understanding-umap/) dimensionality reduction, and a cluster-tifidf scheme, amongst other things.
@@ -47,7 +51,6 @@ As another way to interpret the data, I used the [BERTopic library](maartengr.gi
 The interactive graph below is available [here](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_Serotonergic%20psychedelics.html
 ). **Hint**: Double-click on a topic in the legend unselects all other topics. 
 ![BERTopic graphs](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Github-gif.gif)
-
 
 
 ## Comparing psychoactive substances and classes
