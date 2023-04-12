@@ -106,7 +106,7 @@ LSD (Substance) | LSD (Substance)
 DMT (Substance) | DMT (Substance)
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_PNG/Gephi_unedited_DMT.png) | [![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/DMT.png)](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_DMT.html)
 Cannabis spp. (Substance) | Cannabis spp. (Substance)
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_PNG/Gephi_unedited_Cannabis_spp.png) | [![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/Cannabis spp.png)](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_Cannabis%20spp.html) 
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_PNG/Gephi_unedited_Cannabis_spp.png) | [![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/Cannabis spp.png)](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_Cannabis_spp.html) 
 MDMA (Substance) | MDMA (Substance)
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_PNG/Gephi_unedited_MDMA.png) | [![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/MDMA.png)](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_MDMA.html)
 
