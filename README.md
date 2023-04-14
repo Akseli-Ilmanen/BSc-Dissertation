@@ -1,4 +1,4 @@
-# Quantitative phenomenology of altered time perception
+# Graph-driven comparative phenomenology of altered time perception
 
 Consider these quotes: 
  > "As to the 'present', well ... perhaps the true line of our perceived travel in time through reality is just going outwards, from the centre of a circle towards the circumference, on an infinite lollipop candy-like spiral; lines in the spiral all featuring eternities of time itself in various repetitions, and the travel in reality prime just being a movement from one candy-line of infinite possibilities to the next, along only one given instance of each realised possibility."
