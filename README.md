@@ -19,9 +19,7 @@ The code is currently incomplete, the rest of it, and a accompanying paper is co
 
 This diagram explains the main idea of this method.
 
-<div align="center">
-    <img src="[Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/analysis_1_method.png](https://raw.githubusercontent.com/Akseli-Ilmanen/BSc-Dissertation/a7a26d32985530650d30edcf285bfce6090d2f1f/Files/Gephi_Serotonergic_psychedelics.svg)" width="400" height="400">
-</div>
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/analysis_1_method.png)
 
 <br />
 
@@ -30,7 +28,9 @@ This diagram explains the main idea of this method.
 Below is a co-occurence network with seed words determining the colour. It was created applying the method above to the class of Serotonergic psychedelics. 
 
  
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Gephi_Serotonergic_psychedelics.svg)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Akseli-Ilmanen/BSc-Dissertation/a7a26d32985530650d30edcf285bfce6090d2f1f/Files/Gephi_Serotonergic_psychedelics.svg"   width="400" height="400">
+</div>
 
 
 This grah was created in Gephi[^4], using the modularity clustering algorithm[^5], commonly known as the [Louvain algorithm](https://en.wikipedia.org/wiki/Louvain_method), and the 'Circle Pack' layout plugin. The Circle Pack layout creates local clusters (circles), where nodes belonging to the same modularity class  are clustered in the same circle. In this sense, we can interpret from the graph that words in the same local clusters might be related. However, one should not read too much into the global structure of the clusters, as their arrangement is not very robust when changing around few parameters. The colour of nodes and edges are determined by the type of seed words they tend co-occur in (see [methods](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/README.md#context-window-co-occurence-network-method) visualization). The size of the nodes corresponds to their [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)), whilst the thickness of edges corresponds to their [weight](https://www.sciencedirect.com/science/article/abs/pii/S0167506008706149).
