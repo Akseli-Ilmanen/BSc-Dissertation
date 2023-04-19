@@ -23,13 +23,13 @@ This diagram explains the main idea of this method.
 
 <br />
 
-## Context-window co-occurence network: Serotonergic psychedelics example
+## Context-window co-occurence network: Example
 
 Below is a co-occurence network with seed words determining the colour. It was created applying the method above to the class of Serotonergic psychedelics. 
 
  
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Akseli-Ilmanen/BSc-Dissertation/a7a26d32985530650d30edcf285bfce6090d2f1f/Files/Gephi_Serotonergic_psychedelics.svg"   width="800" height="800">
+    <img src="https://raw.githubusercontent.com/Akseli-Ilmanen/BSc-Dissertation/822aaf93f3753820a0a13c33c816f3640da612ea/Files/Gephi_Serotonergic_psychedelics.svg"   width="800" height="800">
 </div>
 
 
@@ -45,7 +45,7 @@ $w_{ij}$ is the weight of an edge. $k_{i}$ and $s_{i}$ are the [degree](https://
 
 <br />
 
-## BERTopic modelling: Serotonergic psychedelics example
+## BERTopic modelling: Example
 As another way to interpret the data, I used the [BERTopic library](maartengr.github.io/BERTopic/index.html)[^7] to identify topics across Erowid reports. BERTopic uses [BERT embeddings](https://en.wikipedia.org/wiki/BERT_(language_model)), [umap](https://pair-code.github.io/understanding-umap/) dimensionality reduction, and a cluster-tifidf scheme, amongst other things. The input for BERTopic were documents (Erowid context windows C=15), which were clustered into topics. On the graph below (interactive version available [here](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_Serotonergic%20psychedelics.html)), each node represents a document. In colour mode 0, the colour corresponds to the document's topic, whilst in colour mode 1 it is based on whether the seed word of the document was a normal, fast or slow time perception word.
 
 #### Interactive graphs
