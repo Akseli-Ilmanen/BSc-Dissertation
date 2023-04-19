@@ -29,7 +29,7 @@ Below is a co-occurence network with seed words determining the colour. It was c
 
  
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Akseli-Ilmanen/BSc-Dissertation/a7a26d32985530650d30edcf285bfce6090d2f1f/Files/Gephi_Serotonergic_psychedelics.svg"   width="400" height="400">
+    <img src="https://raw.githubusercontent.com/Akseli-Ilmanen/BSc-Dissertation/a7a26d32985530650d30edcf285bfce6090d2f1f/Files/Gephi_Serotonergic_psychedelics.svg"   width="800" height="800">
 </div>
 
 
