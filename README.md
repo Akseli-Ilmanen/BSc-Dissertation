@@ -19,7 +19,9 @@ The code is currently incomplete, the rest of it, and a accompanying paper is co
 
 This diagram explains the main idea of this method.
 
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/analysis_1_method.png)
+<div align="center">
+    <img src="[Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/analysis_1_method.png](https://raw.githubusercontent.com/Akseli-Ilmanen/BSc-Dissertation/a7a26d32985530650d30edcf285bfce6090d2f1f/Files/Gephi_Serotonergic_psychedelics.svg)" width="400" height="400">
+</div>
 
 <br />
 
