@@ -83,7 +83,6 @@ Above is a selection of co-occurence networks and BERTopic graphs. Besides these
 
 
 
-
 ## References
 
 [^1]: Erowid E, Erowid F. "The Value of Experience". Erowid Extracts. Jun 2006;10:14-19.
