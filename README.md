@@ -50,7 +50,7 @@ As another way to interpret the data, I used the [BERTopic library](maartengr.gi
 
 #### Interactive graphs
 **Hint**: Double-click on a topic in the legend unselects all other topics. 
-![BERTopic graphs](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Github-gif.gif)
+[![BERTopic graphs](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Github-gif.gif)](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_Serotonergic%20psychedelics.html)
 
 
 ## Comparing psychoactive substances and classes
