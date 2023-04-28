@@ -1,0 +1,6534 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   contentScriptType="text/ecmascript"
+   width="1253.8964"
+   zoomAndPan="magnify"
+   contentStyleType="text/css"
+   viewBox="-500.37164 -500 1253.8964 1008.9786"
+   height="1008.9786"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg1367"
+   sodipodi:docname="Gephi_edited_Antidepressants_antipsychotics.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1371" />
+  <sodipodi:namedview
+     id="namedview1369"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.47105788"
+     inkscape:cx="946.80509"
+     inkscape:cy="423.51483"
+     inkscape:window-width="1368"
+     inkscape:window-height="842"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1367" />
+  <g
+     id="edges"
+     transform="translate(-2.1216735,0.49462748)">
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_achieve id_orgasm"
+       d="m 146.78865,173.42349 a 20.492071,20.492071 0 0 1 15.38161,-4.09842"
+       stroke="#ffffff"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path132" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_alert id_allow"
+       d="m 85.491753,-152.39856 a 15.204151,15.204151 0 0 1 -9.358788,0.39916"
+       stroke="#6662e9"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path134" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_amount id_increase"
+       d="m 64.882431,-299.07336 a 58.092827,58.092827 0 0 1 22.872147,26.37909"
+       stroke="#d8d7f9"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path136" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_amount id_reason"
+       d="m 44.224045,-295.62103 a 85.031131,85.031131 0 0 1 -65.546774,19.15002"
+       stroke="#fae9ec"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path138" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_increase id_drink"
+       d="M 118.76483,-245.89375 A 313.18142,313.18142 0 0 1 384.71234,-51.510204"
+       stroke="#c0bef5"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path140" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_increase id_huge"
+       d="M 66.701141,-241.63383 A 68.091918,68.091918 0 0 1 16.595194,-263.29938"
+       stroke="#6662e9"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path142" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_increase id_reason"
+       d="m 67.160744,-239.72296 a 119.91079,119.91079 0 0 1 -95.28859,-25.37021"
+       stroke="#d4c2e6"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path144" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_increase id_recreational"
+       d="m 73.687477,-228.42937 a 79.281708,79.281708 0 0 1 -54.634632,13.65535"
+       stroke="#cfacd4"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path146" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_reason id_recreational"
+       d="m -23.316422,-271.5546 a 67.338165,67.338165 0 0 1 22.546854,34.78527"
+       stroke="#f1bec6"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path148" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_reason id_report"
+       d="M -30.260933,-304.47913 A 56.437675,56.437675 0 0 1 8.099569,-316.46539"
+       stroke="#e06a7c"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path150" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_reason id_sample"
+       d="m -32.933384,-306.33447 a 85.068737,85.068737 0 0 1 61.310722,-30.17291"
+       stroke="#decce7"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path152" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_angry id_type"
+       d="m 368.40182,-155.56461 a 33.348394,33.348394 0 0 1 19.36716,-1.12831"
+       stroke="#db546a"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path154" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_type id_drink"
+       d="m 411.88776,-131.97932 a 104.07194,104.07194 0 0 1 -1.13303,83.508117"
+       stroke="#d490b0"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path156" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_type id_shake"
+       d="m 385.8768,-144.11925 a 64.74316,64.74316 0 0 1 -44.20081,-13.30902"
+       stroke="#e3798a"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path158" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_anxiety id_big"
+       d="M -47.472271,305.19583 A 345.12391,345.12391 0 0 1 -238.0052,-5.943866"
+       stroke="#e8e7fb"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path160" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_anxiety id_decrease"
+       d="M 7.566618,306.40713 A 89.783875,89.783875 0 0 1 83.22644,324.80524"
+       stroke="#e8e7fb"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path162" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_anxiety id_depression"
+       d="m -5.922723,343.64502 a 112.36,112.36 0 0 1 5.029315,63.15213"
+       stroke="#c8c7f7"
+       stroke-width="13.6909"
+       stroke-opacity="1"
+       id="path164" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_anxiety id_quit"
+       d="m 8.893734,324.15591 a 105.5406,105.5406 0 0 1 62.071209,65.32221"
+       stroke="#e8e7fb"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path166" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_anxiety id_relax"
+       d="M 8.630537,309.61145 A 77.238862,77.238862 0 0 1 67.40139,330.87109"
+       stroke="#7672eb"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path168" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_anxiety id_social"
+       d="m 9.608301,315.55484 a 64.659803,64.659803 0 0 1 40.220118,24.26013"
+       stroke="#c1c0f6"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path170" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_big id_burn"
+       d="m -266.30615,-37.639278 a 60.477897,60.477897 0 0 1 -28.38327,-19.426197"
+       stroke="#ffffff"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path172" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_big id_difficult"
+       d="m -261.71802,-19.779242 a 75.804466,75.804466 0 0 1 -53.54379,0.315749"
+       stroke="#c6c4f6"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path174" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_big id_mistake"
+       d="m -264.69464,-25.932728 a 50.00278,50.00278 0 0 1 -27.6651,-7.288261"
+       stroke="#ffffff"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path176" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_big id_mood"
+       d="m -228.77908,-64.641296 a 73.203529,73.203529 0 0 1 28.03503,-30.033211"
+       stroke="#d4d2f8"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path178" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_big id_negative"
+       d="m -210.79404,-51.016911 a 47.82206,47.82206 0 0 1 25.79685,1.444905"
+       stroke="#ffffff"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path180" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_depression id_base"
+       d="M -31.923433,403.27295 A 155.63986,155.63986 0 0 1 25.492409,275.70422"
+       stroke="#9390ef"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path182" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_depression id_cause"
+       d="M -21.346575,402.23267 A 560.15165,560.15165 0 0 1 344.8147,-93.823387"
+       stroke="#dfdefa"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path184" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_depression id_continue"
+       d="M -8.745268,403.95676 A 171.29596,171.29596 0 0 1 107.43797,305.89584"
+       stroke="#6d69ea"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path186" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_depression id_depressed"
+       d="M -68.034958,433.27237 A 194.7935,194.7935 0 0 1 -163.39922,298.31326"
+       stroke="#dfdefa"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path188" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_depression id_episode"
+       d="M -15.635735,402.60843 A 83.817682,83.817682 0 0 1 12.27153,368.81879"
+       stroke="#dac4e4"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path190" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_depression id_extreme"
+       d="m 8.599847,412.50992 a 115.90363,115.90363 0 0 1 87.264205,-26.6236"
+       stroke="#a6a3f2"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path192" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_depression id_help"
+       d="M -70.165771,439.67242 A 275.15754,275.15754 0 0 1 -245.08406,243.31552"
+       stroke="#cdccf7"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path194" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_depression id_major"
+       d="M 0.179442,407.3056 A 102.74224,102.74224 0 0 1 66.056587,371.55689"
+       stroke="#d29ec2"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path196" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_depression id_normal"
+       d="M -64.212181,425.80093 A 534.44146,534.44146 0 0 1 -286.87173,-108.34038"
+       stroke="#aba9f3"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path198" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_depression id_someone"
+       d="M 4.728761,409.82938 A 154.26819,154.26819 0 0 1 119.83418,357.4371"
+       stroke="#9390ef"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path200" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_depression id_stop"
+       d="M -29.534914,402.83774 A 665.94892,665.94892 0 0 1 299.60434,-253.03786"
+       stroke="#d6d5f9"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path202" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_depression id_suddenly"
+       d="M -5.863154,404.82819 A 128.47699,128.47699 0 0 1 80.787613,342.57141"
+       stroke="#6d69ea"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path204" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_quit id_cold"
+       d="M 67.073135,391.2482 A 43.254981,43.254981 0 0 1 66.718933,354.57724"
+       stroke="#f1bfc7"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path206" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_anxious id_noticed"
+       d="m -299.51291,177.41902 a 165.71203,165.71203 0 0 1 -15.48431,162.43309"
+       stroke="#cdccf7"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path208" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_anxious id_thought"
+       d="m -304.15506,178.69504 a 80.021016,80.021016 0 0 1 -30.49777,62.74005"
+       stroke="#b7b5f4"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path210" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_noticed id_brain"
+       d="M -338.77191,333.1709 A 300.55358,300.55358 0 0 1 -199.49283,47.824226"
+       stroke="#d2d0f8"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path212" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_noticed id_mood"
+       d="M -342.70239,334.04819 A 408.84057,408.84057 0 0 1 -197.99383,-89.73793"
+       stroke="#c3c1f6"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path214" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_noticed id_seizures"
+       d="m -304.45111,360.50021 a 59.525551,59.525551 0 0 1 35.0589,20.43778"
+       stroke="#b5b3f4"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path216" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_noticed id_significant"
+       d="m -336.57349,332.91672 a 37.695661,37.695661 0 0 1 6.094,-11.17945"
+       stroke="#d46e8d"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path218" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_noticed id_towards"
+       d="m -336.76144,332.93201 a 85.090303,85.090303 0 0 1 36.44665,-62.23981"
+       stroke="#eeeefc"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path220" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_thought id_school"
+       d="M -341.2934,235.13403 A 559.63148,559.63148 0 0 1 239.58176,-39.222252"
+       stroke="#9996f0"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path222" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_thought id_symptoms"
+       d="m -332.0607,248.96271 a 138.83866,138.83866 0 0 1 119.17075,58.16528"
+       stroke="#a9a6f2"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path224" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_approach id_stop"
+       d="m 381.46774,-185.76057 a 85.669482,85.669482 0 0 1 -50.89932,-52.09754"
+       stroke="#f6f5fd"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path226" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_stop id_cause"
+       d="m 346.19406,-245.49989 a 142.84379,142.84379 0 0 1 22.11008,128.94639"
+       stroke="#f6f5fd"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path228" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_stop id_drink"
+       d="m 348.22037,-247.58163 a 211.28167,211.28167 0 0 1 55.17166,195.696182"
+       stroke="#dddcf9"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path230" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_stop id_school"
+       d="M 334.11691,-238.65292 A 201.16743,201.16743 0 0 1 271.22748,-47.268505"
+       stroke="#b6b4f4"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path232" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_stop id_wrong"
+       d="m 353.56619,-256.26736 a 67.544222,67.544222 0 0 1 24.05564,29.69937"
+       stroke="#e7e6fb"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path234" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_asleep id_fall"
+       d="m -174.94508,-207.48881 a 33.12593,33.12593 0 0 1 -3.48052,-18.79966"
+       stroke="#e6def3"
+       stroke-width="8.25455"
+       stroke-opacity="1"
+       id="path236" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_asleep id_fell"
+       d="M -178.02689,-203.70804 A 57.794918,57.794918 0 0 1 -198.02463,-241.218"
+       stroke="#f4cad1"
+       stroke-width="10.9727"
+       stroke-opacity="1"
+       id="path238" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_asleep id_wake"
+       d="m -165.87999,-212.04167 a 51.851855,51.851855 0 0 1 8.58333,-28.85259"
+       stroke="#f2eaf5"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path240" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_fell id_lose"
+       d="m -196.88431,-266.66205 a 50.720836,50.720836 0 0 1 22.1653,-31.73013"
+       stroke="#e3c0d6"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path242" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_wake id_morning"
+       d="m -154.44003,-238.68751 a 47.396111,47.396111 0 0 1 -33.63527,15.13128"
+       stroke="#f4f4fd"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path244" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_wake id_till"
+       d="m -162.39909,-258.27243 a 33.125921,33.125921 0 0 1 -13.19051,-13.84018"
+       stroke="#f4f4fd"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path246" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_attack id_panic"
+       d="M 247.8286,110.3417 A 28.338361,28.338361 0 0 1 239.28477,94.188629"
+       stroke="#928eef"
+       stroke-width="16.4091"
+       stroke-opacity="1"
+       id="path248" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_panic id_suffer"
+       d="m 240.17758,94.218643 a 24.418445,24.418445 0 0 1 -6.85657,11.451437"
+       stroke="#a4a2f2"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path250" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_awake id_listen"
+       d="M 275.64172,58.835445 A 39.889874,39.889874 0 0 1 303.233,58.573498"
+       stroke="#e5e4fb"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path252" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_listen id_bore"
+       d="M 300.41824,67.047127 A 34.804851,34.804851 0 0 1 283.4082,54.336369"
+       stroke="#bfbdf5"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path254" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_listen id_sleeping"
+       d="m 305.65652,81.048775 a 33.58631,33.58631 0 0 1 -19.23758,4.243904"
+       stroke="#bfbdf5"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path256" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_beat id_heart"
+       d="m 176.59257,-388.12234 a 80.646721,80.646721 0 0 1 22.6115,-56.22605"
+       stroke="#e27687"
+       stroke-width="30"
+       stroke-opacity="1"
+       id="path258" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_heart id_blood"
+       d="m 235.82681,-428.31741 a 72.093344,72.093344 0 0 1 -16.02105,39.50045"
+       stroke="#edacb6"
+       stroke-width="8.25455"
+       stroke-opacity="1"
+       id="path260" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_heart id_bpm"
+       d="M 196.99603,-448.25775 A 64.361951,64.361951 0 0 1 157.1694,-454.371"
+       stroke="#f4ced4"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path262" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_heart id_monitor"
+       d="m 221.16727,-428.80881 a 108.27331,108.27331 0 0 1 -71.45919,61.88544"
+       stroke="#f4ced4"
+       stroke-width="13.6909"
+       stroke-opacity="1"
+       id="path264" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_heart id_pound"
+       d="m 213.86504,-431.42102 a 90.058577,90.058577 0 0 1 -55.52698,33.86929"
+       stroke="#f0bcc4"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path266" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_heart id_pressure"
+       d="m 202.52353,-439.99383 a 93.286676,93.286676 0 0 1 -68.2446,10.42587"
+       stroke="#edacb6"
+       stroke-width="8.25455"
+       stroke-opacity="1"
+       id="path268" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_heart id_pulse"
+       d="m 208.83461,-434.37347 a 61.555898,61.555898 0 0 1 -34.43724,12.83877"
+       stroke="#eba3af"
+       stroke-width="10.9727"
+       stroke-opacity="1"
+       id="path270" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_heart id_shake"
+       d="m 258.14783,-441.5304 a 258.50148,258.50148 0 0 1 75.95773,253.94056"
+       stroke="#ea9eaa"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path272" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_best id_book"
+       d="m 78.975883,-36.047493 a 14.429327,14.429327 0 0 1 -8.392967,-0.247959"
+       stroke="#ffffff"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path274" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_burn id_similar"
+       d="m -293.13974,-58.251583 a 46.250996,46.250996 0 0 1 5.64648,39.934221"
+       stroke="#ffffff"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path276" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_difficult id_text"
+       d="m -315.74686,-18.532818 a 66.394479,66.394479 0 0 1 27.79221,58.523533"
+       stroke="#544ee6"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path278" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_mood id_normal"
+       d="m -201.81709,-98.132919 a 88.573732,88.573732 0 0 1 -61.299,-17.267101"
+       stroke="#a09df1"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path280" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_mood id_swing"
+       d="m -163.80382,-87.510513 a 43.330175,43.330175 0 0 1 6.03093,26.953869"
+       stroke="#9b97f0"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path282" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_blood id_pressure"
+       d="m 198.14978,-379.35788 a 86.436917,86.436917 0 0 1 -70.42659,-42.49283"
+       stroke="#f0bbc3"
+       stroke-width="21.8455"
+       stroke-opacity="1"
+       id="path284" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_blur id_change"
+       d="M 155.80089,115.50043 A 52.257819,52.257819 0 0 1 150.99525,72.913292"
+       stroke="#ffffff"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path286" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_blur id_run"
+       d="M 153.73634,117.58209 A 64.528742,64.528742 0 0 1 138.51381,61.773052"
+       stroke="#ffffff"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path288" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_blur id_vision"
+       d="M 150.37526,123.64838 A 50.20377,50.20377 0 0 1 127.99868,99.263222"
+       stroke="#fae9ec"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path290" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_vision id_slight"
+       d="m 134.71071,79.394417 a 33.013365,33.013365 0 0 1 24.02196,-1.739296"
+       stroke="#eda9b4"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path292" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_brain id_dead"
+       d="M -202.42158,38.333473 A 44.011419,44.011419 0 0 1 -227.25894,24.409277"
+       stroke="#e2e1fa"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path294" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_brain id_tingle"
+       d="M -202.44589,37.974941 A 161.95004,161.95004 0 0 1 -343.68893,-47.549866"
+       stroke="#706cea"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path296" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_brain id_wean"
+       d="M -199.99866,46.896866 A 133.61123,133.61123 0 0 1 -329.94412,31.225847"
+       stroke="#c6c4f6"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path298" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_tingle id_pupil"
+       d="m -339.03293,-66.634033 a 137.49034,137.49034 0 0 1 150.43472,-2.234772"
+       stroke="#1b14de"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path300" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_wean id_weird"
+       d="m -331.51065,13.578858 a 151.44971,151.44971 0 0 1 155.50638,-40.584731"
+       stroke="#a9a6f2"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path302" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_break id_gain"
+       d="m 181.51233,-410.43921 a 72.928795,72.928795 0 0 1 10.72562,63.20337"
+       stroke="#e58392"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path304" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_gain id_participate"
+       d="m 175.82785,-348.30685 a 67.917548,67.917548 0 0 1 16.90976,-55.46683"
+       stroke="#e58392"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path306" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_gain id_pound"
+       d="m 164.29691,-339.78091 a 65.398156,65.398156 0 0 1 -19.33175,-43.67392"
+       stroke="#eeb0ba"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path308" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_gain id_weight"
+       d="m 168.28603,-344.14453 a 40.467321,40.467321 0 0 1 -2.78334,-23.85764"
+       stroke="#e7909d"
+       stroke-width="8.25455"
+       stroke-opacity="1"
+       id="path310" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_breath id_deeply"
+       d="M 159.84218,-13.19747 A 62.791523,62.791523 0 0 1 205.85204,2.662515"
+       stroke="#8e8aee"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path312" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_breath id_followed"
+       d="m 159.49873,-4.343537 a 43.882534,43.882534 0 0 1 20.8889,24.956793"
+       stroke="#b3b0f3"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path314" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_breath id_inhale"
+       d="m 151.59813,-24.823637 a 42.749101,42.749101 0 0 1 20.50484,-12.01214"
+       stroke="#8e8aee"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path316" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_deeply id_inhale"
+       d="M 203.41017,5.692113 A 48.567697,48.567697 0 0 1 185.069,-25.344612"
+       stroke="#7c78ec"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path318" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_breathe id_lethargic"
+       d="M -92.248611,26.940479 A 35.031905,35.031905 0 0 1 -66.06723,22.362427"
+       stroke="#8d89ee"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path320" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_breathe id_uneasy"
+       d="m -94.899353,24.751095 a 29.50377,29.50377 0 0 1 17.703079,-8.705139"
+       stroke="#e47f8f"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path322" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_build id_influence"
+       d="M -109.87244,101.7728 A 32.128473,32.128473 0 0 1 -99.081871,90.610039"
+       stroke="#eda9b4"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path324" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_build id_tolerance"
+       d="m -101.48689,111.12203 a 47.636304,47.636304 0 0 1 33.411969,10.08602"
+       stroke="#eda9b4"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path326" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_influence id_tolerance"
+       d="m -76.022552,92.369751 a 43.598272,43.598272 0 0 1 15.962253,25.284619"
+       stroke="#eda9b4"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path328" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_case id_father"
+       d="m 156.97345,-88.799088 a 23.904594,23.904594 0 0 1 -7.08655,10.53492"
+       stroke="#ffffff"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path330" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_case id_forever"
+       d="m 166.57005,-92.416931 a 28.912673,28.912673 0 0 1 4.09851,18.543014"
+       stroke="#ffffff"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path332" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_cause id_reaction"
+       d="m 343.92401,-101.80569 a 43.536471,43.536471 0 0 1 -24.56711,-20.6872"
+       stroke="#c6c4f6"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path334" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_chest id_pain"
+       d="m 117.07309,163.40008 a 14.910076,14.910076 0 0 1 8.99741,0.18552"
+       stroke="#e47f8f"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path336" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_chew id_normal"
+       d="M -239.671,63.159664 A 176.67489,176.67489 0 0 1 -289.96112,-109.17088"
+       stroke="#cbc9f7"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path338" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_chew id_swallow"
+       d="m -242.40961,68.347534 a 71.992185,71.992185 0 0 1 -44.6976,-46.802475"
+       stroke="#e8e7fb"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path340" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_normal id_strange"
+       d="m -262.13815,-151.79147 a 478.75283,478.75283 0 0 1 539.66601,-58.18004"
+       stroke="#cbc9f7"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path342" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_normal id_weird"
+       d="m -255.89484,-128.55814 a 134.99753,134.99753 0 0 1 89.15061,93.424523"
+       stroke="#928eef"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path344" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_swallow id_release"
+       d="m -277.12024,10.919661 a 35.71376,35.71376 0 0 1 16.44147,11.48343"
+       stroke="#928fef"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path346" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_class id_disturb"
+       d="m -75.100571,218.79779 a 47.396114,47.396114 0 0 1 -1.292106,-36.85944"
+       stroke="#fcf0f2"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path348" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_class id_problem"
+       d="M -81.684959,227.84793 A 44.360172,44.360172 0 0 1 -99.425774,209.12877"
+       stroke="#fcf0f2"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path350" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_class id_teacher"
+       d="m -70.261742,216.31454 a 41.631449,41.631449 0 0 1 7.675473,-28.74949"
+       stroke="#fcf0f2"
+       stroke-width="8.25455"
+       stroke-opacity="1"
+       id="path352" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_problem id_switch"
+       d="m -102.73298,184.29436 a 29.054021,29.054021 0 0 1 11.011277,-15.68828"
+       stroke="#c6c4f6"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path354" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_combine id_guess"
+       d="m 56.091835,-136.32725 a 20.637874,20.637874 0 0 1 -15.555283,-4.14296"
+       stroke="#1b14de"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path356" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_concern id_handle"
+       d="M 18.766357,89.210487 A 75.894982,75.894982 0 0 1 35.247959,154.89722"
+       stroke="#4d48e5"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path358" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_handle id_dangerous"
+       d="M 32.242405,153.98544 A 57.657952,57.657952 0 0 1 53.856052,128.89493"
+       stroke="#aca9f2"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path360" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_handle id_entire"
+       d="M 20.501879,154.46809 A 80.170501,80.170501 0 0 1 42.455807,84.923233"
+       stroke="#4d48e5"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path362" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_handle id_include"
+       d="M 10.195209,161.31596 A 68.645271,68.645271 0 0 1 -5.885539,112.10646"
+       stroke="#bfbdf5"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path364" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_constant id_headache"
+       d="m -33.935173,-132.15146 a 79.217691,79.217691 0 0 1 18.154255,73.477823"
+       stroke="#ffffff"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path366" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_headache id_hope"
+       d="M -40.114712,-39.37381 A 54.221781,54.221781 0 0 1 -75.404114,-53.701336"
+       stroke="#efb2bc"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path368" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_headache id_therapy"
+       d="m -32.062988,-57.004696 a 88.463208,88.463208 0 0 1 3.581081,-86.806724"
+       stroke="#ffffff"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path370" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_continue id_someone"
+       d="m 129.28809,311.96387 a 48.266774,48.266774 0 0 1 11.07049,28.61435"
+       stroke="#403be3"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path372" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_someone id_fuck"
+       d="M 120.66161,352.9245 A 84.533955,84.533955 0 0 1 73.918388,300.15201"
+       stroke="#b2b0f4"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path374" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_country id_treatment"
+       d="m 74.826958,210.18205 a 50.516184,50.516184 0 0 1 40.453862,4.64647"
+       stroke="#ffffff"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path376" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_treatment id_raise"
+       d="M 111.03719,224.76884 A 37.575371,37.575371 0 0 1 91.756912,209.31915"
+       stroke="#ffffff"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path378" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_treatment id_tough"
+       d="m 115.68398,238.70962 a 37.819012,37.819012 0 0 1 -24.672391,4.10224"
+       stroke="#ffffff"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path380" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_cut id_symptoms"
+       d="m -309.17651,308.62042 a 94.378646,94.378646 0 0 1 90.08906,3.98548"
+       stroke="#837fed"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path382" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_symptoms id_doctor"
+       d="M -223.80547,326.06281 A 194.58517,194.58517 0 0 1 -380.89859,225.08894"
+       stroke="#bebcf5"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path384" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_symptoms id_withdrawal"
+       d="M -222.36175,334.27447 A 173.13398,173.13398 0 0 1 -388.61496,297.5318"
+       stroke="#9693ef"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path386" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_damn id_idiot"
+       d="m 126.79028,-135.72781 a 15.30336,15.30336 0 0 1 9.48342,0.38726"
+       stroke="#ffffff"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path388" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_dangerous id_include"
+       d="M 52.759186,125.49848 A 64.502872,64.502872 0 0 1 4.75129,108.97808"
+       stroke="#ecebfc"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path390" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_dangerous id_wear"
+       d="M 53.748455,114.73869 A 36.72264,36.72264 0 0 1 40.420246,95.213806"
+       stroke="#b3b0f3"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path392" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_depressed id_doctor"
+       d="m -195.30045,276.12344 a 199.61646,199.61646 0 0 1 -177.63037,-55.9774"
+       stroke="#ededfc"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path394" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_depressed id_happy"
+       d="m -191.31602,285.0592 a 111.00977,111.00977 0 0 1 -103.63515,-3.84149"
+       stroke="#8d89ee"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path396" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_depressed id_hate"
+       d="M -192.57523,282.97339 A 212.66289,212.66289 0 0 1 -417.13129,253.75351"
+       stroke="#8d89ee"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path398" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_depressed id_help"
+       d="m -196.07172,265.18744 a 83.458923,83.458923 0 0 1 -39.12863,-25.50643"
+       stroke="#edecfc"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path400" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_depressed id_seek"
+       d="m -188.25293,288.95017 a 107.38065,107.38065 0 0 1 -91.0914,15.2409"
+       stroke="#f1bfc7"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path402" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_doctor id_full"
+       d="m -389.68185,227.574 a 112.99361,112.99361 0 0 1 -41.76239,86.6298"
+       stroke="#bfbef5"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path404" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_doctor id_prescribe"
+       d="M -386.70148,227.02086 A 171.44084,171.44084 0 0 1 -448.26904,382.452"
+       stroke="#d6d5f9"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path406" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_doctor id_regular"
+       d="m -375.94635,222.39246 a 159.63002,159.63002 0 0 1 -7.05801,159.48471"
+       stroke="#ededfc"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path408" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_doctor id_release"
+       d="M -388.81137,161.92219 A 177.64901,177.64901 0 0 1 -266.95557,36.750256"
+       stroke="#9894f0"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path410" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_doctor id_withdrawal"
+       d="m -384.47757,226.42006 a 72.850078,72.850078 0 0 1 -7.07709,36.67375"
+       stroke="#b4b2f4"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path412" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_help id_effective"
+       d="m -258.83402,242.52537 a 148.889,148.889 0 0 1 -118.69479,90.99908"
+       stroke="#7b77eb"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path414" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_help id_fine"
+       d="m -260.26834,242.05759 a 166.59604,166.59604 0 0 1 -140.90845,96.77124"
+       stroke="#b4b1f3"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path416" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_help id_seek"
+       d="m -250.02023,243.77162 a 79.470326,79.470326 0 0 1 -30.56467,49.39339"
+       stroke="#dfacc4"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path418" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_help id_withdrawal"
+       d="m -267.6557,238.20798 a 140.15118,140.15118 0 0 1 -114.47693,46.65668"
+       stroke="#b4b1f3"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path420" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_episode id_manic"
+       d="m 35.381714,358.47971 a 58.078439,58.078439 0 0 1 52.287544,16.11273"
+       stroke="#f0bac3"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path422" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_detail id_fair"
+       d="m 183.83745,163.46439 a 14.588611,14.588611 0 0 1 8.0527,3.00891"
+       stroke="#e47f8f"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path424" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_develop id_insomnia"
+       d="m 242.36856,162.4429 a 42.250609,42.250609 0 0 1 14.62228,17.92955"
+       stroke="#e78f9d"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path426" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_develop id_resistance"
+       d="M 239.77577,147.62382 A 54.260131,54.260131 0 0 1 281.1738,135.78555"
+       stroke="#eb9fab"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path428" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_insomnia id_resistance"
+       d="m 260.9126,180.04779 a 56.480234,56.480234 0 0 1 21.62304,-34.69666"
+       stroke="#e78f9d"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path430" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_insomnia id_terrible"
+       d="m 251.83598,182.22382 a 58.594161,58.594161 0 0 1 5.21965,-50.3415"
+       stroke="#e47f8f"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path432" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_dizziness id_withdrawal"
+       d="m -339.14865,303.65781 a 60.707408,60.707408 0 0 1 -48.65701,-6.96009"
+       stroke="#9f9cf1"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path434" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_full id_medication"
+       d="M -435.96851,310.32111 A 710.64247,710.64247 0 0 1 303.4451,-62.240429"
+       stroke="#a09df0"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path436" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_prescribe id_horrible"
+       d="m -456.96533,377.4751 a 66.029413,66.029413 0 0 1 42.5054,-48.30796"
+       stroke="#e8e7fb"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path438" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_dos id_intentional"
+       d="M 34.068577,40.652538 A 51.398285,51.398285 0 0 1 -4.126265,50.875763"
+       stroke="#8682ed"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path440" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_dos id_miss"
+       d="M 30.842955,28.264137 A 35.727369,35.727369 0 0 1 15.958008,14.798766"
+       stroke="#807cec"
+       stroke-width="8.25455"
+       stroke-opacity="1"
+       id="path442" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_intentional id_miss"
+       d="M -15.710376,34.900013 A 43.866912,43.866912 0 0 1 0.249507,9.220535"
+       stroke="#8682ed"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path444" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_dreams id_medication"
+       d="m 268.47958,-137.3753 a 94.149675,94.149675 0 0 1 49.76004,60.382121"
+       stroke="#c297c9"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path446" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_dreams id_pay"
+       d="m 267.34174,-154.74766 a 89.9431,89.9431 0 0 1 83.8327,12.76379"
+       stroke="#ea9eab"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path448" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_dreams id_strange"
+       d="m 250.77374,-166.84044 a 60.070112,60.070112 0 0 1 26.26282,-31.69119"
+       stroke="#f3c9d0"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path450" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_dreams id_vivid"
+       d="m 265.93515,-132.26125 a 66.562961,66.562961 0 0 1 20.64847,52.409329"
+       stroke="#ea9eab"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path452" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_medication id_drink"
+       d="m 339.17212,-60.243576 a 68.112307,68.112307 0 0 1 36.35174,13.943829"
+       stroke="#b5b3f3"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path454" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_drink id_middle"
+       d="M 370.35803,-40.755089 A 93.295513,93.295513 0 0 1 343.64185,-118.4409"
+       stroke="#e6e5fb"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path456" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_drink id_tire"
+       d="m 388.75391,-52.619694 a 54.661094,54.661094 0 0 1 13.43164,-31.765934"
+       stroke="#e6e5fb"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path458" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_dysfunction id_sexual"
+       d="M 82.53083,31.026505 A 18.437841,18.437841 0 0 1 70.752487,24.666565"
+       stroke="#b2b0f4"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path460" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_electric id_shock"
+       d="m 59.428173,-10.011963 a 20.62429,20.62429 0 0 1 15.531582,4.166947"
+       stroke="#ca0020"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path462" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_emotional id_mess"
+       d="M 57.21003,62.74445 A 19.444385,19.444385 0 0 1 71.413704,59.245758"
+       stroke="#ffffff"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path464" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_energy id_positive"
+       d="m 53.645672,-27.549372 a 22.71229,22.71229 0 0 1 -18.011639,4.810364"
+       stroke="#1b14de"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path466" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_lose id_job"
+       d="m -169.99155,-293.07162 a 29.787174,29.787174 0 0 1 -18.08278,8.73181"
+       stroke="#c5c3f6"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path468" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_figure id_sober"
+       d="m -67.416901,-130.47899 a 32.02052,32.02052 0 0 1 11.745259,-13.26953"
+       stroke="#c2b1e6"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path470" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_figure id_survive"
+       d="m -53.210682,-106.94957 a 36.366003,36.366003 0 0 1 14.418499,18.167366"
+       stroke="#c2b1e6"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path472" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_figure id_wait"
+       d="m -54.10228,-120.62232 a 61.617715,61.617715 0 0 1 38.078667,0.20115"
+       stroke="#e06d7f"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path474" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_wait id_hope"
+       d="M -8.600236,-90.865677 A 82.336702,82.336702 0 0 1 -70.98954,-62.37978"
+       stroke="#d4324c"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path476" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_wait id_horrendous"
+       d="m -16.928843,-118.57686 a 55.414872,55.414872 0 0 1 -22.72199,-36.07916"
+       stroke="#ca0020"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path478" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_wait id_onset"
+       d="m -9.324803,-127.92629 a 39.045367,39.045367 0 0 1 -0.803075,-22.20774"
+       stroke="#ca0020"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path480" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_focused id_sex"
+       d="M 98.750977,9.858879 A 11.812059,11.812059 0 0 1 94.324829,7.353932"
+       stroke="#1b14de"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path482" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_foot id_fuck"
+       d="M -45.000168,355.86078 A 117.436,117.436 0 0 1 52.551777,282.83261"
+       stroke="#ffffff"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path484" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_fuck id_footstep"
+       d="M 77.012688,299.27045 A 81.567424,81.567424 0 0 1 57.900875,375.44357"
+       stroke="#ffffff"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path486" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_free id_sample"
+       d="m -4.533628,-340.75394 a 41.649543,41.649543 0 0 1 34.661037,-1.81585"
+       stroke="#a9a6f2"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path488" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_general id_manage"
+       d="M 93.519547,50.694027 A 21.391593,21.391593 0 0 1 109.89704,46.048801"
+       stroke="#ffffff"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path490" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_shake id_woke"
+       d="m 329.52484,-152.30054 a 60.087863,60.087863 0 0 1 -22.24686,39.50355"
+       stroke="#f5cfd5"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path492" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_recreational id_sedate"
+       d="m -8.731791,-233.70555 a 86.839819,86.839819 0 0 1 0.694588,-84.9138"
+       stroke="#db546a"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path494" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_intend id_question"
+       d="m -20.510853,82.62571 a 14.720918,14.720918 0 0 1 -7.60944,-4.344567"
+       stroke="#ffffff"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path496" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_irrelevant id_thinking"
+       d="m 328.104,-112.97598 a 71.677917,71.677917 0 0 1 -65.53701,27.76666"
+       stroke="#706bea"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path498" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_thinking id_wrong"
+       d="M 252.96471,-100.26173 A 149.50841,149.50841 0 0 1 364.4794,-206.31193"
+       stroke="#b7b5f4"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path500" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_kill id_knock"
+       d="m -44.558887,6.452114 a 14.399998,14.399998 0 0 1 -8.359818,0"
+       stroke="#6662e9"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path502" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_legs id_twitch"
+       d="M -48.376171,61.922256 A 16.100702,16.100702 0 0 1 -58.856079,61.558102"
+       stroke="#8d89ee"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path504" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_level id_mirror"
+       d="m 114.47643,-41.143013 a 16.600516,16.600516 0 0 1 -10.99534,-1.58004"
+       stroke="#ca0020"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path506" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_memory id_term"
+       d="m 57.802975,-101.6414 a 37.536527,37.536527 0 0 1 24.58752,-1.86548"
+       stroke="#eeaeb8"
+       stroke-width="13.6909"
+       stroke-opacity="1"
+       id="path508" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_term id_outpatient"
+       d="M 80.223213,-96.149925 A 35.741016,35.741016 0 0 1 62.319859,-109.62906"
+       stroke="#f9e5e8"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path510" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_term id_produce"
+       d="m 84.913818,-82.686485 a 34.267326,34.267326 0 0 1 -20.255417,3.515724"
+       stroke="#f9e5e8"
+       stroke-width="5.53636"
+       stroke-opacity="1"
+       id="path512" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_school id_shit"
+       d="M 266.22717,-51.510555 A 138.79597,138.79597 0 0 1 400.69424,-112.35087"
+       stroke="#736fea"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path514" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_woke id_wrong"
+       d="m 297.86829,-118.64966 a 111.80988,111.80988 0 0 1 67.26635,-84.9496"
+       stroke="#f0f0fc"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path516" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_shower id_throb"
+       d="m -148.04903,73.345535 a 18.781574,18.781574 0 0 1 13.25757,-3.86837"
+       stroke="#ffffff"
+       stroke-width="2.81818"
+       stroke-opacity="1"
+       id="path518" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_sick id_withdrawl"
+       d="m 202.56171,48.839626 a 20.672529,20.672529 0 0 1 15.58166,4.209065"
+       stroke="#ffffff"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path520" />
+    <path
+       stroke-linecap="round"
+       fill="none"
+       class="id_spoon id_weighed"
+       d="m 161.70764,200.09845 a 21.330529,21.330529 0 0 1 16.29837,4.64934"
+       stroke="#ca0020"
+       stroke-width="0.1"
+       stroke-opacity="1"
+       id="path522" />
+  </g>
+  <g
+     id="nodes"
+     transform="translate(-2.1216735,0.49462748)">
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="143.2397"
+       class="id_achieve"
+       cy="176.94556"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle525" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="167.00117"
+       class="id_orgasm"
+       cy="170.61433"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle527" />
+    <circle
+       fill-opacity="1"
+       fill="#6662e9"
+       r="4.5999999"
+       cx="89.828491"
+       class="id_alert"
+       cy="-154.88707"
+       stroke="#4744a3"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle529" />
+    <circle
+       fill-opacity="1"
+       fill="#6662e9"
+       r="4.5999999"
+       cx="71.600082"
+       class="id_allow"
+       cy="-154.10962"
+       stroke="#4744a3"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle531" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="11.729228"
+       cx="53.354736"
+       class="id_amount"
+       cy="-304.51886"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle533" />
+    <circle
+       fill-opacity="1"
+       fill="#b2b0f4"
+       r="24.194803"
+       cx="92.48259"
+       class="id_increase"
+       cy="-246.82407"
+       stroke="#7c7baa"
+       stroke-opacity="1"
+       stroke-width="4.20779"
+       id="circle535" />
+    <circle
+       fill-opacity="1"
+       fill="#f6d4d9"
+       r="24.194803"
+       cx="-46.566368"
+       class="id_reason"
+       cy="-283.84531"
+       stroke="#ac9497"
+       stroke-opacity="1"
+       stroke-width="4.20779"
+       id="circle537" />
+    <circle
+       fill-opacity="1"
+       fill="#db546a"
+       r="4.5999999"
+       cx="363.85361"
+       class="id_angry"
+       cy="-153.48769"
+       stroke="#993a4a"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle539" />
+    <circle
+       fill-opacity="1"
+       fill="#db546a"
+       r="16.563787"
+       cx="403.47958"
+       class="id_type"
+       cy="-147.89946"
+       stroke="#993a4a"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle541" />
+    <circle
+       fill-opacity="1"
+       fill="#d1d0f8"
+       r="27.484163"
+       cx="-20.20826"
+       class="id_anxiety"
+       cy="317.40793"
+       stroke="#9291ad"
+       stroke-opacity="1"
+       stroke-width="4.77985"
+       id="circle543" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="27.484163"
+       cx="-236.49001"
+       class="id_big"
+       cy="-35.779507"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="4.77985"
+       id="circle545" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="87.002243"
+       class="id_decrease"
+       cy="328.08295"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle547" />
+    <circle
+       fill-opacity="1"
+       fill="#c0bef6"
+       r="46"
+       cx="-21.768614"
+       class="id_depression"
+       cy="452.2309"
+       stroke="#8685ac"
+       stroke-opacity="1"
+       stroke-width="8"
+       id="circle549" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="11.729228"
+       cx="74.222649"
+       class="id_quit"
+       cy="401.80405"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle551" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="4.5999999"
+       cx="70.899315"
+       class="id_relax"
+       cy="334.44385"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle553" />
+    <circle
+       fill-opacity="1"
+       fill="#b2b0f4"
+       r="4.5999999"
+       cx="52.724037"
+       class="id_social"
+       cy="343.89117"
+       stroke="#7c7baa"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle555" />
+    <circle
+       fill-opacity="1"
+       fill="#bdbbf5"
+       r="11.729228"
+       cx="-305.15231"
+       class="id_anxious"
+       cy="165.98494"
+       stroke="#8482ab"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle557" />
+    <circle
+       fill-opacity="1"
+       fill="#deddfa"
+       r="27.484163"
+       cx="-334.24411"
+       class="id_noticed"
+       cy="362.69986"
+       stroke="#9b9aaf"
+       stroke-opacity="1"
+       stroke-width="4.77985"
+       id="circle559" />
+    <circle
+       fill-opacity="1"
+       fill="#b2b0f4"
+       r="16.563787"
+       cx="-349.95856"
+       class="id_thought"
+       cy="250.91576"
+       stroke="#7c7baa"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle561" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="386.19992"
+       class="id_approach"
+       cy="-184.14612"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle563" />
+    <circle
+       fill-opacity="1"
+       fill="#edecfc"
+       r="27.484163"
+       cx="325.82516"
+       class="id_stop"
+       cy="-267.35324"
+       stroke="#a5a5b0"
+       stroke-opacity="1"
+       stroke-width="4.77985"
+       id="circle565" />
+    <circle
+       fill-opacity="1"
+       fill="#fbecef"
+       r="16.563787"
+       cx="-162.6593"
+       class="id_asleep"
+       cy="-194.32797"
+       stroke="#afa5a7"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle567" />
+    <circle
+       fill-opacity="1"
+       fill="#d1d0f8"
+       r="4.5999999"
+       cx="-177.50478"
+       class="id_fall"
+       cy="-231.20294"
+       stroke="#9291ad"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle569" />
+    <circle
+       fill-opacity="1"
+       fill="#eda9b4"
+       r="11.729228"
+       cx="-198.05898"
+       class="id_fell"
+       cy="-253.96712"
+       stroke="#a5767d"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle571" />
+    <circle
+       fill-opacity="1"
+       fill="#eae9fc"
+       r="16.563787"
+       cx="-144.91731"
+       class="id_wake"
+       cy="-253.96712"
+       stroke="#a3a3b0"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle573" />
+    <circle
+       fill-opacity="1"
+       fill="#8d89ee"
+       r="4.5999999"
+       cx="251.75496"
+       class="id_attack"
+       cy="113.43745"
+       stroke="#625fa6"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle575" />
+    <circle
+       fill-opacity="1"
+       fill="#9794f0"
+       r="11.729228"
+       cx="240.15924"
+       class="id_panic"
+       cy="81.469498"
+       stroke="#6967a8"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle577" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="271.08728"
+       class="id_awake"
+       cy="60.898693"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle579" />
+    <circle
+       fill-opacity="1"
+       fill="#cccaf7"
+       r="16.563787"
+       cx="318.37811"
+       class="id_listen"
+       cy="68.308701"
+       stroke="#8e8dac"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle581" />
+    <circle
+       fill-opacity="1"
+       fill="#6662e9"
+       r="4.5999999"
+       cx="29.424824"
+       class="id_base"
+       cy="272.61615"
+       stroke="#4744a3"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle583" />
+    <circle
+       fill-opacity="1"
+       fill="#da4e64"
+       r="4.5999999"
+       cx="176.76166"
+       class="id_beat"
+       cy="-383.12521"
+       stroke="#983646"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle585" />
+    <circle
+       fill-opacity="1"
+       fill="#ea9eaa"
+       r="33.441555"
+       cx="229.68976"
+       class="id_heart"
+       cy="-464.14511"
+       stroke="#a36e76"
+       stroke-opacity="1"
+       stroke-width="5.81592"
+       id="circle587" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="83.500008"
+       class="id_best"
+       cy="-38.176414"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle589" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="66.192368"
+       class="id_book"
+       cy="-38.687748"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle591" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="11.729228"
+       cx="-301.64069"
+       class="id_burn"
+       cy="-67.752907"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle593" />
+    <circle
+       fill-opacity="1"
+       fill="#8d89ee"
+       r="11.729228"
+       cx="-326.80066"
+       class="id_difficult"
+       cy="-24.885317"
+       stroke="#625fa6"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle595" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="-296.4928"
+       class="id_mistake"
+       cy="-36.034863"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle597" />
+    <circle
+       fill-opacity="1"
+       fill="#a9a6f2"
+       r="20.603807"
+       cx="-179.96106"
+       class="id_mood"
+       cy="-103.01855"
+       stroke="#7674a9"
+       stroke-opacity="1"
+       stroke-width="3.58327"
+       id="circle599" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="-180.35719"
+       class="id_negative"
+       cy="-47.709087"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle601" />
+    <circle
+       fill-opacity="1"
+       fill="#f0bbc3"
+       r="11.729228"
+       cx="210.89436"
+       class="id_blood"
+       cy="-379.69949"
+       stroke="#a88288"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle603" />
+    <circle
+       fill-opacity="1"
+       fill="#f0bbc3"
+       r="11.729228"
+       cx="122.08355"
+       class="id_pressure"
+       cy="-433.28467"
+       stroke="#a88288"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle605" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="16.563787"
+       cx="167.50938"
+       class="id_blur"
+       cy="129.1774"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle607" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="152.7473"
+       class="id_change"
+       cy="68.230309"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle609" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="139.689"
+       class="id_run"
+       cy="56.91312"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle611" />
+    <circle
+       fill-opacity="1"
+       fill="#f6d4d9"
+       r="11.729228"
+       cx="124.4845"
+       class="id_vision"
+       cy="87.00795"
+       stroke="#ac9497"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle613" />
+    <circle
+       fill-opacity="1"
+       fill="#b2b0f4"
+       r="4.5999999"
+       cx="280.80682"
+       class="id_bore"
+       cy="50.06638"
+       stroke="#7c7baa"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle615" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="152.80453"
+       class="id_bpm"
+       cy="-456.80984"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle617" />
+    <circle
+       fill-opacity="1"
+       fill="#c6c4f6"
+       r="20.603807"
+       cx="-180.0903"
+       class="id_brain"
+       cy="36.639519"
+       stroke="#8a89ac"
+       stroke-opacity="1"
+       stroke-width="3.58327"
+       id="circle619" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="-230.37794"
+       class="id_dead"
+       cy="20.501354"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle621" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="11.729228"
+       cx="-349.25766"
+       class="id_tingle"
+       cy="-59.018539"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle623" />
+    <circle
+       fill-opacity="1"
+       fill="#c6c4f6"
+       r="11.729228"
+       cx="-339.86063"
+       class="id_wean"
+       cy="23.213114"
+       stroke="#8a89ac"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle625" />
+    <circle
+       fill-opacity="1"
+       fill="#e47f8f"
+       r="4.5999999"
+       cx="178.45683"
+       class="id_break"
+       cy="-414.39697"
+       stroke="#9f5864"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle627" />
+    <circle
+       fill-opacity="1"
+       fill="#e68796"
+       r="20.603807"
+       cx="182.67624"
+       class="id_gain"
+       cy="-326.98419"
+       stroke="#a15e69"
+       stroke-opacity="1"
+       stroke-width="3.58327"
+       id="circle629" />
+    <circle
+       fill-opacity="1"
+       fill="#a09df1"
+       r="16.563787"
+       cx="142.23305"
+       class="id_breath"
+       cy="-9.4469166"
+       stroke="#706da8"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle631" />
+    <circle
+       fill-opacity="1"
+       fill="#7c78ec"
+       r="11.729228"
+       cx="214.44113"
+       class="id_deeply"
+       cy="12.084225"
+       stroke="#5654a5"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle633" />
+    <circle
+       fill-opacity="1"
+       fill="#c6c4f6"
+       r="4.5999999"
+       cx="181.67307"
+       class="id_followed"
+       cy="25.4452"
+       stroke="#8a89ac"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle635" />
+    <circle
+       fill-opacity="1"
+       fill="#7c78ec"
+       r="11.729228"
+       cx="184.79021"
+       class="id_inhale"
+       cy="-38.090725"
+       stroke="#5654a5"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle637" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="11.729228"
+       cx="-101.61876"
+       class="id_breathe"
+       cy="35.585793"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle639" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="4.5999999"
+       cx="-61.27232"
+       class="id_lethargic"
+       cy="23.779762"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle641" />
+    <circle
+       fill-opacity="1"
+       fill="#ca0020"
+       r="4.5999999"
+       cx="-72.198723"
+       class="id_uneasy"
+       cy="15.889552"
+       stroke="#8d0016"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle643" />
+    <circle
+       fill-opacity="1"
+       fill="#eda9b4"
+       r="11.729228"
+       cx="-113.93948"
+       class="id_build"
+       cy="113.85587"
+       stroke="#a5767d"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle645" />
+    <circle
+       fill-opacity="1"
+       fill="#eda9b4"
+       r="11.729228"
+       cx="-87.143623"
+       class="id_influence"
+       cy="86.135735"
+       stroke="#a5767d"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle647" />
+    <circle
+       fill-opacity="1"
+       fill="#eda9b4"
+       r="11.729228"
+       cx="-59.214939"
+       class="id_tolerance"
+       cy="130.37547"
+       stroke="#a5767d"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle649" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="-289.27695"
+       class="id_similar"
+       cy="-13.646337"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle651" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="11.729228"
+       cx="157.65422"
+       class="id_case"
+       cy="-101.53006"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle653" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="145.77461"
+       class="id_father"
+       cy="-75.420029"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle655" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="169.65724"
+       class="id_forever"
+       cy="-68.977257"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle657" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="16.563787"
+       cx="361.81161"
+       class="id_cause"
+       cy="-99.76078"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle659" />
+    <circle
+       fill-opacity="1"
+       fill="#8d89ee"
+       r="4.5999999"
+       cx="317.2467"
+       class="id_reaction"
+       cy="-127.02577"
+       stroke="#625fa6"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle661" />
+    <circle
+       fill-opacity="1"
+       fill="#e47f8f"
+       r="4.5999999"
+       cx="112.58051"
+       class="id_chest"
+       cy="165.59479"
+       stroke="#9f5864"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle663" />
+    <circle
+       fill-opacity="1"
+       fill="#e47f8f"
+       r="4.5999999"
+       cx="130.4688"
+       class="id_pain"
+       cy="165.96361"
+       stroke="#9f5864"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle665" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="11.729228"
+       cx="-230.06808"
+       class="id_chew"
+       cy="71.545662"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle667" />
+    <circle
+       fill-opacity="1"
+       fill="#9794f0"
+       r="24.194803"
+       cx="-281.60178"
+       class="id_normal"
+       cy="-134.10565"
+       stroke="#6967a8"
+       stroke-opacity="1"
+       stroke-width="4.20779"
+       id="circle669" />
+    <circle
+       fill-opacity="1"
+       fill="#d1d0f8"
+       r="11.729228"
+       cx="-289.73444"
+       class="id_swallow"
+       cy="9.0695353"
+       stroke="#9291ad"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle671" />
+    <circle
+       fill-opacity="1"
+       fill="#f9e2e6"
+       r="16.563787"
+       cx="-64.555168"
+       class="id_class"
+       cy="233.39035"
+       stroke="#ae9ea1"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle673" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="-74.365898"
+       class="id_disturb"
+       cy="177.36755"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle675" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="11.729228"
+       cx="-103.42922"
+       class="id_problem"
+       cy="197.02449"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle677" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="-59.417332"
+       class="id_teacher"
+       cy="183.69751"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle679" />
+    <circle
+       fill-opacity="1"
+       fill="#e47f8f"
+       r="4.5999999"
+       cx="69.054092"
+       class="id_cold"
+       cy="350.15604"
+       stroke="#9f5864"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle681" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="4.5999999"
+       cx="60.921501"
+       class="id_combine"
+       cy="-137.62122"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle683" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="4.5999999"
+       cx="36.990299"
+       class="id_guess"
+       cy="-143.995"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle685" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="4.5999999"
+       cx="15.390285"
+       class="id_concern"
+       cy="85.522377"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle687" />
+    <circle
+       fill-opacity="1"
+       fill="#807cec"
+       r="20.603807"
+       cx="27.259821"
+       class="id_handle"
+       cy="175.81958"
+       stroke="#5956a5"
+       stroke-opacity="1"
+       stroke-width="3.58327"
+       id="circle689" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="-37.422443"
+       class="id_constant"
+       cy="-135.7346"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle691" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="16.563787"
+       cx="-22.286734"
+       class="id_headache"
+       cy="-41.886066"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle693" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="11.729228"
+       cx="119.92282"
+       class="id_continue"
+       cy="303.31326"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle695" />
+    <circle
+       fill-opacity="1"
+       fill="#6662e9"
+       r="16.563787"
+       cx="137.81245"
+       class="id_someone"
+       cy="358.4014"
+       stroke="#4744a3"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle697" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="70.130066"
+       class="id_country"
+       cy="211.89647"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle699" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="16.563787"
+       cx="128.95381"
+       class="id_treatment"
+       cy="226.54166"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle701" />
+    <circle
+       fill-opacity="1"
+       fill="#6662e9"
+       r="4.5999999"
+       cx="-313.61066"
+       class="id_cut"
+       cy="310.93094"
+       stroke="#4744a3"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle703" />
+    <circle
+       fill-opacity="1"
+       fill="#a09df1"
+       r="20.603807"
+       cx="-201.41197"
+       class="id_symptoms"
+       cy="326.35849"
+       stroke="#706da8"
+       stroke-opacity="1"
+       stroke-width="3.58327"
+       id="circle705" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="122.26352"
+       class="id_damn"
+       cy="-133.60451"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle707" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="140.61226"
+       class="id_idiot"
+       cy="-132.85521"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle709" />
+    <circle
+       fill-opacity="1"
+       fill="#d9d7f9"
+       r="16.563787"
+       cx="70.356094"
+       class="id_dangerous"
+       cy="121.69099"
+       stroke="#9796ae"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle711" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="11.729228"
+       cx="-3.8065233"
+       class="id_include"
+       cy="99.527954"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle713" />
+    <circle
+       fill-opacity="1"
+       fill="#8d89ee"
+       r="4.5999999"
+       cx="39.411568"
+       class="id_wear"
+       cy="90.316605"
+       stroke="#625fa6"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle715" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="27.484163"
+       cx="-166.39197"
+       class="id_depressed"
+       cy="268.58945"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="4.77985"
+       id="circle717" />
+    <circle
+       fill-opacity="1"
+       fill="#dcdbfa"
+       r="30.550606"
+       cx="-394.2449"
+       class="id_doctor"
+       cy="194.68182"
+       stroke="#9a99af"
+       stroke-opacity="1"
+       stroke-width="5.31315"
+       id="circle719" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="4.5999999"
+       cx="-299.22528"
+       class="id_happy"
+       cy="278.62311"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle721" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="4.5999999"
+       cx="-420.94711"
+       class="id_hate"
+       cy="250.52249"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle723" />
+    <circle
+       fill-opacity="1"
+       fill="#dbdaf9"
+       r="27.484163"
+       cx="-250.29128"
+       class="id_help"
+       cy="213.89876"
+       stroke="#9998ae"
+       stroke-opacity="1"
+       stroke-width="4.77985"
+       id="circle725" />
+    <circle
+       fill-opacity="1"
+       fill="#e47f8f"
+       r="11.729228"
+       cx="-291.37143"
+       class="id_seek"
+       cy="299.96146"
+       stroke="#9f5864"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle727" />
+    <circle
+       fill-opacity="1"
+       fill="#f4cbd2"
+       r="11.729228"
+       cx="23.207716"
+       class="id_episode"
+       cy="362.26584"
+       stroke="#aa8e93"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle729" />
+    <circle
+       fill-opacity="1"
+       fill="#8d89ee"
+       r="4.5999999"
+       cx="100.82188"
+       class="id_extreme"
+       cy="386.53436"
+       stroke="#625fa6"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle731" />
+    <circle
+       fill-opacity="1"
+       fill="#e47f8f"
+       r="4.5999999"
+       cx="71.031868"
+       class="id_major"
+       cy="371.0603"
+       stroke="#9f5864"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle733" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="4.5999999"
+       cx="85.710938"
+       class="id_suddenly"
+       cy="341.69913"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle735" />
+    <circle
+       fill-opacity="1"
+       fill="#e47f8f"
+       r="4.5999999"
+       cx="178.86974"
+       class="id_detail"
+       cy="164.03163"
+       stroke="#9f5864"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle737" />
+    <circle
+       fill-opacity="1"
+       fill="#e47f8f"
+       r="4.5999999"
+       cx="195.26868"
+       class="id_fair"
+       cy="170.15915"
+       stroke="#9f5864"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle739" />
+    <circle
+       fill-opacity="1"
+       fill="#eb9fab"
+       r="11.729228"
+       cx="230.93254"
+       class="id_develop"
+       cy="156.80742"
+       stroke="#a46f77"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle741" />
+    <circle
+       fill-opacity="1"
+       fill="#e47f8f"
+       r="16.563787"
+       cx="260.42819"
+       class="id_insomnia"
+       cy="198.04539"
+       stroke="#9f5864"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle743" />
+    <circle
+       fill-opacity="1"
+       fill="#eb9fab"
+       r="11.729228"
+       cx="293.53534"
+       class="id_resistance"
+       cy="138.90538"
+       stroke="#a46f77"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle745" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="4.5999999"
+       cx="-288.47363"
+       class="id_text"
+       cy="44.963707"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle747" />
+    <circle
+       fill-opacity="1"
+       fill="#b2b0f4"
+       r="4.5999999"
+       cx="-334.39609"
+       class="id_dizziness"
+       cy="302.10443"
+       stroke="#7c7baa"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle749" />
+    <circle
+       fill-opacity="1"
+       fill="#8d89ee"
+       r="20.603807"
+       cx="-404.27756"
+       class="id_withdrawal"
+       cy="281.52432"
+       stroke="#625fa6"
+       stroke-opacity="1"
+       stroke-width="3.58327"
+       id="circle751" />
+    <circle
+       fill-opacity="1"
+       fill="#a3a1f1"
+       r="11.729228"
+       cx="-441.77914"
+       class="id_full"
+       cy="321.66913"
+       stroke="#7270a8"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle753" />
+    <circle
+       fill-opacity="1"
+       fill="#d1d0f8"
+       r="11.729228"
+       cx="-458.4404"
+       class="id_prescribe"
+       cy="390.13864"
+       stroke="#9291ad"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle755" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="-385.75922"
+       class="id_regular"
+       cy="386.0498"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle757" />
+    <circle
+       fill-opacity="1"
+       fill="#544ee6"
+       r="11.729228"
+       cx="-254.59933"
+       class="id_release"
+       cy="33.609409"
+       stroke="#3a36a1"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle759" />
+    <circle
+       fill-opacity="1"
+       fill="#807cec"
+       r="11.729228"
+       cx="43.125965"
+       class="id_dos"
+       cy="31.68009"
+       stroke="#5956a5"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle761" />
+    <circle
+       fill-opacity="1"
+       fill="#8d89ee"
+       r="11.729228"
+       cx="-16.454664"
+       class="id_intentional"
+       cy="47.62743"
+       stroke="#625fa6"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle763" />
+    <circle
+       fill-opacity="1"
+       fill="#807cec"
+       r="11.729228"
+       cx="11.332132"
+       class="id_miss"
+       cy="2.9184308"
+       stroke="#5956a5"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle765" />
+    <circle
+       fill-opacity="1"
+       fill="#e894a2"
+       r="20.603807"
+       cx="247.32028"
+       class="id_dreams"
+       cy="-144.71286"
+       stroke="#a26771"
+       stroke-opacity="1"
+       stroke-width="3.58327"
+       id="circle767" />
+    <circle
+       fill-opacity="1"
+       fill="#9d9af0"
+       r="16.563787"
+       cx="321.19635"
+       class="id_medication"
+       cy="-59.233505"
+       stroke="#6d6ba8"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle769" />
+    <circle
+       fill-opacity="1"
+       fill="#eda9b4"
+       r="4.5999999"
+       cx="355.09427"
+       class="id_pay"
+       cy="-138.87984"
+       stroke="#a5767d"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle771" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="11.729228"
+       cx="288.66309"
+       class="id_strange"
+       cy="-203.7628"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle773" />
+    <circle
+       fill-opacity="1"
+       fill="#eda9b4"
+       r="4.5999999"
+       cx="286.08862"
+       class="id_vivid"
+       cy="-74.87648"
+       stroke="#a5767d"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle775" />
+    <circle
+       fill-opacity="1"
+       fill="#ceccf7"
+       r="27.484163"
+       cx="394.6221"
+       class="id_drink"
+       cy="-23.32762"
+       stroke="#908eac"
+       stroke-opacity="1"
+       stroke-width="4.77985"
+       id="circle777" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="344.39633"
+       class="id_middle"
+       cy="-123.38365"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle779" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="405.65451"
+       class="id_tire"
+       cy="-87.986488"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle781" />
+    <circle
+       fill-opacity="1"
+       fill="#b2b0f4"
+       r="4.5999999"
+       cx="87.530449"
+       class="id_dysfunction"
+       cy="30.964594"
+       stroke="#7c7baa"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle783" />
+    <circle
+       fill-opacity="1"
+       fill="#b2b0f4"
+       r="4.5999999"
+       cx="68.061928"
+       class="id_sexual"
+       cy="20.452198"
+       stroke="#7c7baa"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle785" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="4.5999999"
+       cx="-382.49799"
+       class="id_effective"
+       cy="334.07867"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle787" />
+    <circle
+       fill-opacity="1"
+       fill="#ca0020"
+       r="4.5999999"
+       cx="54.596058"
+       class="id_electric"
+       cy="-8.7271881"
+       stroke="#8d0016"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle789" />
+    <circle
+       fill-opacity="1"
+       fill="#ca0020"
+       r="4.5999999"
+       cx="78.49987"
+       class="id_shock"
+       cy="-2.3140683"
+       stroke="#8d0016"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle791" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="53.572399"
+       class="id_emotional"
+       cy="66.17485"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle793" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="76.228455"
+       class="id_mess"
+       cy="60.594143"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle795" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="4.5999999"
+       cx="57.150009"
+       class="id_energy"
+       cy="-31.115829"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle797" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="4.5999999"
+       cx="30.818161"
+       class="id_positive"
+       cy="-24.083391"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle799" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="4.5999999"
+       cx="46.074306"
+       class="id_entire"
+       cy="81.472656"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle801" />
+    <circle
+       fill-opacity="1"
+       fill="#eda9b4"
+       r="4.5999999"
+       cx="91.034607"
+       class="id_manic"
+       cy="378.29034"
+       stroke="#a5767d"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle803" />
+    <circle
+       fill-opacity="1"
+       fill="#d9d7f9"
+       r="11.729228"
+       cx="-163.20355"
+       class="id_lose"
+       cy="-303.86349"
+       stroke="#9796ae"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle805" />
+    <circle
+       fill-opacity="1"
+       fill="#f7dadf"
+       r="16.563787"
+       cx="-70.27092"
+       class="id_figure"
+       cy="-112.70252"
+       stroke="#ac989c"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle807" />
+    <circle
+       fill-opacity="1"
+       fill="#8d89ee"
+       r="4.5999999"
+       cx="-51.254654"
+       class="id_sober"
+       cy="-146.09164"
+       stroke="#625fa6"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle809" />
+    <circle
+       fill-opacity="1"
+       fill="#8d89ee"
+       r="4.5999999"
+       cx="-37.422443"
+       class="id_survive"
+       cy="-83.97348"
+       stroke="#625fa6"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle811" />
+    <circle
+       fill-opacity="1"
+       fill="#ca0020"
+       r="20.603807"
+       cx="3.6069624"
+       class="id_wait"
+       cy="-109.64173"
+       stroke="#8d0016"
+       stroke-opacity="1"
+       stroke-width="3.58327"
+       id="circle813" />
+    <circle
+       fill-opacity="1"
+       fill="#8d89ee"
+       r="4.5999999"
+       cx="-406.17102"
+       class="id_fine"
+       cy="339.06909"
+       stroke="#625fa6"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle815" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="4.5999999"
+       cx="103.73302"
+       class="id_focused"
+       cy="10.282178"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle817" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="4.5999999"
+       cx="91.397095"
+       class="id_sex"
+       cy="3.3007405"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle819" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="-46.768162"
+       class="id_foot"
+       cy="360.53775"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle821" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="16.563787"
+       cx="70.552147"
+       class="id_fuck"
+       cy="282.46539"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle823" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="54.388969"
+       class="id_footstep"
+       cy="379.00256"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle825" />
+    <circle
+       fill-opacity="1"
+       fill="#8d89ee"
+       r="4.5999999"
+       cx="-8.8165426"
+       class="id_free"
+       cy="-338.17389"
+       stroke="#625fa6"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle827" />
+    <circle
+       fill-opacity="1"
+       fill="#c6c4f6"
+       r="11.729228"
+       cx="41.120384"
+       class="id_sample"
+       cy="-336.11258"
+       stroke="#8a89ac"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle829" />
+    <circle
+       fill-opacity="1"
+       fill="#e47f8f"
+       r="4.5999999"
+       cx="196.23184"
+       class="id_participate"
+       cy="-407.35004"
+       stroke="#9f5864"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle831" />
+    <circle
+       fill-opacity="1"
+       fill="#f7dadf"
+       r="11.729228"
+       cx="145.66238"
+       class="id_pound"
+       cy="-396.18491"
+       stroke="#ac989c"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle833" />
+    <circle
+       fill-opacity="1"
+       fill="#e999a5"
+       r="4.5999999"
+       cx="166.72513"
+       class="id_weight"
+       cy="-372.85043"
+       stroke="#a36b73"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle835" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="90.04586"
+       class="id_general"
+       cy="54.290344"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle837" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="114.74162"
+       class="id_manage"
+       cy="47.285767"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle839" />
+    <circle
+       fill-opacity="1"
+       fill="#df6579"
+       r="11.729228"
+       cx="-83.699173"
+       class="id_hope"
+       cy="-63.382919"
+       stroke="#9c4654"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle841" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="-25.73011"
+       class="id_therapy"
+       cy="-147.98605"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle843" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="144.85007"
+       class="id_monitor"
+       cy="-365.7403"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle845" />
+    <circle
+       fill-opacity="1"
+       fill="#eda9b4"
+       r="4.5999999"
+       cx="169.3978"
+       class="id_pulse"
+       cy="-421.4693"
+       stroke="#a5767d"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle847" />
+    <circle
+       fill-opacity="1"
+       fill="#eb9fab"
+       r="16.563787"
+       cx="329.08698"
+       class="id_shake"
+       cy="-170.29933"
+       stroke="#a46f77"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle849" />
+    <circle
+       fill-opacity="1"
+       fill="#ca0020"
+       r="4.5999999"
+       cx="-40.259327"
+       class="id_horrendous"
+       cy="-159.61885"
+       stroke="#8d0016"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle851" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="-409.6868"
+       class="id_horrible"
+       cy="327.6781"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle853" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="4.5999999"
+       cx="13.322732"
+       class="id_huge"
+       cy="-267.07971"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle855" />
+    <circle
+       fill-opacity="1"
+       fill="#eda9b4"
+       r="16.563787"
+       cx="1.5308954"
+       class="id_recreational"
+       cy="-218.9128"
+       stroke="#a5767d"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle857" />
+    <circle
+       fill-opacity="1"
+       fill="#e47f8f"
+       r="4.5999999"
+       cx="259.84811"
+       class="id_terrible"
+       cy="127.73479"
+       stroke="#9f5864"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle859" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="-15.516127"
+       class="id_intend"
+       cy="82.855293"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle861" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="-30.85693"
+       class="id_question"
+       cy="74.09655"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle863" />
+    <circle
+       fill-opacity="1"
+       fill="#544ee6"
+       r="4.5999999"
+       cx="330.99124"
+       class="id_irrelevant"
+       cy="-117.05812"
+       stroke="#3a36a1"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle865" />
+    <circle
+       fill-opacity="1"
+       fill="#8d89ee"
+       r="11.729228"
+       cx="250.09225"
+       class="id_thinking"
+       cy="-87.840378"
+       stroke="#625fa6"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle867" />
+    <circle
+       fill-opacity="1"
+       fill="#b2b0f4"
+       r="4.5999999"
+       cx="-193.0731"
+       class="id_job"
+       cy="-284.22968"
+       stroke="#7c7baa"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle869" />
+    <circle
+       fill-opacity="1"
+       fill="#6662e9"
+       r="4.5999999"
+       cx="-40.098797"
+       class="id_kill"
+       cy="4.1921153"
+       stroke="#4744a3"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle871" />
+    <circle
+       fill-opacity="1"
+       fill="#6662e9"
+       r="4.5999999"
+       cx="-57.378796"
+       class="id_knock"
+       cy="4.1921153"
+       stroke="#4744a3"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle873" />
+    <circle
+       fill-opacity="1"
+       fill="#8d89ee"
+       r="4.5999999"
+       cx="-43.88018"
+       class="id_legs"
+       cy="59.734547"
+       stroke="#625fa6"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle875" />
+    <circle
+       fill-opacity="1"
+       fill="#8d89ee"
+       r="4.5999999"
+       cx="-63.189369"
+       class="id_twitch"
+       cy="59.063591"
+       stroke="#625fa6"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle877" />
+    <circle
+       fill-opacity="1"
+       fill="#ca0020"
+       r="4.5999999"
+       cx="119.17397"
+       class="id_level"
+       cy="-42.855644"
+       stroke="#8d0016"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle879" />
+    <circle
+       fill-opacity="1"
+       fill="#ca0020"
+       r="4.5999999"
+       cx="99.455894"
+       class="id_mirror"
+       cy="-45.689152"
+       stroke="#8d0016"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle881" />
+    <circle
+       fill-opacity="1"
+       fill="#b2b0f4"
+       r="4.5999999"
+       cx="281.47891"
+       class="id_sleeping"
+       cy="84.520638"
+       stroke="#7c7baa"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle883" />
+    <circle
+       fill-opacity="1"
+       fill="#e8919f"
+       r="4.5999999"
+       cx="53.361198"
+       class="id_memory"
+       cy="-99.345619"
+       stroke="#a2656f"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle885" />
+    <circle
+       fill-opacity="1"
+       fill="#f4cbd2"
+       r="16.563787"
+       cx="98.180878"
+       class="id_term"
+       cy="-94.857491"
+       stroke="#aa8e93"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle887" />
+    <circle
+       fill-opacity="1"
+       fill="#8d89ee"
+       r="4.5999999"
+       cx="-158.57925"
+       class="id_swing"
+       cy="-55.622097"
+       stroke="#625fa6"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle889" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="-193.0731"
+       class="id_morning"
+       cy="-223.70454"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle891" />
+    <circle
+       fill-opacity="1"
+       fill="#8d89ee"
+       r="11.729228"
+       cx="-164.01114"
+       class="id_weird"
+       cy="-22.680853"
+       stroke="#625fa6"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle893" />
+    <circle
+       fill-opacity="1"
+       fill="#8d89ee"
+       r="4.5999999"
+       cx="-266.35376"
+       class="id_seizures"
+       cy="384.90887"
+       stroke="#625fa6"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle895" />
+    <circle
+       fill-opacity="1"
+       fill="#ca0020"
+       r="4.5999999"
+       cx="-327.12601"
+       class="id_significant"
+       cy="318.02863"
+       stroke="#8d0016"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle897" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="-296.11612"
+       class="id_towards"
+       cy="267.97723"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle899" />
+    <circle
+       fill-opacity="1"
+       fill="#ca0020"
+       r="4.5999999"
+       cx="-8.5717468"
+       class="id_onset"
+       cy="-154.88571"
+       stroke="#8d0016"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle901" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="59.763935"
+       class="id_outpatient"
+       cy="-113.92641"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle903" />
+    <circle
+       fill-opacity="1"
+       fill="#b2b0f4"
+       r="4.5999999"
+       cx="229.34637"
+       class="id_suffer"
+       cy="108.70361"
+       stroke="#7c7baa"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle905" />
+    <circle
+       fill-opacity="1"
+       fill="#8d89ee"
+       r="4.5999999"
+       cx="-87.424225"
+       class="id_switch"
+       cy="166.05037"
+       stroke="#625fa6"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle907" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="59.763935"
+       class="id_produce"
+       cy="-80.192627"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle909" />
+    <circle
+       fill-opacity="1"
+       fill="#1b14de"
+       r="4.5999999"
+       cx="-184.42212"
+       class="id_pupil"
+       cy="-66.119217"
+       stroke="#120e9b"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle911" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="89.387581"
+       class="id_raise"
+       cy="204.91617"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle913" />
+    <circle
+       fill-opacity="1"
+       fill="#ca0020"
+       r="4.5999999"
+       cx="13.07177"
+       class="id_report"
+       cy="-315.93887"
+       stroke="#8d0016"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle915" />
+    <circle
+       fill-opacity="1"
+       fill="#ca0020"
+       r="4.5999999"
+       cx="-5.4330163"
+       class="id_sedate"
+       cy="-322.88763"
+       stroke="#8d0016"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle917" />
+    <circle
+       fill-opacity="1"
+       fill="#807cec"
+       r="16.563787"
+       cx="257.27481"
+       class="id_school"
+       cy="-35.889946"
+       stroke="#5956a5"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle919" />
+    <circle
+       fill-opacity="1"
+       fill="#6662e9"
+       r="4.5999999"
+       cx="405.63528"
+       class="id_shit"
+       cy="-111.58537"
+       stroke="#4744a3"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle921" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="11.729228"
+       cx="296.50873"
+       class="id_woke"
+       cy="-105.9732"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="2.03987"
+       id="circle923" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="-151.55438"
+       class="id_shower"
+       cy="76.910995"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle925" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="-129.9187"
+       class="id_throb"
+       cy="70.598015"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle927" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="197.72775"
+       class="id_sick"
+       cy="50.117481"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle929" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="221.67641"
+       class="id_withdrawl"
+       cy="56.586716"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle931" />
+    <circle
+       fill-opacity="1"
+       fill="#e47f8f"
+       r="4.5999999"
+       cx="163.3817"
+       class="id_slight"
+       cy="79.495377"
+       stroke="#9f5864"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle933" />
+    <circle
+       fill-opacity="1"
+       fill="#ca0020"
+       r="4.5999999"
+       cx="156.86079"
+       class="id_spoon"
+       cy="201.32648"
+       stroke="#8d0016"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle935" />
+    <circle
+       fill-opacity="1"
+       fill="#ca0020"
+       r="4.5999999"
+       cx="181.47549"
+       class="id_weighed"
+       cy="208.34818"
+       stroke="#8d0016"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle937" />
+    <circle
+       fill-opacity="1"
+       fill="#e2e1fa"
+       r="16.563787"
+       cx="382.25516"
+       class="id_wrong"
+       cy="-209.17029"
+       stroke="#9e9daf"
+       stroke-opacity="1"
+       stroke-width="2.88066"
+       id="circle939" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="-177.50478"
+       class="id_till"
+       cy="-276.73129"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle941" />
+    <circle
+       fill-opacity="1"
+       fill="#ffffff"
+       r="4.5999999"
+       cx="86.153008"
+       class="id_tough"
+       cy="241.6311"
+       stroke="#b2b2b2"
+       stroke-opacity="1"
+       stroke-width="0.8"
+       id="circle943" />
+  </g>
+  <g
+     id="node-labels"
+     transform="translate(-2.1216735,0.49462748)">
+    <text
+       font-size="8px"
+       x="143.2397"
+       y="178.40063"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_achieve"
+       id="text946">achieve</text>
+    <text
+       font-size="8px"
+       x="167.00117"
+       y="172.0961"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_orgasm"
+       id="text948">orgasm</text>
+    <text
+       font-size="8px"
+       x="89.828491"
+       y="-153.43199"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_alert"
+       id="text950">alert</text>
+    <text
+       font-size="8px"
+       x="71.600082"
+       y="-152.65454"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_allow"
+       id="text952">allow</text>
+    <text
+       font-size="20px"
+       x="53.354736"
+       y="-300.96091"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_amount"
+       id="text954">amount</text>
+    <text
+       font-size="42px"
+       x="92.48259"
+       y="-239.18491"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_increase"
+       id="text956">increase</text>
+    <text
+       font-size="42px"
+       x="-46.566368"
+       y="-278.15439"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_reason"
+       id="text958">reason</text>
+    <text
+       font-size="8px"
+       x="363.85361"
+       y="-152.00592"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_angry"
+       id="text960">angry</text>
+    <text
+       font-size="29px"
+       x="403.47958"
+       y="-141.29846"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_type"
+       id="text962">type</text>
+    <text
+       font-size="48px"
+       x="-20.20826"
+       y="328.52512"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_anxiety"
+       id="text964">anxiety</text>
+    <text
+       font-size="48px"
+       x="-236.49001"
+       y="-24.662319"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_big"
+       id="text966">big</text>
+    <text
+       font-size="8px"
+       x="87.002243"
+       y="329.53802"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_decrease"
+       id="text968">decrease</text>
+    <text
+       font-size="80px"
+       x="-21.768614"
+       y="470.52518"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_depression"
+       id="text970">depression</text>
+    <text
+       font-size="20px"
+       x="74.222649"
+       y="406.37762"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_quit"
+       id="text972">quit</text>
+    <text
+       font-size="8px"
+       x="70.899315"
+       y="335.89893"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_relax"
+       id="text974">relax</text>
+    <text
+       font-size="8px"
+       x="52.724037"
+       y="345.34625"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_social"
+       id="text976">social</text>
+    <text
+       font-size="20px"
+       x="-305.15231"
+       y="169.62263"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_anxious"
+       id="text978">anxious</text>
+    <text
+       font-size="48px"
+       x="-334.24411"
+       y="371.43033"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_noticed"
+       id="text980">noticed</text>
+    <text
+       font-size="29px"
+       x="-349.95856"
+       y="257.63239"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_thought"
+       id="text982">thought</text>
+    <text
+       font-size="8px"
+       x="386.19992"
+       y="-182.3167"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_approach"
+       id="text984">approach</text>
+    <text
+       font-size="48px"
+       x="325.82516"
+       y="-256.56808"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_stop"
+       id="text986">stop</text>
+    <text
+       font-size="29px"
+       x="-162.6593"
+       y="-187.6963"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_asleep"
+       id="text988">asleep</text>
+    <text
+       font-size="8px"
+       x="-177.50478"
+       y="-229.72313"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_fall"
+       id="text990">fall</text>
+    <text
+       font-size="20px"
+       x="-198.05898"
+       y="-250.26758"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_fell"
+       id="text992">fell</text>
+    <text
+       font-size="29px"
+       x="-144.91731"
+       y="-248.69246"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_wake"
+       id="text994">wake</text>
+    <text
+       font-size="8px"
+       x="251.75496"
+       y="114.89252"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_attack"
+       id="text996">attack</text>
+    <text
+       font-size="20px"
+       x="240.15924"
+       y="86.043068"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_panic"
+       id="text998">panic</text>
+    <text
+       font-size="8px"
+       x="271.08728"
+       y="62.353771"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_awake"
+       id="text1000">awake</text>
+    <text
+       font-size="29px"
+       x="318.37811"
+       y="73.583359"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_listen"
+       id="text1002">listen</text>
+    <text
+       font-size="8px"
+       x="29.424824"
+       y="274.07123"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_base"
+       id="text1004">base</text>
+    <text
+       font-size="8px"
+       x="176.76166"
+       y="-381.67014"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_beat"
+       id="text1006">beat</text>
+    <text
+       font-size="58px"
+       x="229.68976"
+       y="-453.59579"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_heart"
+       id="text1008">heart</text>
+    <text
+       font-size="8px"
+       x="83.500008"
+       y="-36.721336"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_best"
+       id="text1010">best</text>
+    <text
+       font-size="8px"
+       x="66.192368"
+       y="-37.23267"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_book"
+       id="text1012">book</text>
+    <text
+       font-size="20px"
+       x="-301.64069"
+       y="-64.115211"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_burn"
+       id="text1014">burn</text>
+    <text
+       font-size="20px"
+       x="-326.80066"
+       y="-21.185772"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_difficult"
+       id="text1016">difficult</text>
+    <text
+       font-size="8px"
+       x="-296.4928"
+       y="-34.579784"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_mistake"
+       id="text1018">mistake</text>
+    <text
+       font-size="36px"
+       x="-179.96106"
+       y="-96.470703"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_mood"
+       id="text1020">mood</text>
+    <text
+       font-size="8px"
+       x="-180.35719"
+       y="-45.856224"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_negative"
+       id="text1022">negative</text>
+    <text
+       font-size="20px"
+       x="210.89436"
+       y="-376.0618"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_blood"
+       id="text1024">blood</text>
+    <text
+       font-size="20px"
+       x="122.08355"
+       y="-429.63882"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_pressure"
+       id="text1026">pressure</text>
+    <text
+       font-size="29px"
+       x="167.50938"
+       y="134.45206"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_blur"
+       id="text1028">blur</text>
+    <text
+       font-size="8px"
+       x="152.7473"
+       y="70.083176"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_change"
+       id="text1030">change</text>
+    <text
+       font-size="8px"
+       x="139.689"
+       y="57.997105"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_run"
+       id="text1032">run</text>
+    <text
+       font-size="20px"
+       x="124.4845"
+       y="90.645645"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_vision"
+       id="text1034">vision</text>
+    <text
+       font-size="8px"
+       x="280.80682"
+       y="51.521458"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_bore"
+       id="text1036">bore</text>
+    <text
+       font-size="8px"
+       x="152.80453"
+       y="-454.98041"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_bpm"
+       id="text1038">bpm</text>
+    <text
+       font-size="36px"
+       x="-180.0903"
+       y="43.18737"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_brain"
+       id="text1040">brain</text>
+    <text
+       font-size="8px"
+       x="-230.37794"
+       y="21.956432"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_dead"
+       id="text1042">dead</text>
+    <text
+       font-size="20px"
+       x="-349.25766"
+       y="-54.386379"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_tingle"
+       id="text1044">tingle</text>
+    <text
+       font-size="20px"
+       x="-339.86063"
+       y="25.923075"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_wean"
+       id="text1046">wean</text>
+    <text
+       font-size="8px"
+       x="178.45683"
+       y="-412.94189"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_break"
+       id="text1048">break</text>
+    <text
+       font-size="36px"
+       x="182.67624"
+       y="-318.6463"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_gain"
+       id="text1050">gain</text>
+    <text
+       font-size="29px"
+       x="142.23305"
+       y="-4.1722584"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_breath"
+       id="text1052">breath</text>
+    <text
+       font-size="20px"
+       x="214.44113"
+       y="16.716387"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_deeply"
+       id="text1054">deeply</text>
+    <text
+       font-size="8px"
+       x="181.67307"
+       y="26.925018"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_followed"
+       id="text1056">followed</text>
+    <text
+       font-size="20px"
+       x="184.79021"
+       y="-34.45303"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_inhale"
+       id="text1058">inhale</text>
+    <text
+       font-size="20px"
+       x="-101.61876"
+       y="39.223488"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_breathe"
+       id="text1060">breathe</text>
+    <text
+       font-size="8px"
+       x="-61.27232"
+       y="25.632627"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_lethargic"
+       id="text1062">lethargic</text>
+    <text
+       font-size="8px"
+       x="-72.198723"
+       y="17.371323"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_uneasy"
+       id="text1064">uneasy</text>
+    <text
+       font-size="20px"
+       x="-113.93948"
+       y="117.49356"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_build"
+       id="text1066">build</text>
+    <text
+       font-size="20px"
+       x="-87.143623"
+       y="89.835281"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_influence"
+       id="text1068">influence</text>
+    <text
+       font-size="20px"
+       x="-59.214939"
+       y="134.01317"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_tolerance"
+       id="text1070">tolerance</text>
+    <text
+       font-size="8px"
+       x="-289.27695"
+       y="-12.191258"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_similar"
+       id="text1072">similar</text>
+    <text
+       font-size="20px"
+       x="157.65422"
+       y="-98.820099"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_case"
+       id="text1074">case</text>
+    <text
+       font-size="8px"
+       x="145.77461"
+       y="-73.940208"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_father"
+       id="text1076">father</text>
+    <text
+       font-size="8px"
+       x="169.65724"
+       y="-67.497437"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_forever"
+       id="text1078">forever</text>
+    <text
+       font-size="29px"
+       x="361.81161"
+       y="-95.831337"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_cause"
+       id="text1080">cause</text>
+    <text
+       font-size="8px"
+       x="317.2467"
+       y="-125.57069"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_reaction"
+       id="text1082">reaction</text>
+    <text
+       font-size="8px"
+       x="112.58051"
+       y="167.04987"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_chest"
+       id="text1084">chest</text>
+    <text
+       font-size="8px"
+       x="130.4688"
+       y="167.79303"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_pain"
+       id="text1086">pain</text>
+    <text
+       font-size="20px"
+       x="-230.06808"
+       y="75.183357"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_chew"
+       id="text1088">chew</text>
+    <text
+       font-size="42px"
+       x="-281.60178"
+       y="-126.46649"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_normal"
+       id="text1090">normal</text>
+    <text
+       font-size="20px"
+       x="-289.73444"
+       y="12.707231"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_swallow"
+       id="text1092">swallow</text>
+    <text
+       font-size="29px"
+       x="-64.555168"
+       y="238.66501"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_class"
+       id="text1094">class</text>
+    <text
+       font-size="8px"
+       x="-74.365898"
+       y="178.82263"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_disturb"
+       id="text1096">disturb</text>
+    <text
+       font-size="20px"
+       x="-103.42922"
+       y="201.59805"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_problem"
+       id="text1098">problem</text>
+    <text
+       font-size="8px"
+       x="-59.417332"
+       y="185.15259"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_teacher"
+       id="text1100">teacher</text>
+    <text
+       font-size="8px"
+       x="69.054092"
+       y="351.61111"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_cold"
+       id="text1102">cold</text>
+    <text
+       font-size="8px"
+       x="60.921501"
+       y="-136.16614"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_combine"
+       id="text1104">combine</text>
+    <text
+       font-size="8px"
+       x="36.990299"
+       y="-142.51323"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_guess"
+       id="text1106">guess</text>
+    <text
+       font-size="8px"
+       x="15.390285"
+       y="86.606361"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_concern"
+       id="text1108">concern</text>
+    <text
+       font-size="36px"
+       x="27.259821"
+       y="182.36743"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_handle"
+       id="text1110">handle</text>
+    <text
+       font-size="8px"
+       x="-37.422443"
+       y="-134.31143"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_constant"
+       id="text1112">constant</text>
+    <text
+       font-size="29px"
+       x="-22.286734"
+       y="-36.611408"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_headache"
+       id="text1114">headache</text>
+    <text
+       font-size="20px"
+       x="119.92282"
+       y="306.95096"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_continue"
+       id="text1116">continue</text>
+    <text
+       font-size="29px"
+       x="137.81245"
+       y="362.33084"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_someone"
+       id="text1118">someone</text>
+    <text
+       font-size="8px"
+       x="70.130066"
+       y="213.71744"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_country"
+       id="text1120">country</text>
+    <text
+       font-size="29px"
+       x="128.95381"
+       y="231.70067"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_treatment"
+       id="text1122">treatment</text>
+    <text
+       font-size="8px"
+       x="-313.61066"
+       y="312.35413"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_cut"
+       id="text1124">cut</text>
+    <text
+       font-size="36px"
+       x="-201.41197"
+       y="334.55283"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_symptoms"
+       id="text1126">symptoms</text>
+    <text
+       font-size="8px"
+       x="122.26352"
+       y="-132.14943"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_damn"
+       id="text1128">damn</text>
+    <text
+       font-size="8px"
+       x="140.61226"
+       y="-131.40013"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_idiot"
+       id="text1130">idiot</text>
+    <text
+       font-size="29px"
+       x="70.356094"
+       y="128.40762"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_dangerous"
+       id="text1132">dangerous</text>
+    <text
+       font-size="20px"
+       x="-3.8065233"
+       y="103.16565"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_include"
+       id="text1134">include</text>
+    <text
+       font-size="8px"
+       x="39.411568"
+       y="91.400589"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_wear"
+       id="text1136">wear</text>
+    <text
+       font-size="48px"
+       x="-166.39197"
+       y="279.56601"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_depressed"
+       id="text1138">depressed</text>
+    <text
+       font-size="53px"
+       x="-394.2449"
+       y="204.32172"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_doctor"
+       id="text1140">doctor</text>
+    <text
+       font-size="8px"
+       x="-299.22528"
+       y="280.47598"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_happy"
+       id="text1142">happy</text>
+    <text
+       font-size="8px"
+       x="-420.94711"
+       y="251.97757"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_hate"
+       id="text1144">hate</text>
+    <text
+       font-size="48px"
+       x="-250.29128"
+       y="224.87532"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_help"
+       id="text1146">help</text>
+    <text
+       font-size="20px"
+       x="-291.37143"
+       y="303.59915"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_seek"
+       id="text1148">seek</text>
+    <text
+       font-size="20px"
+       x="23.207716"
+       y="366.83942"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_episode"
+       id="text1150">episode</text>
+    <text
+       font-size="8px"
+       x="100.82188"
+       y="387.95755"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_extreme"
+       id="text1152">extreme</text>
+    <text
+       font-size="8px"
+       x="71.031868"
+       y="372.91318"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_major"
+       id="text1154">major</text>
+    <text
+       font-size="8px"
+       x="85.710938"
+       y="343.552"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_suddenly"
+       id="text1156">suddenly</text>
+    <text
+       font-size="8px"
+       x="178.86974"
+       y="165.48671"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_detail"
+       id="text1158">detail</text>
+    <text
+       font-size="8px"
+       x="195.26868"
+       y="171.63896"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_fair"
+       id="text1160">fair</text>
+    <text
+       font-size="20px"
+       x="230.93254"
+       y="161.38098"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_develop"
+       id="text1162">develop</text>
+    <text
+       font-size="29px"
+       x="260.42819"
+       y="203.32005"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_insomnia"
+       id="text1164">insomnia</text>
+    <text
+       font-size="20px"
+       x="293.53534"
+       y="142.54308"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_resistance"
+       id="text1166">resistance</text>
+    <text
+       font-size="8px"
+       x="-288.47363"
+       y="46.386883"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_text"
+       id="text1168">text</text>
+    <text
+       font-size="8px"
+       x="-334.39609"
+       y="303.55951"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_dizziness"
+       id="text1170">dizziness</text>
+    <text
+       font-size="36px"
+       x="-404.27756"
+       y="288.07217"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_withdrawal"
+       id="text1172">withdrawal</text>
+    <text
+       font-size="20px"
+       x="-441.77914"
+       y="325.36868"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_full"
+       id="text1174">full</text>
+    <text
+       font-size="20px"
+       x="-458.4404"
+       y="394.71222"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_prescribe"
+       id="text1176">prescribe</text>
+    <text
+       font-size="8px"
+       x="-385.75922"
+       y="387.90268"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_regular"
+       id="text1178">regular</text>
+    <text
+       font-size="20px"
+       x="-254.59933"
+       y="37.247105"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_release"
+       id="text1180">release</text>
+    <text
+       font-size="20px"
+       x="43.125965"
+       y="35.317787"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_dos"
+       id="text1182">dos</text>
+    <text
+       font-size="20px"
+       x="-16.454664"
+       y="51.265125"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_intentional"
+       id="text1184">intentional</text>
+    <text
+       font-size="20px"
+       x="11.332132"
+       y="6.5561261"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_miss"
+       id="text1186">miss</text>
+    <text
+       font-size="36px"
+       x="247.32028"
+       y="-138.16501"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_dreams"
+       id="text1188">dreams</text>
+    <text
+       font-size="29px"
+       x="321.19635"
+       y="-53.958847"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_medication"
+       id="text1190">medication</text>
+    <text
+       font-size="8px"
+       x="355.09427"
+       y="-137.39807"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_pay"
+       id="text1192">pay</text>
+    <text
+       font-size="20px"
+       x="288.66309"
+       y="-199.21039"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_strange"
+       id="text1194">strange</text>
+    <text
+       font-size="8px"
+       x="286.08862"
+       y="-73.421402"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_vivid"
+       id="text1196">vivid</text>
+    <text
+       font-size="48px"
+       x="394.6221"
+       y="-14.597151"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_drink"
+       id="text1198">drink</text>
+    <text
+       font-size="8px"
+       x="344.39633"
+       y="-121.92857"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_middle"
+       id="text1200">middle</text>
+    <text
+       font-size="8px"
+       x="405.65451"
+       y="-86.53141"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_tire"
+       id="text1202">tire</text>
+    <text
+       font-size="8px"
+       x="87.530449"
+       y="32.842197"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_dysfunction"
+       id="text1204">dysfunction</text>
+    <text
+       font-size="8px"
+       x="68.061928"
+       y="21.907276"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_sexual"
+       id="text1206">sexual</text>
+    <text
+       font-size="8px"
+       x="-382.49799"
+       y="335.5585"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_effective"
+       id="text1208">effective</text>
+    <text
+       font-size="8px"
+       x="54.596058"
+       y="-7.27211"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_electric"
+       id="text1210">electric</text>
+    <text
+       font-size="8px"
+       x="78.49987"
+       y="-0.85899031"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_shock"
+       id="text1212">shock</text>
+    <text
+       font-size="8px"
+       x="53.572399"
+       y="67.629929"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_emotional"
+       id="text1214">emotional</text>
+    <text
+       font-size="8px"
+       x="76.228455"
+       y="61.678127"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_mess"
+       id="text1216">mess</text>
+    <text
+       font-size="8px"
+       x="57.150009"
+       y="-29.634058"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_energy"
+       id="text1218">energy</text>
+    <text
+       font-size="8px"
+       x="30.818161"
+       y="-22.253963"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_positive"
+       id="text1220">positive</text>
+    <text
+       font-size="8px"
+       x="46.074306"
+       y="82.927734"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_entire"
+       id="text1222">entire</text>
+    <text
+       font-size="8px"
+       x="91.034607"
+       y="379.74542"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_manic"
+       id="text1224">manic</text>
+    <text
+       font-size="20px"
+       x="-163.20355"
+       y="-300.2258"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_lose"
+       id="text1226">lose</text>
+    <text
+       font-size="29px"
+       x="-70.27092"
+       y="-105.89621"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_figure"
+       id="text1228">figure</text>
+    <text
+       font-size="8px"
+       x="-51.254654"
+       y="-144.63657"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_sober"
+       id="text1230">sober</text>
+    <text
+       font-size="8px"
+       x="-37.422443"
+       y="-82.518402"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_survive"
+       id="text1232">survive</text>
+    <text
+       font-size="36px"
+       x="3.6069624"
+       y="-103.09388"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_wait"
+       id="text1234">wait</text>
+    <text
+       font-size="8px"
+       x="-406.17102"
+       y="340.54892"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_fine"
+       id="text1236">fine</text>
+    <text
+       font-size="8px"
+       x="103.73302"
+       y="11.761995"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_focused"
+       id="text1238">focused</text>
+    <text
+       font-size="8px"
+       x="91.397095"
+       y="4.3847246"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_sex"
+       id="text1240">sex</text>
+    <text
+       font-size="8px"
+       x="-46.768162"
+       y="362.01758"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_foot"
+       id="text1242">foot</text>
+    <text
+       font-size="29px"
+       x="70.552147"
+       y="287.82974"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_fuck"
+       id="text1244">fuck</text>
+    <text
+       font-size="8px"
+       x="54.388969"
+       y="380.85675"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_footstep"
+       id="text1246">footstep</text>
+    <text
+       font-size="8px"
+       x="-8.8165426"
+       y="-336.69406"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_free"
+       id="text1248">free</text>
+    <text
+       font-size="20px"
+       x="41.120384"
+       y="-331.539"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_sample"
+       id="text1250">sample</text>
+    <text
+       font-size="8px"
+       x="196.23184"
+       y="-405.5206"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_participate"
+       id="text1252">participate</text>
+    <text
+       font-size="20px"
+       x="145.66238"
+       y="-391.61133"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_pound"
+       id="text1254">pound</text>
+    <text
+       font-size="8px"
+       x="166.72513"
+       y="-370.99756"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_weight"
+       id="text1256">weight</text>
+    <text
+       font-size="8px"
+       x="90.04586"
+       y="56.143208"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_general"
+       id="text1258">general</text>
+    <text
+       font-size="8px"
+       x="114.74162"
+       y="48.767536"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_manage"
+       id="text1260">manage</text>
+    <text
+       font-size="20px"
+       x="-83.699173"
+       y="-58.809353"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_hope"
+       id="text1262">hope</text>
+    <text
+       font-size="8px"
+       x="-25.73011"
+       y="-146.13319"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_therapy"
+       id="text1264">therapy</text>
+    <text
+       font-size="8px"
+       x="144.85007"
+       y="-364.28522"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_monitor"
+       id="text1266">monitor</text>
+    <text
+       font-size="8px"
+       x="169.3978"
+       y="-419.63986"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_pulse"
+       id="text1268">pulse</text>
+    <text
+       font-size="29px"
+       x="329.08698"
+       y="-165.02467"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_shake"
+       id="text1270">shake</text>
+    <text
+       font-size="8px"
+       x="-40.259327"
+       y="-158.16377"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_horrendous"
+       id="text1272">horrendous</text>
+    <text
+       font-size="8px"
+       x="-409.6868"
+       y="329.13318"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_horrible"
+       id="text1274">horrible</text>
+    <text
+       font-size="8px"
+       x="13.322732"
+       y="-265.22684"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_huge"
+       id="text1276">huge</text>
+    <text
+       font-size="29px"
+       x="1.5308954"
+       y="-213.63814"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_recreational"
+       id="text1278">recreational</text>
+    <text
+       font-size="8px"
+       x="259.84811"
+       y="129.18988"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_terrible"
+       id="text1280">terrible</text>
+    <text
+       font-size="8px"
+       x="-15.516127"
+       y="84.310371"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_intend"
+       id="text1282">intend</text>
+    <text
+       font-size="8px"
+       x="-30.85693"
+       y="75.92598"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_question"
+       id="text1284">question</text>
+    <text
+       font-size="8px"
+       x="330.99124"
+       y="-115.60304"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_irrelevant"
+       id="text1286">irrelevant</text>
+    <text
+       font-size="20px"
+       x="250.09225"
+       y="-83.208214"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_thinking"
+       id="text1288">thinking</text>
+    <text
+       font-size="8px"
+       x="-193.0731"
+       y="-282.3768"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_job"
+       id="text1290">job</text>
+    <text
+       font-size="8px"
+       x="-40.098797"
+       y="5.6237559"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_kill"
+       id="text1292">kill</text>
+    <text
+       font-size="8px"
+       x="-57.378796"
+       y="5.6471934"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_knock"
+       id="text1294">knock</text>
+    <text
+       font-size="8px"
+       x="-43.88018"
+       y="61.58741"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_legs"
+       id="text1296">legs</text>
+    <text
+       font-size="8px"
+       x="-63.189369"
+       y="60.518669"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_twitch"
+       id="text1298">twitch</text>
+    <text
+       font-size="8px"
+       x="119.17397"
+       y="-41.400566"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_level"
+       id="text1300">level</text>
+    <text
+       font-size="8px"
+       x="99.455894"
+       y="-44.234074"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_mirror"
+       id="text1302">mirror</text>
+    <text
+       font-size="8px"
+       x="281.47891"
+       y="86.373505"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_sleeping"
+       id="text1304">sleeping</text>
+    <text
+       font-size="8px"
+       x="53.361198"
+       y="-97.863846"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_memory"
+       id="text1306">memory</text>
+    <text
+       font-size="29px"
+       x="98.180878"
+       y="-89.698471"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_term"
+       id="text1308">term</text>
+    <text
+       font-size="8px"
+       x="-158.57925"
+       y="-53.769234"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_swing"
+       id="text1310">swing</text>
+    <text
+       font-size="8px"
+       x="-193.0731"
+       y="-221.85168"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_morning"
+       id="text1312">morning</text>
+    <text
+       font-size="20px"
+       x="-164.01114"
+       y="-19.043158"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_weird"
+       id="text1314">weird</text>
+    <text
+       font-size="8px"
+       x="-266.35376"
+       y="386.36395"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_seizures"
+       id="text1316">seizures</text>
+    <text
+       font-size="8px"
+       x="-327.12601"
+       y="319.90625"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_significant"
+       id="text1318">significant</text>
+    <text
+       font-size="8px"
+       x="-296.11612"
+       y="269.43231"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_towards"
+       id="text1320">towards</text>
+    <text
+       font-size="8px"
+       x="-8.5717468"
+       y="-153.46254"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_onset"
+       id="text1322">onset</text>
+    <text
+       font-size="8px"
+       x="59.763935"
+       y="-112.09698"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_outpatient"
+       id="text1324">outpatient</text>
+    <text
+       font-size="8px"
+       x="229.34637"
+       y="110.18343"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_suffer"
+       id="text1326">suffer</text>
+    <text
+       font-size="8px"
+       x="-87.424225"
+       y="167.50545"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_switch"
+       id="text1328">switch</text>
+    <text
+       font-size="8px"
+       x="59.763935"
+       y="-78.363197"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_produce"
+       id="text1330">produce</text>
+    <text
+       font-size="8px"
+       x="-184.42212"
+       y="-64.289787"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_pupil"
+       id="text1332">pupil</text>
+    <text
+       font-size="8px"
+       x="89.387581"
+       y="206.37125"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_raise"
+       id="text1334">raise</text>
+    <text
+       font-size="8px"
+       x="13.07177"
+       y="-314.14136"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_report"
+       id="text1336">report</text>
+    <text
+       font-size="8px"
+       x="-5.4330163"
+       y="-321.43256"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_sedate"
+       id="text1338">sedate</text>
+    <text
+       font-size="29px"
+       x="257.27481"
+       y="-30.615288"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_school"
+       id="text1340">school</text>
+    <text
+       font-size="8px"
+       x="405.63528"
+       y="-110.13029"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_shit"
+       id="text1342">shit</text>
+    <text
+       font-size="20px"
+       x="296.50873"
+       y="-102.3355"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_woke"
+       id="text1344">woke</text>
+    <text
+       font-size="8px"
+       x="-151.55438"
+       y="78.366074"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_shower"
+       id="text1346">shower</text>
+    <text
+       font-size="8px"
+       x="-129.9187"
+       y="72.053093"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_throb"
+       id="text1348">throb</text>
+    <text
+       font-size="8px"
+       x="197.72775"
+       y="51.572559"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_sick"
+       id="text1350">sick</text>
+    <text
+       font-size="8px"
+       x="221.67641"
+       y="58.041794"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_withdrawl"
+       id="text1352">withdrawl</text>
+    <text
+       font-size="8px"
+       x="163.3817"
+       y="81.348244"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_slight"
+       id="text1354">slight</text>
+    <text
+       font-size="8px"
+       x="156.86079"
+       y="202.78481"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_spoon"
+       id="text1356">spoon</text>
+    <text
+       font-size="8px"
+       x="181.47549"
+       y="210.20103"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_weighed"
+       id="text1358">weighed</text>
+    <text
+       font-size="29px"
+       x="382.25516"
+       y="-203.79887"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_wrong"
+       id="text1360">wrong</text>
+    <text
+       font-size="8px"
+       x="-177.50478"
+       y="-275.28598"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_till"
+       id="text1362">till</text>
+    <text
+       font-size="8px"
+       x="86.153008"
+       y="243.48396"
+       fill="#000000"
+       style="dominant-baseline:central;text-anchor:middle"
+       font-family="Arial"
+       class="id_tough"
+       id="text1364">tough</text>
+  </g>
+  <g
+     id="layer1"
+     transform="matrix(0.54547283,0,0,0.54547283,484.89094,-607.676)">
+    <g
+       id="g43725"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#fefcfd"
+         d="m -0.5,-0.5 c 44.6667,0 89.3333,0 134,0 0,311 0,622 0,933 -44.6667,0 -89.3333,0 -134,0 0,-311 0,-622 0,-933 z"
+         id="path43723" />
+    </g>
+    <g
+       id="g43729"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#c2203c"
+         d="m 131.5,24.5 c -43.3333,0 -86.6667,0 -130,0 0,-7.6667 0,-15.33333 0,-23 43.3333,0 86.6667,0 130,0 0,7.66667 0,15.3333 0,23 z"
+         id="path43727" />
+    </g>
+    <g
+       id="g43733"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#c52c46"
+         d="m 1.5,24.5 c 43.3333,0 86.6667,0 130,0 0,7.6667 0,15.3333 0,23 -43.3333,0 -86.6667,0 -130,0 0,-7.6667 0,-15.3333 0,-23 z"
+         id="path43731" />
+    </g>
+    <g
+       id="g43737"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#c8344d"
+         d="m 1.5,47.5 c 43.3333,0 86.6667,0 130,0 0,5 0,10 0,15 -43.3333,0 -86.6667,0 -130,0 0,-5 0,-10 0,-15 z"
+         id="path43735" />
+    </g>
+    <g
+       id="g43741"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#cb3f57"
+         d="m 1.5,62.5 c 43.3333,0 86.6667,0 130,0 0,8 0,16 0,24 -43.3333,0 -86.6667,0 -130,0 0,-8 0,-16 0,-24 z"
+         id="path43739" />
+    </g>
+    <g
+       id="g43745"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#ce4a60"
+         d="m 1.5,86.5 c 43.3333,0 86.6667,0 130,0 0,6.3333 0,12.6667 0,19 -43.3333,0 -86.6667,0 -130,0 0,-6.3333 0,-12.6667 0,-19 z"
+         id="path43743" />
+    </g>
+    <g
+       id="g43749"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#d05368"
+         d="m 1.5,105.5 c 43.3333,0 86.6667,0 130,0 0,6.667 0,13.333 0,20 -43.3333,0 -86.6667,0 -130,0 0,-6.667 0,-13.333 0,-20 z"
+         id="path43747" />
+    </g>
+    <g
+       id="g43753"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#d35e71"
+         d="m 1.5,125.5 c 43.3333,0 86.6667,0 130,0 0,8 0,16 0,24 -43.3333,0 -86.6667,0 -130,0 0,-8 0,-16 0,-24 z"
+         id="path43751" />
+    </g>
+    <g
+       id="g43757"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#d56679"
+         d="m 1.5,149.5 c 43.3333,0 86.6667,0 130,0 0,5 0,10 0,15 -43.3333,0 -86.6667,0 -130,0 0,-5 0,-10 0,-15 z"
+         id="path43755" />
+    </g>
+    <g
+       id="g43761"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#d87182"
+         d="m 1.5,164.5 c 43.3333,0 86.6667,0 130,0 0,8 0,16 0,24 -43.3333,0 -86.6667,0 -130,0 0,-8 0,-16 0,-24 z"
+         id="path43759" />
+    </g>
+    <g
+       id="g43765"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#db7c8c"
+         d="m 1.5,188.5 c 43.3333,0 86.6667,0 130,0 0,6.333 0,12.667 0,19 -43.3333,0 -86.6667,0 -130,0 0,-6.333 0,-12.667 0,-19 z"
+         id="path43763" />
+    </g>
+    <g
+       id="g43769"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#de8594"
+         d="m 1.5,207.5 c 43.3333,0 86.6667,0 130,0 0,6.333 0,12.667 0,19 -43.3333,0 -86.6667,0 -130,0 0,-6.333 0,-12.667 0,-19 z"
+         id="path43767" />
+    </g>
+    <g
+       id="g43773"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#e1909d"
+         d="m 1.5,226.5 c 43.3333,0 86.6667,0 130,0 0,8.333 0,16.667 0,25 -43.3333,0 -86.6667,0 -130,0 0,-8.333 0,-16.667 0,-25 z"
+         id="path43771" />
+    </g>
+    <g
+       id="g43777"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#e398a5"
+         d="m 1.5,251.5 c 43.3333,0 86.6667,0 130,0 0,4.667 0,9.333 0,14 -43.3333,0 -86.6667,0 -130,0 0,-4.667 0,-9.333 0,-14 z"
+         id="path43775" />
+    </g>
+    <g
+       id="g43781"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#e6a3ae"
+         d="m 1.5,265.5 c 43.3333,0 86.6667,0 130,0 0,8.333 0,16.667 0,25 -43.3333,0 -86.6667,0 -130,0 0,-8.333 0,-16.667 0,-25 z"
+         id="path43779" />
+    </g>
+    <g
+       id="g43785"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#e9aeb8"
+         d="m 1.5,290.5 c 43.3333,0 86.6667,0 130,0 0,6.333 0,12.667 0,19 -43.3333,0 -86.6667,0 -130,0 0,-6.333 0,-12.667 0,-19 z"
+         id="path43783" />
+    </g>
+    <g
+       id="g43789"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#ebb6bf"
+         d="m 1.5,309.5 c 43.3333,0 86.6667,0 130,0 0,6.333 0,12.667 0,19 -43.3333,0 -86.6667,0 -130,0 0,-6.333 0,-12.667 0,-19 z"
+         id="path43787" />
+    </g>
+    <g
+       id="g43793"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#eec2ca"
+         d="m 1.5,328.5 c 43.3333,0 86.6667,0 130,0 0,8.333 0,16.667 0,25 -43.3333,0 -86.6667,0 -130,0 0,-8.333 0,-16.667 0,-25 z"
+         id="path43791" />
+    </g>
+    <g
+       id="g43797"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#f0cbd1"
+         d="m 1.5,353.5 c 43.3333,0 86.6667,0 130,0 0,4.667 0,9.333 0,14 -43.3333,0 -86.6667,0 -130,0 0,-4.667 0,-9.333 0,-14 z"
+         id="path43795" />
+    </g>
+    <g
+       id="g43801"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#f3d5da"
+         d="m 1.5,367.5 c 43.3333,0 86.6667,0 130,0 0,8 0,16 0,24 -43.3333,0 -86.6667,0 -130,0 0,-8 0,-16 0,-24 z"
+         id="path43799" />
+    </g>
+    <g
+       id="g43805"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#f7e1e5"
+         d="m 1.5,391.5 c 43.3333,0 86.6667,0 130,0 0,8.667 0,17.333 0,26 -43.3333,0 -86.6667,0 -130,0 0,-8.667 0,-17.333 0,-26 z"
+         id="path43803" />
+    </g>
+    <g
+       id="g43809"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#faeef0"
+         d="m 1.5,417.5 c 43.3333,0 86.6667,0 130,0 0,8.333 0,16.667 0,25 -43.3333,0 -86.6667,0 -130,0 0,-8.333 0,-16.667 0,-25 z"
+         id="path43807" />
+    </g>
+    <g
+       id="g43813"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#f3f4fb"
+         d="m 131.5,496.5 c -43.3333,0 -86.6667,0 -130,0 0,-7 0,-14 0,-21 43.3333,0 86.6667,0 130,0 0,7 0,14 0,21 z"
+         id="path43811" />
+    </g>
+    <g
+       id="g43817"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#e5e8f6"
+         d="m 1.5,496.5 c 43.3333,0 86.6667,0 130,0 0,8.667 0,17.333 0,26 -43.3333,0 -86.6667,0 -130,0 0,-8.667 0,-17.333 0,-26 z"
+         id="path43815" />
+    </g>
+    <g
+       id="g43821"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#d9ddf2"
+         d="m 1.5,522.5 c 43.3333,0 86.6667,0 130,0 0,7.667 0,15.333 0,23 -43.3333,0 -86.6667,0 -130,0 0,-7.667 0,-15.333 0,-23 z"
+         id="path43819" />
+    </g>
+    <g
+       id="g43825"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#cdd2ee"
+         d="m 1.5,545.5 c 43.3333,0 86.6667,0 130,0 0,7 0,14 0,21 -43.3333,0 -86.6667,0 -130,0 0,-7 0,-14 0,-21 z"
+         id="path43823" />
+    </g>
+    <g
+       id="g43829"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#c2c8eb"
+         d="m 1.5,566.5 c 43.3333,0 86.6667,0 130,0 0,8.333 0,16.667 0,25 -43.3333,0 -86.6667,0 -130,0 0,-8.333 0,-16.667 0,-25 z"
+         id="path43827" />
+    </g>
+    <g
+       id="g43833"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#b7bee7"
+         d="m 1.5,591.5 c 43.3333,0 86.6667,0 130,0 0,4.667 0,9.333 0,14 -43.3333,0 -86.6667,0 -130,0 0,-4.667 0,-9.333 0,-14 z"
+         id="path43831" />
+    </g>
+    <g
+       id="g43837"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#acb5e3"
+         d="m 1.5,605.5 c 43.3333,0 86.6667,0 130,0 0,7 0,14 0,21 -43.3333,0 -86.6667,0 -130,0 0,-7 0,-14 0,-21 z"
+         id="path43835" />
+    </g>
+    <g
+       id="g43841"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#a1aae0"
+         d="m 1.5,626.5 c 43.3333,0 86.6667,0 130,0 0,7.333 0,14.667 0,22 -43.3333,0 -86.6667,0 -130,0 0,-7.333 0,-14.667 0,-22 z"
+         id="path43839" />
+    </g>
+    <g
+       id="g43845"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#96a0dc"
+         d="m 1.5,648.5 c 43.3333,0 86.6667,0 130,0 0,6.667 0,13.333 0,20 -43.3333,0 -86.6667,0 -130,0 0,-6.667 0,-13.333 0,-20 z"
+         id="path43843" />
+    </g>
+    <g
+       id="g43849"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#8d98d9"
+         d="m 1.5,668.5 c 43.3333,0 86.6667,0 130,0 0,5 0,10 0,15 -43.3333,0 -86.6667,0 -130,0 0,-5 0,-10 0,-15 z"
+         id="path43847" />
+    </g>
+    <g
+       id="g43853"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#828ed5"
+         d="m 1.5,683.5 c 43.3333,0 86.6667,0 130,0 0,8 0,16 0,24 -43.3333,0 -86.6667,0 -130,0 0,-8 0,-16 0,-24 z"
+         id="path43851" />
+    </g>
+    <g
+       id="g43857"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#7583d1"
+         d="m 1.5,707.5 c 43.3333,0 86.6667,0 130,0 0,7.667 0,15.333 0,23 -43.3333,0 -86.6667,0 -130,0 0,-7.667 0,-15.333 0,-23 z"
+         id="path43855" />
+    </g>
+    <g
+       id="g43861"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#6c7ace"
+         d="m 1.5,730.5 c 43.3333,0 86.6667,0 130,0 0,5.333 0,10.667 0,16 -43.3333,0 -86.6667,0 -130,0 0,-5.333 0,-10.667 0,-16 z"
+         id="path43859" />
+    </g>
+    <g
+       id="g43865"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#6171cb"
+         d="m 1.5,746.5 c 43.3333,0 86.6667,0 130,0 0,6.333 0,12.667 0,19 -43.3333,0 -86.6667,0 -130,0 0,-6.333 0,-12.667 0,-19 z"
+         id="path43863" />
+    </g>
+    <g
+       id="g43869"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#5667c7"
+         d="m 1.5,765.5 c 43.3333,0 86.6667,0 130,0 0,7 0,14 0,21 -43.3333,0 -86.6667,0 -130,0 0,-7 0,-14 0,-21 z"
+         id="path43867" />
+    </g>
+    <g
+       id="g43873"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#4e60c4"
+         d="m 1.5,786.5 c 43.3333,0 86.6667,0 130,0 0,4 0,8 0,12 -43.3333,0 -86.6667,0 -130,0 0,-4 0,-8 0,-12 z"
+         id="path43871" />
+    </g>
+    <g
+       id="g43877"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#485ac2"
+         d="m 1.5,798.5 c 43.3333,0 86.6667,0 130,0 0,4 0,8 0,12 -43.3333,0 -86.6667,0 -130,0 0,-4 0,-8 0,-12 z"
+         id="path43875" />
+    </g>
+    <g
+       id="g43881"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#4154c0"
+         d="m 1.5,810.5 c 43.3333,0 86.6667,0 130,0 0,4.333 0,8.667 0,13 -43.3333,0 -86.6667,0 -130,0 0,-4.333 0,-8.667 0,-13 z"
+         id="path43879" />
+    </g>
+    <g
+       id="g43885"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#3b4ebe"
+         d="m 1.5,823.5 c 43.3333,0 86.6667,0 130,0 0,3.667 0,7.333 0,11 -43.3333,0 -86.6667,0 -130,0 0,-3.667 0,-7.333 0,-11 z"
+         id="path43883" />
+    </g>
+    <g
+       id="g43889"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#3549bc"
+         d="m 1.5,834.5 c 43.3333,0 86.6667,0 130,0 0,4 0,8 0,12 -43.3333,0 -86.6667,0 -130,0 0,-4 0,-8 0,-12 z"
+         id="path43887" />
+    </g>
+    <g
+       id="g43893"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#2e43ba"
+         d="m 1.5,846.5 c 43.3333,0 86.6667,0 130,0 0,3.667 0,7.333 0,11 -43.3333,0 -86.6667,0 -130,0 0,-3.667 0,-7.333 0,-11 z"
+         id="path43891" />
+    </g>
+    <g
+       id="g43897"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#283db7"
+         d="m 1.5,857.5 c 43.3333,0 86.6667,0 130,0 0,4 0,8 0,12 -43.3333,0 -86.6667,0 -130,0 0,-4 0,-8 0,-12 z"
+         id="path43895" />
+    </g>
+    <g
+       id="g43901"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#1e34b4"
+         d="m 1.5,869.5 c 43.3333,0 86.6667,0 130,0 0,8 0,16 0,24 -43.3333,0 -86.6667,0 -130,0 0,-8 0,-16 0,-24 z"
+         id="path43899" />
+    </g>
+    <g
+       id="g43905"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#1229b0"
+         d="m 1.5,893.5 c 43.3333,0 86.6667,0 130,0 0,7 0,14 0,21 -43.3333,0 -86.6667,0 -130,0 0,-7 0,-14 0,-21 z"
+         id="path43903" />
+    </g>
+    <g
+       id="g43909"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(1.2740599,0,0,1.1605872,28.765815,887.28725)">
+      <path
+         style="opacity:1"
+         fill="#0921ad"
+         d="m 1.5,914.5 c 43.3333,0 86.6667,0 130,0 0,5.333 0,10.667 0,16 -43.3333,0 -86.6667,0 -130,0 0,-5.333 0,-10.667 0,-16 z"
+         id="path43907" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:48.64px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke-width:1.216"
+       x="211.99582"
+       y="978.2807"
+       id="text44406"
+       transform="scale(1.0477461,0.95442971)"><tspan
+         id="tspan44404"
+         x="211.99582"
+         y="978.2807"
+         style="font-weight:normal;font-size:48.64px;text-align:start;text-anchor:start;stroke-width:1.216">Fast time</tspan><tspan
+         x="211.99582"
+         y="1039.0807"
+         style="font-weight:normal;font-size:48.64px;text-align:start;text-anchor:start;stroke-width:1.216"
+         id="tspan44408">perception</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48.64px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke-width:1.216"
+       x="209.9026"
+       y="1477.3938"
+       id="text44406-5"
+       transform="scale(1.0477461,0.95442972)"><tspan
+         id="tspan44404-9"
+         x="209.9026"
+         y="1477.3938"
+         style="font-weight:normal;font-size:48.64px;text-align:start;text-anchor:start;stroke-width:1.216">Normal time</tspan><tspan
+         x="209.9026"
+         y="1538.1938"
+         style="font-weight:normal;font-size:48.64px;text-align:start;text-anchor:start;stroke-width:1.216"
+         id="tspan44408-8">perception</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48.64px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;fill:#000000;stroke-width:1.216"
+       x="206.42329"
+       y="1984.9376"
+       id="text44406-5-4"
+       transform="scale(1.0477461,0.95442971)"><tspan
+         id="tspan44404-9-4"
+         x="206.42329"
+         y="1984.9376"
+         style="font-weight:normal;font-size:48.64px;text-align:start;text-anchor:start;stroke-width:1.216">Slow time</tspan><tspan
+         x="206.42329"
+         y="2045.7377"
+         style="font-weight:normal;font-size:48.64px;text-align:start;text-anchor:start;stroke-width:1.216"
+         id="tspan44408-8-8">perception</tspan></text>
+  </g>
+</svg>
