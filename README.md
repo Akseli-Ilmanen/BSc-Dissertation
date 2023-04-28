@@ -55,7 +55,7 @@ As another way to interpret the data, I used the [BERTopic library](maartengr.gi
 
 ## Comparing psychoactive substances and classes
 
-One goal of this analysis is to find out which subjective experiences are similar across substances. Below (left) are the co-occurence graphs for a number of substances and classes and BERTopics interactive graphs (right). For the images on the right, you can access them as interactive graphs by clicking on the images. (I recommend using a desktop browser for the latter).  For the classification scheme of substances and classes see the [supplementary material](https://ars.els-cdn.com/content/image/1-s2.0-S105381001830535X-mmc1.pdf) of Martial et al., 2019[^6].
+One goal of this analysis is to find out which subjective experiences are similar across substances. Below are the co-occurence graphs (left) and BERTopics graphs (right) for a number of substances and classes. For the images on the right, you can access them as interactive graphs by clicking on the images. (I recommend using a desktop browser for the latter).  For the classification scheme of substances and classes see the [supplementary material](https://ars.els-cdn.com/content/image/1-s2.0-S105381001830535X-mmc1.pdf) of Martial et al., 2019[^6].
 
 If you are interested in examples for the topics on the right, you can use the [Erowid Quotes finder tool](https://akseli-ilmanen.github.io/BSc-Dissertation/) to find quotes for specific topics. There you can filter topics by class or substance.
 
