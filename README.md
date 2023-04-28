@@ -62,8 +62,10 @@ If you are interested in examples for the topics on the right, you can use the [
 
 | Co-occurence networks          | BERTopic modelling                          |
 :-------------------------:|:-------------------------:
+Serotonergic psychedelics (Class) | Serotonergic psychedelics (Class) 
+<img src="https://raw.githubusercontent.com/Akseli-Ilmanen/BSc-Dissertation/aa4b89b8f0189f7ffa606cedd6b01bf936bd5fd7/Files/Co-occurrence_SVG/Gephi_edited_Serotonergic_psychedelics%20no%20title.svg"   width="400" height="400"> | | [![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/Depressants_sedatives.png)](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_Depressant%20sedatives.html) 
 Depressants/sedatives (Class) | Depressants/ sedatives (Class) 
-<img src="https://raw.githubusercontent.com/Akseli-Ilmanen/BSc-Dissertation/f7ad1e99436bd1766029ea1cd64f12fd014c4bf7/Files/Gephi_Serotonergic_psychedelics.svg"   width="500" height="400"> | [![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/Depressants_sedatives.png)](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_Depressant%20sedatives.html) 
+![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_PNG/Gephi_unedited_Depressant_sedatives.png) | [![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/Depressants_sedatives.png)](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_Depressant%20sedatives.html) 
 Stimulants (Class) | Stimulants (Class)
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_PNG/Gephi_unedited_Stimulants.png) | [![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/Stimulants.png)](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_Stimulants.html) 
 Dissociative psychedelics (Class) | Dissociative psychedelics (Class)
