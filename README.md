@@ -63,7 +63,7 @@ If you are interested in examples for the topics on the right, you can use the [
 | Co-occurence networks          | BERTopic modelling                          |
 :-------------------------:|:-------------------------:
 Depressants/sedatives (Class) | Depressants/ sedatives (Class) 
-![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_PNG/Gephi_unedited_Depressant_sedatives.png) | [![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/Depressants_sedatives.png)](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_Depressant%20sedatives.html) 
+<img src="https://raw.githubusercontent.com/Akseli-Ilmanen/BSc-Dissertation/f7ad1e99436bd1766029ea1cd64f12fd014c4bf7/Files/Gephi_Serotonergic_psychedelics.svg"   width="300" height="300"> | [![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/Depressants_sedatives.png)](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_Depressant%20sedatives.html) 
 Stimulants (Class) | Stimulants (Class)
 ![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/Co-occurrence_PNG/Gephi_unedited_Stimulants.png) | [![image](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/Files/BERTopic_PNG/Stimulants.png)](https://rawcdn.githack.com/Akseli-Ilmanen/BSc-Dissertation/946c2c9da9e0d03a12fca9525976cb009cb58345/BERTopic%20plots/BERTopic_plot_Stimulants.html) 
 Dissociative psychedelics (Class) | Dissociative psychedelics (Class)
