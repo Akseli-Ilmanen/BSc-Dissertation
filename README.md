@@ -33,9 +33,9 @@ Below is a co-occurence network with seed words determining the colour. It was c
 </div>
 
 
-For a visual walkthrough of my workflow for these graphs, see this [YouTube video](https://www.youtube.com/watch?v=U1zzyvW_WjM&list=PLAI16F70Jqg2MmfgT78a60as-cae0amVK).
+For an in-depth walkthrough on how this graph was created, see this [YouTube video](https://www.youtube.com/watch?v=U1zzyvW_WjM&list=PLAI16F70Jqg2MmfgT78a60as-cae0amVK).
 
-This grah was created in Gephi[^4], using the modularity clustering algorithm[^5], commonly known as the [Louvain algorithm](https://en.wikipedia.org/wiki/Louvain_method), and the 'Circle Pack' layout plugin. The Circle Pack layout creates local clusters (circles), where nodes belonging to the same modularity class  are clustered in the same circle. In this sense, we can interpret from the graph that words in the same local clusters might be related. However, one should not read too much into the global structure of the clusters, as their arrangement is not very robust when changing around few parameters (as demonstrated [here](https://youtu.be/U1zzyvW_WjM?t=410)). 
+The brief version: This grah was created in Gephi[^4], using the modularity clustering algorithm[^5], commonly known as the [Louvain algorithm](https://en.wikipedia.org/wiki/Louvain_method), and the 'Circle Pack' layout plugin. The Circle Pack layout creates local clusters (circles), where nodes belonging to the same modularity class  are clustered in the same circle. In this sense, we can interpret from the graph that words in the same local clusters might be related. However, one should not read too much into the global structure of the clusters, as their arrangement is not very robust when changing around few parameters (as demonstrated [here](https://youtu.be/U1zzyvW_WjM?t=410)). 
 
 The colour of nodes and edges are determined by the type of seed words they tend co-occur in (see [methods](https://github.com/Akseli-Ilmanen/BSc-Dissertation/blob/main/README.md#context-window-co-occurence-network-method) visualization). The size of the nodes corresponds to their [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)), whilst the thickness of edges corresponds to their [weight](https://www.sciencedirect.com/science/article/abs/pii/S0167506008706149). 
 
