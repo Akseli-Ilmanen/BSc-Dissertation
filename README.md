@@ -6,12 +6,12 @@ You can read the full dissertation [here](https://drive.google.com/file/d/1x09tP
 
 ## Code
 
-All the code used for this project is accessible in Jupyter Notebook format and supplemented with extensive notes. To replicate my findings for the co-occurrence networks or BERTopic graphs, use the following .ipynb files in this order. 
+All the code used for this project is accessible in Jupyter Notebook format and supplemented with extensive notes. To replicate my findings for the co-occurrence networks or BERTopic graphs, use the following files in the folder 'Code' in this order. 
 
 **Co-occurrence networks**
 - Erowid Data Collection
 - Pre-processing 1
-- Pre-processing 2 (with substances_classes.csv)
+- Pre-processing 2
 - Pre-processing 3
 - Get Time corpus 1
 - Get Tf-ldf
@@ -19,7 +19,7 @@ All the code used for this project is accessible in Jupyter Notebook format and 
 
 **BERTopic graphs**
 - Erowid Data Collection
-- Pre-processing 1 (with substances_classes.csv)
+- Pre-processing 1
 - Pre-processing 2
 - Get Time corpus 2
 - Analysis 2
