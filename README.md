@@ -11,9 +11,25 @@ These are quotes from a psychoactive substance report from the [Erowid Experienc
 
 All the code used for this (ongoing) dissertation is accessible in Jupyter Notebook format and supplemented with extensive notes. Feel free to use it. 
 
-The code is currently incomplete, the rest of it, and a accompanying paper is coming soon.
+**Co-occurrence networks necessary steps**
+- 01. Erowid Data Collection
+- 02. Pre-processing 1
+- 03. Pre-processing 2
+- 04. Pre-processing 3
+- 05. Get Time corpus 1
+- 06. Get Tf-ldf
+- 07. Analysis 1
 
-<br />
+**BERTopic modelling necessary steps**
+- 01. Erowid Data Collection
+- 02. Pre-processing 1
+- 03. Pre-processing 2
+- 08. Get Time corpus 2
+- 09. Analysis 2
+
+**Extra**
+- 10. Null model for analysis 1
+- 11. Other analyses
 
 ## Context-window co-occurence network: Method
 
