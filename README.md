@@ -1,35 +1,31 @@
-# Graph-driven comparative phenomenology of altered time perception
+## Overview
 
-Consider these quotes: 
- > "As to the 'present', well ... perhaps the true line of our perceived travel in time through reality is just going outwards, from the centre of a circle towards the circumference, on an infinite lollipop candy-like spiral; lines in the spiral all featuring eternities of time itself in various repetitions, and the travel in reality prime just being a movement from one candy-line of infinite possibilities to the next, along only one given instance of each realised possibility."
- 
- > "At one point I asked how long it had been and I received the answer "5 minutes", that was after some eternities."
+This project is part of my BSc Dissertation titlted 'Graph-driven comparative phenomenology of altered time perception in over 20,000 trip reports', which can read [here](https://drive.google.com/file/d/1x09tPF6o42Hm1G1-7ySBmzvFHiAgop98/view?usp=share_link).
 
-These are quotes from a psychoactive substance report from the [Erowid Experience Vault](https://erowid.org/experiences/exp_front.shtml/).[^1] Within the total of nearly 40,000 reports, many of them describe experiences of altered time perception. Below is a graph-driven approach to study these experiences.
 
 ## Code
 
-All the code used for this (ongoing) dissertation is accessible in Jupyter Notebook format and supplemented with extensive notes. Feel free to use it. 
+All the code used for this project is accessible in Jupyter Notebook format and supplemented with extensive notes. To replicate my findings for the co-occurrence networks or BERTopic graphs, use the following files in this order. 
 
-**Co-occurrence networks necessary steps**
-- 01. Erowid Data Collection
-- 02. Pre-processing 1
-- 03. Pre-processing 2
-- 04. Pre-processing 3
-- 05. Get Time corpus 1
-- 06. Get Tf-ldf
-- 07. Analysis 1
+**Co-occurrence networks**
+- Erowid Data Collection
+- Pre-processing 1
+- Pre-processing 2
+- Pre-processing 3
+- Get Time corpus 1
+- Get Tf-ldf
+- Analysis 1
 
-**BERTopic modelling necessary steps**
-- 01. Erowid Data Collection
-- 02. Pre-processing 1
-- 03. Pre-processing 2
-- 08. Get Time corpus 2
-- 09. Analysis 2
+**BERTopic graphs**
+- Erowid Data Collection
+- Pre-processing 1
+- Pre-processing 2
+- Get Time corpus 2
+- Analysis 2
 
 **Extra**
-- 10. Null model for analysis 1
-- 11. Other analyses
+- Null model for analysis 1
+- Other analyses
 
 ## Context-window co-occurence network: Method
 
