@@ -1,7 +1,8 @@
 ## Graph-driven comparative phenomenology of altered time perception in over 20,000 trip reports
 
-This project is part of my BSc Dissertation. You can read it [here](https://drive.google.com/file/d/1x09tPF6o42Hm1G1-7ySBmzvFHiAgop98/view?usp=share_link).
+This project is part of my BSc Dissertation. I study trip reports describing experiences with psychoactive substances from the [Erowid Experience Vault](https://erowid.org/experiences/)[^1]. Using graphs (see below!), I explore what kind of subjective expereriences are shared across or are particular to different substances.
 
+You can read the full dissertation [here](https://drive.google.com/file/d/1x09tPF6o42Hm1G1-7ySBmzvFHiAgop98/view?usp=share_link).
 
 ## Code
 
