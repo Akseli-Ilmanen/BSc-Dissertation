@@ -11,7 +11,7 @@ All the code used for this project is accessible in Jupyter Notebook format and 
 **Co-occurrence networks**
 - Erowid Data Collection
 - Pre-processing 1
-- Pre-processing 2
+- Pre-processing 2 (with substances_classes.csv)
 - Pre-processing 3
 - Get Time corpus 1
 - Get Tf-ldf
@@ -19,7 +19,7 @@ All the code used for this project is accessible in Jupyter Notebook format and 
 
 **BERTopic graphs**
 - Erowid Data Collection
-- Pre-processing 1
+- Pre-processing 1 (with substances_classes.csv)
 - Pre-processing 2
 - Get Time corpus 2
 - Analysis 2
