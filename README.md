@@ -1,6 +1,6 @@
-## Overview
+## Graph-driven comparative phenomenology of altered time perception in over 20,000 trip reports
 
-This project is part of my BSc Dissertation titlted 'Graph-driven comparative phenomenology of altered time perception in over 20,000 trip reports', which can read [here](https://drive.google.com/file/d/1x09tPF6o42Hm1G1-7ySBmzvFHiAgop98/view?usp=share_link).
+This project is part of my BSc Dissertation. You can read it [here](https://drive.google.com/file/d/1x09tPF6o42Hm1G1-7ySBmzvFHiAgop98/view?usp=share_link).
 
 
 ## Code
